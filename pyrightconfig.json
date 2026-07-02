@@ -1,3 +1,5 @@
 {
-  "extraPaths": ["."]
+  "include": ["src", "tests", "scripts"],
+  "extraPaths": ["src"],
+  "venv": "SAGVenv"
 }

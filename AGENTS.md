@@ -1,42 +1,61 @@
 # AGENTS.md
-
 ## Mission
-- Project nay la phan mem quan ly phong tin hoc cho giao vien co tich hop ai de phan tich + tool call
-ban chat no la Agent trong hinh hai app quan ly tinh hoc voi cac tinh nang co ban cua app quan ly phong
-tin + AI tu dong hoa.
+Phần mềm quản lý phòng tin học dành cho giáo viên, tích hợp AI Agent để phân tích và thực thi tool calling trong ứng dụng.
 
-## rules
-- Moi khi dinh lam gi day: kiem tra xem user co yeu cau khong. Neu user khong yeu cau thi dung ngay lap tuc
-- Neu m vua bat dau chay va doc file nay, ngay lap tuc hoi user dang lam phan nao cua du an, nhan duoc cau tra loi
-vi du nhung dang lam phan cac api lay thong tin may tinh, v.v
-Hoi dang lam toi dau de nam bat context, pham vi lam viec 
-- Sau khi xac dinh duoc pham vi lam viec, code m viet co the khong chay duoc, nhung no phai hoang thanh muc tieu truoc mat
-Dung vi vai dong code chua chay duoc ma mo rong scope sang pham vi khac
-- Neu code o tinh nang hien tai chua chay duoc vi thieu tinh nang khac, hay code tam bo de chay duoc tai cho + NOTE TODO
-lam tinh nang con thieu thay vi lam luon trong phien lam viec hien tai 
+## Scope Rules
+* **Đúng yêu cầu:** Chỉ thực hiện chính xác những gì được giao. Không tự ý mở rộng phạm vi công việc.
+* **Giới hạn biên:** Phát hiện vấn đề ngoài phạm vi task phải dừng lại và báo cáo, tuyệt đối không tự sửa.
+* **Xử lý dependency phụ thuộc:** Nếu task phụ thuộc vào tính năng chưa tồn tại, chỉ viết phần tối thiểu để hoàn thành task hiện tại và để lại ghi chú `TODO`.
 
 ## Authority
-- Chỉ làm đúng task được yêu cầu.
-- Không tự refactor.
-- Không đổi architecture.
-- Không thêm dependency nếu chưa được yêu cầu.
-- Không sửa file ngoài phạm vi task.
+* Không tự ý refactor mã nguồn.
+* Không thay đổi kiến trúc hệ thống (architecture).
+* Không thêm thư viện ngoài (dependency) trừ khi có yêu cầu cụ thể.
+* Không chỉnh sửa các file nằm ngoài phạm vi task được giao.
 
-## Coding rules
-- Follow existing style.
-- Minimal diff.
-- Không đổi tên API public.
-- Không tạo abstraction mới nếu không cần.
+## Coding Rules
+### General
+* **Tối giản:** Ưu tiên thay đổi ít nhất có thể để đạt mục tiêu hiện tại. Không tạo ra các lớp trừu tượng (abstraction) mới khi chưa cần thiết.
+* **Tính nhất quán:** Không thay đổi tên các Public API hiện có.
+* **Tài liệu hóa (Bằng tiếng Việt):** 
+  * Tại mỗi package/module phức tạp, phải ghi chú rõ: Đường dẫn file (`file path`), chuẩn `input`, chuẩn `output` và nguyên lý hoạt động đi kèm với các chuẩn đó.
+* **Tính di động (Portable):** Mã nguồn phải đảm bảo tính độc lập, sao chép sang thư mục khác vẫn hoạt động bình thường.
+
+### Python
+* **Chuẩn mực:** Tuân thủ nghiêm ngặt PEP 8.
+* **Type Hinting cực đoan:** Khai báo kiểu dữ liệu đầy đủ và chặt chẽ cho mọi thành phần để vượt qua bộ kiểm tra cấu trúc ở chế độ nghiêm ngặt (`Pyright strict mode`). Không làm phức tạp hóa logic chỉ để phục vụ type hint.
+* **Import:** Bắt buộc sử dụng Absolute Import (Import tuyệt đối).
+* **Nội hàm hóa (Inline hàm ngắn):** Các hàm hoặc thành phần bổ trợ có độ dài `< 5 dòng` không được tách riêng biệt. Phải gộp trực tiếp vào hàm chính/phương thức gọi nó và viết ghi chú giải thích bằng tiếng Việt.
+
+### Module & Class
+* **Module:**
+  * Mỗi module đảm nhận một trách nhiệm duy nhất và có một entry point chính.
+  * Hàm nội bộ bắt đầu bằng dấu gạch dưới `_`. Hàm public đặt tên bình thường.
+  * Module quá nhỏ phải gộp thẳng vào `__init__.py`, không tạo file mới.
+* **Class:**
+  * Chỉ giữ lại các phương thức thực sự cần truy cập hoặc thao tác với trạng thái (state) của đối tượng.
+  * Các hàm không phụ thuộc vào trạng thái đối tượng phải đưa ra cấp module.
+
+# Output
+## Normal output
+- Only answer exactly what is asked. (Strict)
+- DO NOT answer anything user does not asked for. (Strict)
+- Do not expand, infer, or suggest improvements beyond the question scope.
+- No non-essential content.
+- Do not provide solutions or over-explain unless explicitly requested, to prevent spoiling the answer for the user.
+
+## Tool Execution & Reporting (Thêm mới đoạn này)
+- Limit user-facing status updates/reports to exactly TWO times per request.
+- Structure the interaction as follows:
+  1. Initial Report: State what you are about to do before triggering any tools (e.g., "Bây giờ tôi sẽ...").
+  2. Silent Execution: Run all necessary tool calls consecutively without printing intermediate text or updates between calls.
+  3. Final Report: Provide the definitive result after all tool calls are finished (e.g., "Tôi đã...").
+- STRICTLY FORBIDDEN: Printing status reports or text commentary between sequential tool calls.
 
 ## Workflow
-1. Đọc code liên quan.
-2. Chỉ sửa file cần thiết.
-3. Chạy test.
-4. Nếu test fail thì sửa.
-5. Không merge nhiều thay đổi vào một task.
-
-## Done
-Task chỉ hoàn thành khi:
-- Build pass.
-- Test pass.
-- Không còn TODO mới.
+1. **Đọc cấu hình:** Đọc file config tại các thư mục đang làm việc trước khi thực hiện.
+2. **Khảo sát:** Đọc mã nguồn liên quan để hiểu ngữ cảnh, giữ nguyên trạng nếu không thuộc phạm vi sửa đổi.
+3. **Chỉnh sửa:** Chỉ can thiệp vào các file được chỉ định trong task.
+4. **Kiểm tra cục bộ:** Ngay sau khi sửa một file Python, chạy lệnh kiểm tra duy nhất file đó:
+   ```bash
+   token-efficient-pyright.sh <path_to_python_file>
