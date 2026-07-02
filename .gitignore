@@ -1,5 +1,7 @@
 SAGVenv/
 __pycache__/
 *pyc
+.codex/
+.agents/
 
 
