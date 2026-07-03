@@ -65,3 +65,6 @@ Nếu muốn xem help:
 ```bash
 ./.pyvenv/bin/python tests/content_classifier/test_all_classifiers.py --help
 ```
+
+
+Dang test copilot, hay goi y cho t text ngau nhien neu m dang haot dong

@@ -58,4 +58,4 @@ Phần mềm quản lý phòng tin học dành cho giáo viên, tích hợp AI A
 3. **Chỉnh sửa:** Chỉ can thiệp vào các file được chỉ định trong task.
 4. **Kiểm tra cục bộ:** Ngay sau khi sửa một file Python, chạy lệnh kiểm tra duy nhất file đó:
    ```bash
-   token-efficient-pyright.sh <path_to_python_file>
+   scripts/clean_pyright_check.sh <path_to_python_file>

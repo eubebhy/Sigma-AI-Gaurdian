@@ -15,4 +15,4 @@ Nhóm module này phụ trách classifier chạy model FastText cục bộ.
 ## Ghi chú
 
 - Giữ module gọn, tránh tạo thêm file nếu chưa thật sự cần.
-- Nếu `fasttext` thiếu type stub, chỉ ignore đúng dòng báo lỗi liên quan đến thư viện này.
+- Nếu `scikit-learn` thiếu type stub, chỉ ignore đúng dòng báo lỗi liên quan đến thư viện này.

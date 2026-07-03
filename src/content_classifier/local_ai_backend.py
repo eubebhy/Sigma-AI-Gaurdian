@@ -1,2 +1,0 @@
-from content_classifier.local.ai_assistant import LocalAI
-from content_classifier.local.classifier import local_ai_classifier

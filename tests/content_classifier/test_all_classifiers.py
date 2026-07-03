@@ -103,10 +103,6 @@ def parse_arguments() -> tuple[argparse.Namespace, list[str]]:
 args, _ = parse_arguments()
 
 
-def _strip_inline_comment(line: str) -> str:
-    return line.split("#", 1)[0].strip()
-
-
 def _load_cases_from_file(
     file_path: Path, expected_tags: list[ContentCategory]
 ) -> list[TestCase]:
@@ -114,7 +110,7 @@ def _load_cases_from_file(
 
     with file_path.open("r", encoding="utf-8") as f:
         for raw_line in f:
-            text = _strip_inline_comment(raw_line)
+            text = raw_line.split("#", 1)[0].strip()
             if not text:
                 continue
             test_cases.append((text, expected_tags, file_path.stem))
@@ -143,9 +139,7 @@ def _sample_cases(
     return cases[:limit]
 
 
-def load_test_cases(
-    mode: str, sample_size: int, pick_mode: str
-) -> list[TestCase]:
+def load_test_cases(mode: str, sample_size: int, pick_mode: str) -> list[TestCase]:
     test_cases: list[TestCase] = []
 
     for theme in _select_theme_names(mode):
@@ -219,7 +213,7 @@ def run_selected_tests() -> None:
 
     if args.rule_based_engine:
         try:
-            from content_classifier.rule_based_engine import rule_based_classifier
+            from content_classifier.rule_based import rule_based_classifier
         except ModuleNotFoundError as exc:
             print("=== rule-based-engine ===")
             print(f"TODO: rule-based engine is unavailable: {exc}")
@@ -230,7 +224,7 @@ def run_selected_tests() -> None:
 
     if args.local_ai_classifier:
         try:
-            from content_classifier.local_ai_backend import local_ai_classifier
+            from content_classifier.local import local_ai_classifier
         except ModuleNotFoundError as exc:
             print("=== local-ai-classifier ===")
             print(f"TODO: local AI backend is unavailable: {exc}")

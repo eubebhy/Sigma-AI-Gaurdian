@@ -1,0 +1,1 @@
+from content_classifier.local.classifier import local_ai_classifier

@@ -28,3 +28,6 @@ def classify(text: str) -> ContentCategory:
     """Phân loại văn bản đầu vào và trả về ContentCategory tương ứng."""
     pass
 ```
+
+Sau do trong ./__init__.py se tong hop cac api phan loai lai va tao thanh 1 api duy nhat.
+

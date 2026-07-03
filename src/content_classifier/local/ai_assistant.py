@@ -1,18 +1,14 @@
-import pickle
+# pyright: reportUnknownVariableType=false, reportUnknownMemberType=false, reportUnknownArgumentType=false, reportUnknownLambdaType=false
 import threading
 import time
 from pathlib import Path
-from typing import Any, Protocol
+from typing import Any, cast
+
+import joblib  # type: ignore[import-not-found]
+from sklearn.pipeline import Pipeline  # type: ignore[import-not-found]
 
 _GB = 1073741824  # 1024 ** 3 bytes
 _DEFAULT_IDLE_TIMEOUT_SECONDS = 167.0
-
-
-class _ScikitLearnModel(Protocol):
-    classes_: Any
-
-    def predict_proba(self, texts: list[str]) -> Any:
-        """Return label probabilities for input texts."""
 
 
 def _idle_timeout_seconds(model_path: Path) -> float:
@@ -33,7 +29,7 @@ class LocalAI:
     def __init__(self, model_path: str | Path) -> None:
         """Create a lazy-loading scikit-learn wrapper with idle cleanup."""
         self._model_path: Path = Path(model_path)
-        self._model: _ScikitLearnModel | None = None
+        self._model: Any = None
         self._lock: threading.RLock = threading.RLock()
         self._stop_event: threading.Event = threading.Event()
         self._last_used_at: float = time.monotonic()
@@ -50,13 +46,14 @@ class LocalAI:
     ) -> dict[str, float]:
         """Load the model if needed and return normalized label probabilities."""
 
-        model = self._load_model()
+        model = cast(Pipeline, self._load_model())
         probabilities = model.predict_proba([text])[0]
+        labels = cast(Any, model).classes_
         with self._lock:
             self._last_used_at = time.monotonic()
 
         ranked_predictions = sorted(
-            zip(model.classes_, probabilities),
+            zip(labels, probabilities),
             key=lambda prediction: float(prediction[1]),
             reverse=True,
         )
@@ -68,15 +65,14 @@ class LocalAI:
             if float(probability) >= threshold
         }
 
-    def _load_model(self) -> _ScikitLearnModel:
+    def _load_model(self) -> Any:
         """Load the model once and keep it cached until it is unloaded."""
         with self._lock:
             if self._model is not None:
                 self._last_used_at = time.monotonic()
                 return self._model
 
-            with self._model_path.open("rb") as model_file:
-                self._model = pickle.load(model_file)
+            self._model = joblib.load(self._model_path)
             return self._model
 
     def _unload_model(self) -> None:

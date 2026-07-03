@@ -2,6 +2,9 @@ from pathlib import Path
 
 from content_classifier.local.ai_assistant import LocalAI
 from content_classifier.tags import ContentCategory
+from content_classifier.clean_obfuscate_text import clean_text
+
+_UNKNOWN_MARGIN_THRESHOLD = 0.3
 
 
 def _map_label_to_category(label: str) -> ContentCategory | None:
@@ -20,19 +23,26 @@ def _map_label_to_category(label: str) -> ContentCategory | None:
 
 
 def local_ai_classifier(text: str) -> list[ContentCategory]:
-    model_path = Path(__file__).resolve().parents[3] / "data" / "models" / "Ritchie.bin"
+    model_path = Path(__file__).resolve().parents[3] / "data" / "models" / "Ritchie.pkl"
     ai = LocalAI(model_path=model_path)
+    text = clean_text(text)
     try:
-        predictions = ai.predict(text)
+        predictions = ai.predict(text, k=2)
     finally:
         ai.close()
 
-    categories = [
-        category
-        for label in predictions
-        if (category := _map_label_to_category(label)) is not None
-    ]
-    if categories:
-        return categories
+    ranked_predictions = list(predictions.items())
+    if not ranked_predictions:
+        return [ContentCategory.Unknown]
+
+    top_label, top_probability = ranked_predictions[0]
+    if len(ranked_predictions) > 1:
+        _, second_probability = ranked_predictions[1]
+        if top_probability - second_probability < _UNKNOWN_MARGIN_THRESHOLD:
+            return [ContentCategory.Unknown]
+
+    category = _map_label_to_category(top_label)
+    if category is not None:
+        return [category]
 
     return [ContentCategory.Unknown]
