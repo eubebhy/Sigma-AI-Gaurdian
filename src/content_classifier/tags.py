@@ -6,4 +6,3 @@ class ContentCategory(Enum):
     Gore = auto()
     Unknown = auto()
     Game = auto()
-    Education = auto()

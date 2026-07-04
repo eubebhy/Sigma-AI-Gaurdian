@@ -26,8 +26,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 TRAINING_DIR = PROJECT_ROOT / "data" / "training"
 MODEL_DIR = PROJECT_ROOT / "data" / "models"
 DEFAULT_MODEL_NAME = "Ritchie.pkl"
-CATEGORY_LABELS = {
-    "education": "Education",
+TRAINING_CATEGORY_TO_MODEL_LABEL = {
+    "education": "Unknown",
     "game": "Game",
     "gore": "Gore",
     "pornography": "Pornography",
@@ -37,14 +37,14 @@ TrainingData: TypeAlias = tuple[list[str], list[str]]
 
 
 def _read_training_data(training_dir: Path) -> TrainingData:
-    texts: list[str] = []
-    labels: list[str] = []
+    training_texts: list[str] = []
+    training_labels: list[str] = []
 
     for category_dir in training_dir.iterdir():
         if not category_dir.is_dir():
             continue
 
-        label = CATEGORY_LABELS.get(category_dir.name.lower())
+        label = TRAINING_CATEGORY_TO_MODEL_LABEL.get(category_dir.name.lower())
         if label is None:
             continue
 
@@ -55,13 +55,13 @@ def _read_training_data(training_dir: Path) -> TrainingData:
                     if not text:
                         continue
 
-                    labels.append(label)
-                    texts.append(text)
+                    training_labels.append(label)
+                    training_texts.append(text)
 
-    if not texts:
+    if not training_texts:
         raise RuntimeError(f"No training data found in {training_dir}")
 
-    return texts, labels
+    return training_texts, training_labels
 
 
 def train_model(
@@ -69,7 +69,7 @@ def train_model(
     model_name: str = DEFAULT_MODEL_NAME,
 ) -> Path:
     """Train scikit-learn model tu data/training va ghi ra file joblib."""
-    texts, labels = _read_training_data(TRAINING_DIR)
+    training_texts, training_labels = _read_training_data(TRAINING_DIR)
     model: Pipeline = Pipeline(
         steps=[
             (
@@ -96,7 +96,7 @@ def train_model(
             ("classifier", LogisticRegression(class_weight="balanced", max_iter=1000)),
         ]
     )
-    _ = model.fit(texts, labels)
+    _ = model.fit(training_texts, training_labels)
 
     output_path = Path(output_dir) / model_name
     output_path.parent.mkdir(parents=True, exist_ok=True)
