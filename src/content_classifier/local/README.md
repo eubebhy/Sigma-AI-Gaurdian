@@ -1,6 +1,7 @@
 # `content_classifier.local`
 
-Nhóm module này phụ trách classifier chạy model FastText cục bộ.
+Nhóm module này phụ trách classifier chạy model scikit-learn cục bộ qua
+`joblib`.
 
 ## Thành phần
 
@@ -9,10 +10,12 @@ Nhóm module này phụ trách classifier chạy model FastText cục bộ.
 
 ## Dữ liệu liên quan
 
-- Model runtime hiện được lưu trong `data/models/`.
+- Model runtime hiện được lưu trong `data/models/` và được load từ file
+  `Ritchie.pkl`.
 - Dữ liệu train dùng cho model nằm trong `data/training/`.
 
 ## Ghi chú
 
 - Giữ module gọn, tránh tạo thêm file nếu chưa thật sự cần.
-- Nếu `scikit-learn` thiếu type stub, chỉ ignore đúng dòng báo lỗi liên quan đến thư viện này.
+- Nếu `scikit-learn` thiếu type stub, chỉ ignore đúng dòng báo lỗi liên quan đến
+  thư viện này.

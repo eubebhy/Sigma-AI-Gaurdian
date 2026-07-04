@@ -14,7 +14,7 @@ Package này chứa các module phân loại nội dung của dự án.
 - `tags.py`: định nghĩa `ContentCategory`.
 - `clean_obfuscate_text.py`: chuẩn hóa text trước khi so khớp từ khóa.
 - `rule_based/`: classifier dựa trên từ khóa.
-- `local/`: classifier chạy model FastText cục bộ.
+- `local/`: classifier chạy model scikit-learn cục bộ qua `joblib`.
 - `cloud/`: chỗ dành cho classifier chạy qua dịch vụ cloud, hiện chưa triển khai.
 
 ## Quy ước
@@ -30,4 +30,3 @@ def classify(text: str) -> ContentCategory:
 ```
 
 Sau do trong ./__init__.py se tong hop cac api phan loai lai va tao thanh 1 api duy nhat.
-
