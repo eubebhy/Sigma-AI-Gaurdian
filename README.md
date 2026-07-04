@@ -13,12 +13,10 @@ Thay vì chỉ giám sát và chặn nội dung, SAG có thể tự phân loại
 * Phân loại nội dung bằng AI chạy cục bộ (Local AI Text Classifier)
 * Không yêu cầu kết nối Internet
 * Không cần API Key
-* Không cần đăng ký tài khoản
 * Tự động phát hiện nội dung không phù hợp (ví dụ: khiêu dâm, bạo lực, game...)
 * Rule-based filtering kết hợp AI để tăng độ chính xác
 * Hỗ trợ gọi công cụ (Tool Calling) để tự động hóa tác vụ trong ứng dụng
 * Hỗ trợ sử dụng LLM cục bộ hoặc thông qua API
-* Thiết kế theo dạng module, dễ mở rộng thêm bộ phân loại và AI backend mới
 
 ## Kiến trúc
 
