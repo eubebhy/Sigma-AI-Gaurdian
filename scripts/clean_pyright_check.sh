@@ -3,7 +3,7 @@ set -euo pipefail
 
 TARGET="$1"
 
-pyright --outputjson "$TARGET" 2>/dev/null |
+pyright -p .. --outputjson "$TARGET" 2>/dev/null |
   jq -r '
 .generalDiagnostics as $d
 | if ($d|length)==0 then
