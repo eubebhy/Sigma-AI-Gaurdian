@@ -2,5 +2,5 @@
   "include": ["src", "tests", "scripts"],
   "extraPaths": ["src"],
   "venv": ".pyvenv",
-  "typeCheckingMode": "strict",
+  "typeCheckingMode": "strict"
 }
