@@ -26,7 +26,7 @@ Thư mục này chứa bộ test cho các classifier của `content_classifier`.
 - `game.txt`: case cần ra `Game`.
 - `porn.txt`: case cần ra `Pornography`.
 - `gore.txt`: case cần ra `Gore`.
-- `safe.txt`: case cần ra `Unknown`.
+- `unknown.txt`: case cần ra `Unknown`.
 
 ## Quy ước case
 

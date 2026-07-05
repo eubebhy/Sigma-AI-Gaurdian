@@ -39,12 +39,12 @@ ClassifierFunc: TypeAlias = Callable[[str], ContentCategory]
 TestCase: TypeAlias = tuple[str, ContentCategory, str]
 DisplayMode: TypeAlias = Literal["summary", "failures", "successes", "all"]
 
-THEME_ORDER = ("game", "porn", "gore", "safe")
+THEME_ORDER = ("game", "porn", "gore", "unknown")
 THEME_TO_EXPECTED = {
     "game": ContentCategory.Game,
     "porn": ContentCategory.Pornography,
     "gore": ContentCategory.Gore,
-    "safe": ContentCategory.Unknown,
+    "unknown": ContentCategory.Unknown,
 }
 MODE_CHOICES = ("all", "game", "porn", "gore")
 CASE_PICK_CHOICES = ("sequential", "random")
@@ -207,7 +207,6 @@ class BaseClassifierTest:
         self,
         theme: str,
         text: str,
-        expected_tag: ContentCategory,
         actual_tag: ContentCategory,
         is_passed: bool,
     ) -> None:
@@ -215,9 +214,7 @@ class BaseClassifierTest:
             return
 
         status = "PASS" if is_passed else "FAIL"
-        print(
-            f"[{status}][{theme}] {text} | expected={expected_tag.name} | got={actual_tag.name}"
-        )
+        print(f"[{status}][{theme}] {text} | got={actual_tag.name}")
 
     def _print_summary(
         self,
@@ -225,7 +222,6 @@ class BaseClassifierTest:
         passed_count: int,
         failed_count: int,
         theme_stats: dict[str, dict[str, int]],
-        failed_cases: list[tuple[str, str, ContentCategory, ContentCategory]],
     ) -> None:
         print()
         print("Summary")
@@ -236,13 +232,6 @@ class BaseClassifierTest:
             print(
                 f"{theme:>5}: {stats['passed']}/{stats['total']} passed, {stats['failed']} failed"
             )
-
-        if self._display_mode() == "failures" and failed_cases:
-            print("Failures")
-            for theme, text, expected_tag, actual_tag in failed_cases:
-                print(
-                    f"[{theme}] {text} | expected={expected_tag.name} | got={actual_tag.name}"
-                )
 
     def run_classifier_test(
         self,
@@ -270,9 +259,9 @@ class BaseClassifierTest:
             else:
                 failed_count += 1
                 failed_cases.append((theme, text, expected_tag, actual_tag))
-            self._print_case_result(theme, text, expected_tag, actual_tag, is_passed)
+            self._print_case_result(theme, text, actual_tag, is_passed)
 
-        self._print_summary(total_cases, passed_count, failed_count, theme_stats, failed_cases)
+        self._print_summary(total_cases, passed_count, failed_count, theme_stats)
 
 
 def run_selected_tests() -> None:

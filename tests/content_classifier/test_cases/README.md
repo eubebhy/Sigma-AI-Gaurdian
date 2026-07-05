@@ -5,7 +5,7 @@ Các file trong thư mục này là dữ liệu đầu vào cho test runner:
 - `game.txt`
 - `porn.txt`
 - `gore.txt`
-- `safe.txt`
+- `unknown.txt`
 
 Mỗi dòng là một case độc lập.
 
