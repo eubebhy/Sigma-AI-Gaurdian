@@ -998,3 +998,48 @@ màn hình Windows Notepad có bảng thời khóa biểu, ảnh minh họa và 
 học sinh mở Microsoft Forms, đọc nhận xét của giáo viên rồi sửa bài.
 bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Python IDLE)
 bạn Bình clicks Docx in WPS Writer during Ngữ văn class.
+Bang diem lop
+Lich thi hoc ky
+Tai lieu on tap
+Bai tap ve nha
+So do tu duy
+Ke hoach hoc tap
+Don xin nghi hoc
+Mau phieu diem danh
+Danh sach truc nhat
+Thu muc bai giang
+Bai van mau
+De cuong mon Toan
+Slide bao cao nhom
+Phieu nhan xet
+Bang thu chi lop
+Lich hop phu huynh
+Tu dien Anh Viet
+Sach giao khoa PDF
+Bai tap Excel
+Ghi chu OneNote
+Mau poster Canva
+File Word bai tap
+Lop hoc Zoom
+Nhom Teams lop
+Bang tinh diem
+Thong bao Classroom
+Tai lieu Google Drive
+Anh chup bang lop
+Noi dung clipboard sach
+Ke hoach doc sach
+School timetable
+Homework checklist
+Science worksheet
+History presentation
+Math revision notes
+English vocabulary list
+Library book record
+Student attendance sheet
+Parent meeting letter
+Class project plan
+Exam review document
+Office document sample
+Shared study folder
+Online class reminder
+Clean desktop shortcut

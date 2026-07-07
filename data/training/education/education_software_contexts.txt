@@ -1338,3 +1338,92 @@ Audacity open nhom_1_audacity.aup3
 Audacity screen shows Record on PC-4
 save file as nhom_python_audacity.aup3 from Audacity
 student group C uses Audacity for xuất file mp3 cho PowerPoint
+Word - Ke hoach on tap hoc ky 2 mon Dia ly lop 9
+Excel - Danh sach hoc sinh nop bai tap tuan nay
+PowerPoint - Bai thuyet trinh ve bao ve moi truong
+OneNote - Ghi chu bai giang lich su Viet Nam
+Google Docs - Phieu nhan xet hoat dong nhom
+Google Sheets - Bang theo doi diem kiem tra 15 phut
+Canva - Thiet ke poster ngay hoi doc sach
+Zoom - Lop hoc truc tuyen mon Toan sang thu hai
+Microsoft Teams - Nhom lop 10A trao doi bai tap
+Moodle - Nop bai tap mon Sinh hoc chuong te bao
+Classroom - Thong bao lich kiem tra giua ky
+Zalo - Co giao gui file bai tap ve nha
+Gmail - Thu moi tham gia cuoc thi khoa hoc tre
+Outlook - Lich hop phu huynh cuoi thang
+PDF - De cuong on tap mon Ngu van hoc ky 1
+Adobe Reader - Tai lieu huong dan lam bai thuc hanh
+Foxit PDF - Mau don xin xac nhan hoc sinh
+Paint - Ve so do tu duy bai hoc hom nay
+Calculator - Phep tinh diem trung binh mon hoc
+Notepad - Ghi nhanh cac viec can lam sau gio hoc
+Word - Bien ban hop lop ve ke hoach truc nhat
+Excel - Bang phan cong lao dong ve sinh san truong
+PowerPoint - Gioi thieu tac gia Nguyen Du va tac pham
+Google Chrome - Cong thong tin tuyen sinh vao lop 10
+Firefox - Tra cuu lich thi hoc sinh gioi cap truong
+Edge - Tim tai lieu hoc tap mon Vat ly co ban
+Coc Coc - Tu dien Anh Viet tra nghia tu moi
+Word - Phieu bai tap doc hieu van ban thuyet minh
+Excel - Bang tong hop so luong sach thu vien
+PowerPoint - Thuyet trinh chu de an toan giao thong
+OneDrive - Thu muc bai tap nhom mon Tin hoc
+Google Drive - Tai lieu chia se cua giao vien chu nhiem
+Dropbox - Luu tru anh chup bang diem ca nhan
+WPS Office - Soan thao ke hoach hoc tap ca nhan
+LibreOffice Writer - Bao cao tham quan bao tang lich su
+LibreOffice Calc - Thong ke ket qua khao sat lop hoc
+Word - Don xin nghi hoc co chu ky phu huynh
+Excel - Mau bang thu chi quy lop thang nay
+PowerPoint - Slide gioi thieu le hoi truyen thong dia phuong
+Google Docs - Ban nhap bai van nghi luan xa hoi
+Google Sheets - Ke hoach truc lop theo tung tuan
+Quizizz - Bai on tap tu vung tieng Anh lop 8
+Kahoot - Bo cau hoi on tap mon Khoa hoc tu nhien
+Duolingo - Luyen tap tu vung ve chu de truong hoc
+Cambridge Dictionary - Tra cuu phat am tu moi
+Wikipedia - Tim hieu ve he mat troi cho bai thuyet trinh
+VnEdu - Xem ket qua hoc tap cua hoc sinh
+Smas - Cap nhat thong tin diem danh lop
+Azota - Bai kiem tra trac nghiem mon Hoa hoc
+K12Online - Lop hoc bai giang dien tu
+Hocmai - Bai giang on thi vao lop 10
+VioEdu - Luyen tap bai toan phan so
+OLM - Bai tap ve nha mon Tieng Viet
+IOE - Luyen thi tieng Anh tren Internet
+Violympic - Bai luyen tap vong tu do
+Scratch - Du an ke chuyen bang nhan vat hoat hinh
+Tux Paint - Bai ve chu de ngay nha giao Viet Nam
+GeoGebra - Ve do thi ham so bac nhat
+Desmos - Kiem tra hinh dang do thi ham so
+TypingClub - Luyen go ban phim bang muoi ngon
+RapidTyping - Bai tap go chu tieng Viet khong dau
+Unikey - Chuyen che do go tieng Viet Telex
+EVKey - Cai dat bo go tieng Viet cho may tinh lop
+File Explorer - Thu muc Tai lieu hoc tap nam 2026
+Windows Photos - Anh chup so do bai giang tren bang
+Voice Recorder - Ghi am bai noi tieng Anh de luyen phat am
+Sticky Notes - Nho mang sach giao khoa va vo bai tap
+Calendar - Lich thi thu mon Toan va Ngu van
+Excel - Bang diem danh cau lac bo tieng Anh
+Word - Mau giay moi hop phu huynh hoc sinh
+PowerPoint - Bai bao cao ve tai che rac thai nhua
+Google Docs - Nhan xet sach da doc trong thang
+Google Sheets - Bang ke hoach muon tra sach thu vien
+Classroom - Giao vien nhan xet bai nop cua hoc sinh
+Teams - Lich hoc bo sung mon Toan cuoi tuan
+Zoom - Buoi hoc on tap truoc ky thi
+PDF - Sach giao khoa lich su va dia ly
+Word - Bai tap lam van ve uoc mo nghe nghiep
+Excel - Danh sach do dung hoc tap can mua
+PowerPoint - Chu de phong chong thien tai o dia phuong
+Canva - Mau thiep chuc mung ngay nha giao
+Gmail - Xac nhan da nhan tai lieu hoc tap
+Outlook - Nhac lich nop bao cao nhom
+Notepad - Noi dung clipboard: nop bai tap truoc 21 gio
+Clipboard - Link tai lieu on tap mon Toan
+Clipboard - Ma lop hoc truc tuyen cua giao vien
+Clipboard - Noi dung can dan vao phieu nhan xet
+Clipboard - Danh sach sach can muon o thu vien
+Clipboard - Cau hoi thao luan mon Giao duc cong dan
