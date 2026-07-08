@@ -33,6 +33,9 @@ Thay vì chỉ giám sát và chặn nội dung, SAG có thể tự phân loại
 * Python 3.13 (khuyến nghị)
 * Các thư viện trong `requirements.txt`
 
+### linux
++ xinput
+
 ## Cài đặt
 
 Đang hoàn thiện.
