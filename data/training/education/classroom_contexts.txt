@@ -1,1045 +1,1641 @@
-search query: Access Query Design lọc dữ liệu theo lớp.
-12A dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về thuật toán.
-bạn trong nhóm raise hand để trình bày phần năng lượng tái tạo. (Google Meet)
-11B open Microsoft Publisher, use Mail Merge, save as thiep_moi.pub.
-board du_lieu_va_thong_tin đang được lưu sau tiết học online. (Microsoft Whiteboard)
-search Microsoft PowerPoint
-bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Google Classroom)
-search query: Scratch Junior cho học sinh tiểu học.
-màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát nghề nghiệp tương lai.
-màn hình WPS Spreadsheet hiển thị biểu đồ cột cho khảo sát an toàn Internet.
-bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng YouTube.
-browser tab search: cách đổi byte sang KB. (Windows Calculator)
-màn hình Google Sheets hiển thị biểu đồ cột cho khảo sát biến đổi khí hậu.
-màn hình Microsoft Edge có nhiều tab: hình ảnh, Wikipedia, YouTube hướng dẫn.
-Insert table - Google Docs
-search query: cmd python --version. (Command Prompt)
-bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng Google Chrome.
-bạn Phúc dùng Zoom để tô màu, cắt ảnh hoặc thêm chữ. (Windows Photos)
-bạn Minh chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Canva)
-folder path: D:\TinHoc\9B\Microsoft_Clipchamp\video_thuyet_trinh_nhom_5.mp4.
-screen text: YouTube | Watch later | New tab | poster tuyên truyền.
-search query: cách share screen trong Google Meet.
-Microsoft Excel Formula Bar
-2A open ScratchJr, use motion block, save as scratchjr_gia_dinh.sjr.
-screen text: Windows Snipping Tool | Rectangular mode | Settings changed | nghề nghiệp tương lai.
-bạn Nam dùng Brightness-Contrast để tô màu, cắt ảnh hoặc thêm chữ. (GIMP)
-cửa sổ Google Drive: Drive/TinHoc_Lop9/Slide.pptx đang được upload vào thư mục lớp.
-browser tab search: LibreOffice tạo chart. (LibreOffice Calc)
-bạn Dũng crop ảnh chụp bảng để đưa vào tài liệu Word. (Microsoft Paint)
-nhóm 3 hỏi vì sao sprite không nhận phím mũi tên trong Scratch Desktop.
-màn hình Microsoft Access có relationship giữa bảng MuonSach và HocSinh.
-window title: Bao_cao_tin_hoc.docx - Microsoft Word - AutoSave On.
-màn hình Microsoft OneNote có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
-8A dùng OneDrive để gửi và nhận file bài thực hành.
-phiếu bài tập: tạo câu chuyện tương tác bằng Scratch Desktop, có ít nhất hai nhân vật.
-Search Wikipedia - Wikipedia
-window title: Bang_diem_WPS.xlsx - WPS Spreadsheet - AutoSave On.
-bạn Minh chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
-màn hình LibreOffice Impress đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
-5A open Quizizz, use Homework, save as game_code_note.txt.
-clipboard trong giờ Tin: đoạn văn ngắn về lịch sử máy tính để đưa vào Windows Notepad.
-cửa sổ Microsoft Whiteboard: sticky notes đang ghi input, process, output.
-nhóm 2 chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Canva)
-teacher note: use ScratchJr, finish the classroom task, then submit the file.
-giáo viên gửi deadline trong Google Classroom, học sinh xem mục Classwork.
-bạn Dũng tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Wikipedia)
-4C open Scratch Desktop, use fullscreen, save as catch_apple_offline.sb3.
-mở Microsoft Whiteboard
-màn hình Microsoft PowerPoint đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
-cửa sổ Zalo: Zalo Downloads\BaiTap.docx đang được upload vào thư mục lớp.
-bạn Phúc chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Google Slides)
-6B open Microsoft Edge, use Downloads, save as huong_dan_thuc_hanh.pdf.
-cửa sổ đang mở: thiep_moi.pub - Microsoft Publisher, trang đầu có ảnh minh họa và tiêu đề.
-Khao_sat_phong_may - Google Forms
-10A mở Google Classroom để làm bài kiểm tra nhanh môn Tin học.
-browser tab search: Windows Media Player mở mp4.
-search query: cách làm nhân vật Scratch nói xin chào lớp em.
-10A thao tác Windows Settings trong bài làm quen hệ điều hành Windows.
-search query: UniKey không gõ được tiếng Việt trong Chrome.
-browser tab search: Gmail gửi file đính kèm.
-bạn Ngọc copy nội dung từ Chrome rồi dán vào tài liệu Microsoft OneNote.
-bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Command Prompt)
-mở Scratch Desktop
-window title: Bai_nop_email.pdf - Gmail - Downloaded.
-cửa sổ ScratchJr: project scratchjr_gia_dinh.sjr, stage có backdrop văn hóa đọc.
-search query: hàm SUM AVERAGE IF trong Google Sheets.
-bạn Quân chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Microsoft Publisher)
-12A open Microsoft Forms, use Preview, save as Ket_qua_Forms.xlsx.
-meeting_chat.txt - Zoom
-nhóm 3 bấm Fade In để kiểm tra đoạn thuyết minh. (Audacity)
-link đồ thị được copy vào Google Classroom. (Desmos)
-search query: Scratch offline editor cách lưu file. (Scratch Desktop)
-10A mở Microsoft Access để tạo database quản lý thư viện lớp.
-bạn Linh share link tài liệu cho nhóm chỉnh sửa. (Gmail)
-search query: Classroom turn in là gì.
-bạn An clicks Ctrl L in Microsoft Edge during Toán class.
-học sinh mở Quizizz, đọc nhận xét của giáo viên rồi sửa bài.
-cửa sổ đang mở: Ghi_chu_Excel.one - Microsoft OneNote, con trỏ nằm ở đoạn giới thiệu bản thân.
-bài thực hành yêu cầu nhập hàm số, tạo bảng giá trị, lưu ảnh. (GeoGebra)
-teacher note: use Microsoft Access, finish the classroom task, then submit the file.
-search query: cách chia sẻ file bằng Microsoft 365.
-bạn An chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
-search query: cách chia sẻ file bằng Gmail.
-1A open Scratch, use green flag, save as animation_bao_ve_moi_truong.sb3.
-màn hình Microsoft Whiteboard có mũi tên, ghi chú và hình chữ nhật thuật toán.
-browser tab search: Meet link lớp học.
-cửa sổ bảng tính: Bai_tap_Excel_Ham_SUM.xlsx - Microsoft Excel, ô B2 đang được chọn.
-window title: Bai_nop_email.pdf - Gmail - Message sent.
-screen text: Microsoft 365 | Create new | Message sent | mạng máy tính.
-screen text: Microsoft Outlook | New mail | Upload complete | biến đổi khí hậu.
-màn hình Microsoft 365 hiện trạng thái Shared cho file Bai_tap_online.docx.
-12A open Microsoft OneNote, use Screen Clipping, save as TinHoc_ClassNotebook.one.
-trang kết quả mở tab mới cho video hướng dẫn Search. (YouTube)
-teacher note: use Windows Media Player, finish the classroom task, then submit the file.
-window title: icon_tin_hoc.png - Inkscape - Layer selected.
-window title: Nhom_4_slide.pptx - Microsoft PowerPoint - Saved.
-bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Microsoft Teams)
-bài thực hành: soạn văn bản, chèn bảng, lưu pseudo_code.txt. (Windows Notepad)
-màn hình Microsoft 365 hiện trạng thái Message sent cho file Microsoft365_recent_files.
-5A open Scratch Desktop, use Choose a Backdrop, save as BaiTapNhom3.sb3.
-màn hình Google Drive hiện trạng thái Upload complete cho file BaiTap_GoogleDrive.docx.
-browser tab search: LibreOffice Writer mở docx.
-search LibreOffice Calc
-window title: catch_apple_offline.sb3 - Scratch Desktop - Saved.
-bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng Google Search.
-bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Gmail)
-bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Google Forms)
-bạn Quân clicks App launcher in Microsoft 365 during Tin học class.
-cửa sổ bảng tính: Thong_ke_chieu_cao.xlsx - Microsoft Excel, ô B2 đang được chọn.
-8B dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về robot đơn giản.
-bạn Dũng kiểm tra điểm quiz sau khi submit form. (Google Classroom)
-window title: main.py - Command Prompt - Saved.
-cửa sổ Scratch Desktop: project Tiet_7_Scratch_Offline.sb3, stage có backdrop di sản Việt Nam.
-giáo viên yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows Settings)
-cô giáo yêu cầu đặt tên file theo mẫu 12A_nhom_2_van_ban. (LibreOffice Writer)
-folder path: D:\TinHoc\2A\ScratchJr\nhan_vat_di_chuyen.sjr.
-cửa sổ 7-Zip: archive BaiTapTinHoc.zip đang được extract vào D:\TinHoc.
-giáo viên hướng dẫn lưu file .py trước khi chạy bài. (Command Prompt)
-bạn Minh gõ print('Hello class') rồi lưu vào thư mục Python. (PowerShell)
-teacher note: use Microsoft Paint, finish the classroom task, then submit the file.
-tab Microsoft Whiteboard hiện template brainstorming cho dự án bảo vệ môi trường.
-thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Microsoft 365)
-bạn Linh copy nội dung từ Chrome rồi dán vào tài liệu Microsoft OneNote.
-window title: animation_bao_ve_moi_truong.sb3 - Scratch - Not saved.
-bạn Bình dùng Comment để tìm từ khóa trong tài liệu. (Foxit Reader)
-giáo viên nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Google Slides)
-bạn Minh sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
-folder path: D:\TinHoc\10A\OBS_Studio\OBS_recording_tin_hoc.mkv.
-giáo viên chia sẻ board trong Teams để cả nhóm cùng ghi ý tưởng. (Microsoft Whiteboard)
-bạn Nam share link tài liệu cho nhóm chỉnh sửa. (Microsoft Outlook)
-6B dùng Windows Notepad để viết pseudocode thuật toán tìm số lớn nhất, file đang lưu trong thư mục BaiTapTinHoc.
-10A open Windows Snipping Tool, use Copy, save as ket_qua_quiz.png.
-bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên.
-thuyet_minh_nhom.aup3 - Audacity
-bạn Phúc tìm lại email hoặc tin nhắn chứa mã lớp học. (Google Drive)
-window title: Bai_WPS_Writer.docx - WPS Writer - Editing.
-bạn Bình chụp màn hình đồ thị rồi dán vào Word. (Desmos)
-cửa sổ ảnh: poster_lop.jpeg - Windows Photos, vùng crop đang được chọn.
-bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Kahoot)
-folder path: D:\TinHoc\8A\Google_Meet\screen_share_slides.
-folder path: D:\TinHoc\9A\Desmos\do_thi_desmos.png.
-màn hình Microsoft Paint có layer chữ tiêu đề và hình nền poster.
-4A open Windows Snipping Tool, use Delay, save as snip_scratch_project.png.
-search query: cách dùng hàm if trong excel. (Google Chrome)
-bạn Ngọc kéo block Save to your computer vào script area trong bài an toàn Internet. (Scratch Desktop)
-bài thực hành yêu cầu tạo poster đơn giản về lịch sử máy tính. (Windows Photos)
-screen text: Microsoft PowerPoint | Design | Saved | văn hóa đọc.
-screen text: WPS Writer | Insert Table | Saved | nghề nghiệp tương lai.
-cửa sổ Microsoft Access: bảng Sach và bảng HocSinh đang ở Datasheet View.
-file ảnh được xuất ra thư mục Downloads dưới tên so_do_mang.svg. (Inkscape)
-bạn Quân clicks File name extensions in Windows File Explorer during Công nghệ class.
-window title: kiem_tra_diem.py - Python IDLE - Saved.
-bạn An dùng Eraser để nối các bước trong flowchart. (Microsoft Whiteboard)
-3A mở Microsoft Forms để làm bài kiểm tra nhanh môn Tin học.
-bạn Vy chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Microsoft Publisher)
-browser tab search: Google Docs share editor.
-cửa sổ đang mở: Bai_thuyet_trinh.pptx - Google Slides, trang đầu có ảnh minh họa và tiêu đề.
-cửa sổ code: C:\Users\Student\Desktop\baitap - Command Prompt, dòng hiện tại đang có lỗi cú pháp.
-trang kết quả mở tab mới cho video hướng dẫn SafeSearch. (Google Search)
-nhóm 1 clicks Aspect ratio in Microsoft Clipchamp during Sinh học class.
-màn hình Google Search có nhiều tab: hình ảnh, Wikipedia, YouTube hướng dẫn.
-bạn Chi chỉnh font và căn lề tài liệu bằng Screen Clipping. (Microsoft OneNote)
-mở Microsoft Clipchamp
-browser tab search: cách xoay ảnh trên Windows. (Windows Photos)
-màn hình Microsoft Outlook hiện trạng thái Sync pending cho file Bai_thuc_hanh_gui_email.docx.
-search query: Notepad lưu tiếng Việt UTF-8.
-9A dùng Microsoft Publisher để làm slide hoặc ấn phẩm thuyết trình về lịch sử máy tính.
-9A open Google Classroom, use Add or create, save as File_from_Drive.
-màn hình máy số 9 đang mở Windows File Explorer, trạng thái Settings changed.
-cửa sổ bảng tính: Khao_sat_lop_GoogleSheets - Google Sheets, ô B2 đang được chọn.
-nhóm 3 cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
-Geometry - GeoGebra
-cô nhắc kiểm tra âm lượng trước khi nộp file cuối. (Microsoft Clipchamp)
-search query: office.com Word online. (Microsoft 365)
-file cuối cùng được lưu là Thuyet_trinh_Impress.odp trong thư mục Slide_Final.
-Microsoft PowerPoint trong phòng Tin
-thầy phụ trách phòng máy gửi deadline trong Google Forms, học sinh xem mục Classwork.
-10A thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
-giáo viên hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
-Microsoft Excel Filter
-cô chia sẻ board trong Teams để cả nhóm cùng ghi ý tưởng. (Microsoft Whiteboard)
-bạn Quân gõ print('Hello class') rồi lưu vào thư mục Python. (Arduino IDE)
-terminal đang ở đường dẫn D:\TinHoc\7A\Python. (Command Prompt)
-search query: Teams lớp học online cách dùng.
-folder path: D:\TinHoc\5B\Scratch\animation_bao_ve_moi_truong.sb3.
-tab trình duyệt: Google Classroom - bài tập chưa nộp - due today.
-màn hình Microsoft Forms hiện câu hỏi trắc nghiệm về robot đơn giản.
-Google Slides Download PPTX
-5A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
-cô giáo yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Microsoft Paint)
-3A dùng Google Chrome để tìm tài liệu cho bài mạng máy tính.
-GeoGebra bài thực hành
-tab trình duyệt đang mở scratch.mit.edu create và project du_lieu_va_thong_tin. (Scratch)
-bạn Trang dùng Template để nối các bước trong flowchart. (Microsoft Whiteboard)
-search query: cách nộp bài trên Google Classroom.
-window title: Bao_ve_moi_truong.pptx - Microsoft PowerPoint - Editing.
-folder path: D:\TinHoc\2A\Paint_NET\anh_da_chinh.png. - Paint.NET
-bạn Trang cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
-thầy phụ trách phòng máy gửi link tài liệu trong nhóm lớp, học sinh bấm download. (OneDrive)
-search query: GIMP layer tutorial.
-cửa sổ Audacity: media timeline hoặc track âm thanh đang được mở.
-màn hình máy chiếu demo block repeat và broadcast message trong Scratch Desktop.
-search Microsoft OneNote
-search query: Access Query Design lớp 12.
-bạn Chi kiểm tra điểm quiz sau khi submit form. (Google Forms)
-search query: cách căn lề và đánh số trang trong Microsoft Word.
-Canva bài thực hành
-Google Forms bài thực hành
-cô hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
-thầy phụ trách phòng máy gửi deadline trong Microsoft Teams, học sinh xem mục Classwork.
-bạn Ngọc hỏi vì sao sprite không nhận phím mũi tên trong ScratchJr.
-window title: Quan_ly_hoc_sinh.accdb - Microsoft Access - Table open.
-bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (PowerShell)
-cô nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Microsoft PowerPoint)
-search query: cách căn lề và đánh số trang trong Google Docs.
-Short answer - Google Forms
-bạn Dũng hỏi vì sao sprite không nhận phím mũi tên trong ScratchJr.
-Microsoft OneNote Search Notes
-màn hình Thonny hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
-window title: Bang_diem_Calc.ods - LibreOffice Calc - Editing.
-Windows File Explorer trong phòng Tin
-bạn Trang sửa lỗi formula trong WPS Spreadsheet sau khi nhập sai dấu phẩy.
-Scratch bài thực hành
-bạn Quân clicks New Quiz in Microsoft Forms during Ngữ văn class.
-Google Slides bài thực hành
-Scratch Desktop Choose a Backdrop
-window title: hinh_minh_hoa.png - Windows Photos - Saved.
-bạn Hà clicks Zalo PC in Zalo during Công nghệ class.
-bài thực hành yêu cầu tạo poster đơn giản về nghề nghiệp tương lai. (Windows Photos)
-clipboard trong giờ Tin: đoạn văn ngắn về biến đổi khí hậu để đưa vào Microsoft Word.
-màn hình máy chiếu demo block repeat và broadcast message trong ScratchJr.
-browser tab search: Zalo PC gửi file.
-tab Desmos đang zoom vào giao điểm của hai đường.
-nhóm 1 nhập danh sách học sinh và điểm thực hành vào Sheet1. (LibreOffice Calc)
-bạn Minh copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
-window title: Thoi_khoa_bieu.docx - Microsoft Word - Editing.
-bạn Bình sửa lỗi thiếu part khi mở file nén. (7-Zip)
-clipboard trong giờ Tin: đoạn văn ngắn về robot đơn giản để đưa vào Google Docs.
-màn hình máy số 30 đang mở Windows File Explorer, trạng thái Copied.
-teacher note: use Microsoft Publisher, finish the classroom task, then submit the file.
-cửa sổ Microsoft 365: Microsoft365_recent_files đang được upload vào thư mục lớp.
-cửa sổ Windows Settings: Windows Update đang được giáo viên chỉ trên máy chiếu.
-clipboard trong giờ Tin: đoạn văn ngắn về bảo vệ môi trường để đưa vào Google Docs.
-teacher note: use Google Meet, finish the classroom task, then submit the file.
-5A dùng Google Search để tìm tài liệu cho bài thuật toán.
-cửa sổ đang mở: To_roi_CLB_TinHoc.pub - Microsoft Publisher, trang đầu có ảnh minh họa và tiêu đề.
-12A mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
-bạn Minh clicks ping in Command Prompt during STEM class.
-cô giáo nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch)
-màn hình Canva đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
-LibreOffice Calc bài thực hành
-bạn Minh clicks Date modified in Windows File Explorer during Công nghệ class.
-màn hình Google Classroom hiện câu hỏi trắc nghiệm về di sản Việt Nam.
-search query: Windows Settings đổi bàn phím tiếng Việt.
-bạn Quân copy link tham khảo vào Notepad để ghi nguồn. (Google Chrome)
-Assignment_TinHoc.xlsx - Microsoft Teams
-folder path: D:\TinHoc\8B\LibreOffice_Impress\Slide_mo_bang_LibreOffice.pptx.
-8A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
-máy số 39 đang chạy Scratch, green flag vừa được bấm để test project.
-screen text: YouTube | Playlist | Search results | poster tuyên truyền.
-cửa sổ bảng tính: Bang_diem_online.xlsx - Google Sheets, ô B2 đang được chọn.
-screen text: Microsoft Forms | Preview | Turned in | dự án cuối kỳ.
-thầy phụ trách phòng máy hướng dẫn tạo form nhập dữ liệu trong Microsoft Access.
-folder path: D:\TinHoc\3B\Scratch\game_me_cung_lop_6.sb3.
-screen text: Zoom | Participants | Camera off | năng lượng tái tạo.
-folder path: D:\TinHoc\6A\Microsoft_Word\Bao_cao_tin_hoc.docx.
-tab trình duyệt: Microsoft Forms - bài tập chưa nộp - due today.
-teacher note: use LibreOffice Impress, finish the classroom task, then submit the file.
-bạn Bình nhập mã lớp rồi bấm Turn in sau khi đính kèm Khao_sat_phong_may. (Google Forms)
-ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (Google Sheets)
-Thonny trong phòng Tin
-search query: Zalo tải file về máy tính.
-screen text: Google Forms | Questions | Due today | di sản Việt Nam.
-bạn Phúc crop ảnh chụp bảng để đưa vào tài liệu Word. (Windows Photos)
-screen text: Windows File Explorer | This PC | Copied | thuật toán.
-window title: requirements.txt - PowerShell - Running.
-thầy chiếu cách kéo fill handle để sao chép công thức. (LibreOffice Calc)
-cửa sổ đang mở: Thuyet_trinh_Impress.odp - LibreOffice Impress, trang đầu có ảnh minh họa và tiêu đề.
-9A tham gia lớp học online bằng Google Meet.
-window title: dan_y_thuyet_trinh.txt - Windows Notepad - Read-only.
-search query: Scratch Desktop không mở được project.
-bài thực hành yêu cầu tạo query, form và report đơn giản. (Microsoft Access)
-1A thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
-11A open Audacity, use Stop, save as loi_doc_bai_tap.mp3.
-cô hướng dẫn lưu file .py trước khi chạy bài. (Visual Studio Code)
-project nghe_nghiep_tuong_lai có file main.py, README.txt và thư mục data. (Command Prompt)
-6C mở ScratchJr để chọn nhân vật mới bằng nút dấu cộng; sprite mèo đang đứng giữa sân khấu.
-teacher note: use Scratch Desktop, finish the classroom task, then submit the file.
-8A mở Command Prompt để viết chương trình trong tiết lập trình.
-tab WPS Presentation hiện mục Export PDF, học sinh đang chỉnh bố cục.
-màn hình máy số 23 đang mở Windows File Explorer, trạng thái Open.
-11A open Command Prompt, use python --version, save as C:\Users\Student\Desktop\baitap.
-clipboard đang có link chia sẻ tài liệu mạng máy tính. (Zalo)
-thầy phụ trách phòng máy chiếu cách kéo fill handle để sao chép công thức. (Google Sheets)
-Microsoft Excel bài thực hành
-browser tab search: cách chụp màn hình Windows. (Windows Snipping Tool)
-bạn Vy dùng Zoom để nối các bước trong flowchart. (Microsoft Whiteboard)
-mở Gmail
-1A mở Scratch Desktop để import sprite từ thư mục Downloads; sprite mèo đang đứng giữa sân khấu.
-search query: WinRAR giải nén file rar.
-bạn Nam cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
-search query: mẫu thiết kế thuyết trình chủ đề máy tính và cuộc sống cho học sinh. (Microsoft Publisher)
-giáo viên gửi deadline trong Quizizz, học sinh xem mục Classwork.
-screen text: Zalo | Send file | Upload complete | sơ đồ tư duy.
-bạn Dũng dùng Save a copy để tô màu, cắt ảnh hoặc thêm chữ. (Windows Photos)
-5B thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
-Gmail Spam
-screen text: LibreOffice Writer | Print Preview | Exporting PDF | văn hóa đọc.
-2C open ScratchJr, use record sound, save as scratchjr_gia_dinh.sjr.
-bài thực hành Word cần gõ tiếng Việt có dấu đúng chuẩn. (EVKey)
-8A mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
-folder path: D:\TinHoc\9A\Google_Slides\Bai_thuyet_trinh.pptx.
-nhóm 3 chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
-browser tab search: Excel hàm SUM lớp 7.
-huong_dan_word.mp4 - Windows Media Player
-folder path: D:\TinHoc\3A\Windows_File_Explorer\Downloads\anh_thuyet_trinh.jpg. - Windows File Explorer
-nhóm 1 kiểm tra file Calculator history trước khi nộp bài.
-window title: Khao_sat_lop.ods - LibreOffice Calc - Saved.
-bạn Linh copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
-screen text: Microsoft Teams | Raise hand | Turned in | lịch sử máy tính.
-bài thực hành: soạn văn bản, chèn bảng, lưu Bai_WPS_Writer.docx. (WPS Writer)
-màn hình Google Docs có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
-bài thực hành: soạn văn bản, chèn bảng, lưu dan_y_thuyet_trinh.txt. (Windows Notepad)
-search query: Zoom đổi tên hiển thị.
-teacher note: use EVKey, finish the classroom task, then submit the file.
-3A thao tác Windows Calculator trong bài làm quen hệ điều hành Windows.
-màn hình Arduino IDE hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
-search query: Scratch Desktop mở file sb3.
-màn hình máy số 31 đang mở Windows Snipping Tool, trạng thái Copied.
-tab trình duyệt: Microsoft Teams - bài tập chưa nộp - due today.
-bạn Vy copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
-screen text: EVKey | Telex | Running | bảo vệ môi trường.
-folder path: D:\TinHoc\2A\Microsoft_Paint\tranh_ngoi_nha.png.
-folder path: D:\TinHoc\4A\Microsoft_Edge\download_from_edge.docx.
-search query: cách resize ảnh trong Windows Photos.
-folder path: D:\TinHoc\3A\Google_Docs\Untitled document.
-bạn Dũng kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
-bạn An dùng Fill with color để tô màu, cắt ảnh hoặc thêm chữ. (Microsoft Paint)
-bạn Vy chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
-search query: OneNote Class Notebook là gì.
-screen text: Windows Calculator | History | Settings changed | mạng máy tính.
-cửa sổ Windows Snipping Tool: Win Shift S đang được giáo viên chỉ trên máy chiếu.
-máy số 24 đang chạy Scratch, green flag vừa được bấm để test project.
-7A open Wikipedia, use Search Wikipedia, save as nguon_tham_khao.docx.
-clipboard đang có link chia sẻ tài liệu di sản Việt Nam. (Zalo)
-cô giáo yêu cầu tắt micro khi chưa phát biểu. (Google Meet)
-bài tập yêu cầu sort danh sách theo điểm rồi lưu Diem_trung_binh.xlsx. (Microsoft Excel)
-7B open LibreOffice Calc, use Chart, save as Khao_sat_lop.ods.
-trên tab LibreOffice Writer đang hiện Export as PDF, học sinh chuẩn bị export PDF.
-11A dùng Gmail để gửi và nhận file bài thực hành.
-bài nhóm dùng whiteboard để phân công phần thuyết trình. (Microsoft Whiteboard)
-bạn Ngọc clicks Brushes in Microsoft Paint during Hóa học class.
-màn hình máy chiếu demo block repeat và broadcast message trong Scratch.
-trên tab Microsoft OneNote đang hiện Draw, học sinh chuẩn bị export PDF.
-cửa sổ đang mở: slide_canva_presentation.pdf - Canva, trang đầu có ảnh minh họa và tiêu đề.
-window title: OBS_recording_tin_hoc.mkv - OBS Studio - Playback paused.
-Microsoft PowerPoint New Slide
-cửa sổ UniKey: kiểu gõ Telex, bảng mã Unicode đang được chọn.
-9A mở Microsoft Forms để làm bài kiểm tra nhanh môn Tin học.
-browser tab search: OneDrive sync pending nghĩa là gì.
-cô giáo chiếu cách kéo fill handle để sao chép công thức. (LibreOffice Calc)
-Microsoft OneNote Sync
-file database Thiet_bi_phong_may.accdb được lưu trong thư mục TinHoc_Lop12. (Microsoft Access)
-screen text: Google Forms | Submit | Loading | poster tuyên truyền.
-search query: cách dùng Windows Snipping Tool trong Windows.
-folder path: D:\TinHoc\3B\Microsoft_Paint\tranh_ngoi_nha.png.
-nhóm 1 mở Windows Settings để kiểm tra microphone trong mục Sound.
-folder path: D:\TinHoc\7A\Microsoft_Clipchamp\video_thuyet_trinh_nhom_5.mp4.
-tổ 4 kiểm tra điểm quiz sau khi submit form. (Quizizz)
-màn hình Microsoft Word có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
-nhóm 2 chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (WPS Presentation)
-browser tab search: đổi tên file Windows. (Windows File Explorer)
-màn hình Python IDLE hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
-bạn Ngọc tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
-7B mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
-screen text: Microsoft Whiteboard | Insert image | Sticky note added | bảo vệ môi trường.
-bạn Phúc cắt đoạn đầu bị lỗi rồi lưu bản final. (Audacity)
-browser tab search: ScratchJr move block.
-cửa sổ Zoom: bạn Bình đang share screen slide thống kê lớp học.
-teacher note: use Microsoft Whiteboard, finish the classroom task, then submit the file.
-teacher note: use Microsoft Outlook, finish the classroom task, then submit the file.
-search query: cách vẽ sơ đồ tư duy trên Microsoft Whiteboard.
-File transfer - Zalo
-window title: background_removed.xcf - GIMP - Editing.
-taskbar phòng máy có biểu tượng UniKey cạnh đồng hồ Windows.
-OneDrive bài thực hành
-nhóm 2 chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Microsoft Publisher)
-10A open YouTube, use Subtitles, save as youtube_link_note.txt.
-máy số 12 đang chạy Scratch, green flag vừa được bấm để test project.
-bạn An chèn ảnh từ Downloads vào bài và căn giữa khung hình. (WPS Presentation)
-bài thực hành: soạn văn bản, chèn bảng, lưu Ghi_chu_Excel.one. (Microsoft OneNote)
-screen text: Microsoft PowerPoint | Speaker Notes | Saved | di sản Việt Nam.
-search query: cách vẽ đồ thị hàm số trên GeoGebra.
-màn hình Microsoft Teams hiện câu hỏi trắc nghiệm về văn hóa đọc.
-folder path: D:\TinHoc\11A\WPS_Writer\bao_cao_wps.pdf. - WPS Writer
-Copy - Windows Snipping Tool
-teacher note: use Google Docs, finish the classroom task, then submit the file.
-cửa sổ ScratchJr: project ke_chuyen_lop_1.sjr, stage có backdrop mạng máy tính.
-cửa sổ Windows Settings: Wi-Fi đang được giáo viên chỉ trên máy chiếu.
-browser tab search: Scratch Desktop không mở được project.
-clipboard trong giờ Tin: đoạn văn ngắn về bảo vệ môi trường để đưa vào LibreOffice Writer.
-bạn Quân copy nội dung từ Chrome rồi dán vào tài liệu Google Docs.
-máy số 22 đang chạy ScratchJr, green flag vừa được bấm để test project.
-search query: Display settings resolution. (Windows Settings)
-màn hình Adobe Acrobat Reader đang zoom 125 phần trăm cho dễ đọc.
-tổ 4 chạy thử chương trình và xem output trong terminal. (PowerShell)
-search query: cách nộp bài trên Google Forms.
-nhóm 2 clicks Costumes in Scratch during Tin học class.
-cửa sổ đang mở: Slide_WPS_Nhom2.pptx - WPS Presentation, trang đầu có ảnh minh họa và tiêu đề.
-nhóm 3 dùng Find để tìm từ khóa trong tài liệu. (Foxit Reader)
-nhóm 2 sửa lỗi thiếu part khi mở file nén. (7-Zip)
-teacher note: use WPS Writer, finish the classroom task, then submit the file.
-bạn Bình dùng PDF form để tìm từ khóa trong tài liệu. (Adobe Acrobat Reader)
-search Microsoft Whiteboard
-mở Microsoft Outlook
-folder path: D:\TinHoc\7A\Google_Slides\Slide_nhom_GoogleSlides.
-search Command Prompt
-meeting đang ghi hình bài hướng dẫn thực hành Tin học. (Google Meet)
-màn hình Desmos có lưới tọa độ, trục Ox Oy và bảng biểu thức.
-browser tab search: Access tạo database quản lý thư viện.
-màn hình máy số 21 đang mở Windows Snipping Tool, trạng thái Open.
-nhóm 3 hỏi vì sao sprite không nhận phím mũi tên trong Scratch.
-màn hình máy số 32 đang mở Windows File Explorer, trạng thái Open.
-browser tab search: WPS export pdf slide. (WPS Presentation)
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Canva)
-thầy phụ trách phòng máy yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows File Explorer)
-search query: OBS quay màn hình.
-8A open Windows Calculator, use Backspace, save as calc result.
-bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Quizizz)
-bạn Ngọc copy link tham khảo vào Notepad để ghi nguồn. (Microsoft Edge)
-11A dùng Wikipedia để tìm tài liệu cho bài di sản Việt Nam.
-baud 9600 - Arduino IDE
-clipboard trong giờ Tin: đoạn văn ngắn về an toàn Internet để đưa vào Microsoft OneNote.
-clipboard trong giờ Tin: đoạn văn ngắn về hệ mặt trời để đưa vào WPS Writer.
-5A dùng OBS Studio để xử lý video hoặc âm thanh cho bài hệ mặt trời.
-tổ 4 clicks Costumes in Scratch during Công nghệ class.
-Bai_nop_Classroom.docx - Google Classroom
-bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Microsoft 365)
-mở Microsoft Paint
-screen text: WinRAR | Test | Extract complete | dự án cuối kỳ.
-màn hình OBS Studio hiện waveform, preview hoặc thanh phát media của nhóm.
-search query: cách làm nhân vật Scratch nói xin chào lớp em. (Scratch Desktop)
-máy số 30 đang chạy Scratch, green flag vừa được bấm để test project.
-search query: lỗi indentation python vscode. (Visual Studio Code)
-đường dẫn đang mở: D:\TinHoc\8A\Calculator history.
-LibreOffice Impress Insert Image
-màn hình GIMP có layer chữ tiêu đề và hình nền poster.
-browser tab search: WinRAR tạo file zip.
-11A dùng Microsoft Outlook để gửi và nhận file bài thực hành.
-bạn Quân chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (WPS Presentation)
-LibreOffice Writer bài thực hành
-thầy yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Windows Photos)
-USB\Scratch_Nhom4.sb3 - Windows File Explorer
-Calculator history - Windows Calculator
-bạn Chi clicks Draw in Microsoft OneNote during Vật lý class.
-màn hình Microsoft Clipchamp hiện waveform, preview hoặc thanh phát media của nhóm.
-teacher note: use UniKey, finish the classroom task, then submit the file.
-Join - Kahoot
-browser tab search: Word đánh số trang từ trang 2.
-clipboard trong giờ Tin: đoạn văn ngắn về văn hóa đọc để đưa vào Microsoft OneNote.
-tab trình duyệt: Kahoot - bài tập chưa nộp - due today.
-đường dẫn đang mở: D:\TinHoc\3A\Settings screenshot.
-folder path: D:\TinHoc\3B\Scratch_Desktop\BaiTapNhom3.sb3. - Scratch Desktop
-giáo viên nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (LibreOffice Impress)
-bài tập yêu cầu sort danh sách theo điểm rồi lưu Khao_sat_WPS.et. (WPS Spreadsheet)
-4A dùng Microsoft Whiteboard để vẽ sơ đồ thuật toán trước khi viết code.
-search query: Google Slides download pptx.
-bạn Ngọc nhập mã lớp rồi bấm Turn in sau khi đính kèm quizizz_result_screenshot.png. (Quizizz)
-tab trình duyệt đang mở scratch.mit.edu create và project robot_don_gian. (ScratchJr)
-bạn Dũng sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
-search query: cách căn lề trong Word.
-màn hình Windows Photos có layer chữ tiêu đề và hình nền poster.
-teacher note: use Windows File Explorer, finish the classroom task, then submit the file.
-màn hình Microsoft Forms hiện câu hỏi trắc nghiệm về lịch sử máy tính.
-search query: Teams join meeting bằng link.
-bạn Linh kéo block background vào script area trong bài biến đổi khí hậu. (ScratchJr)
-search query: cách dùng Windows Calculator trong Windows.
-terminal đang ở đường dẫn D:\TinHoc\12A\Python. (PowerShell)
-folder path: D:\TinHoc\6A\Microsoft_PowerPoint\Thuyet_trinh_Tin_hoc.pptx.
-màn hình Windows Media Player hiện waveform, preview hoặc thanh phát media của nhóm.
-bài dự án yêu cầu sản phẩm media dưới 3 phút, có tiêu đề và nguồn tư liệu. (Windows Media Player)
-cô chiếu cách kéo fill handle để sao chép công thức. (Google Sheets)
-Rename - Windows File Explorer
-3A mở Scratch Desktop để copy project mẫu từ ổ D sang máy học sinh; sprite mèo đang đứng giữa sân khấu.
-bài dự án yêu cầu sản phẩm media dưới 3 phút, có tiêu đề và nguồn tư liệu. (Microsoft Clipchamp)
-bạn Minh nhập danh sách học sinh và điểm thực hành vào Sheet1. (WPS Spreadsheet)
-folder path: D:\TinHoc\11A\Command_Prompt\C:\Users\Student\Desktop\baitap. - Command Prompt
-cửa sổ Quizizz: bài tập ngày hội STEM đang chờ submit.
-bạn Minh kiểm tra file Calculator history trước khi nộp bài.
-teacher note: use Windows Calculator, finish the classroom task, then submit the file.
-screen text: Windows Snipping Tool | Rectangular mode | Settings changed | ngày hội STEM.
-cửa sổ Microsoft Forms: bài tập máy tính và cuộc sống đang chờ submit.
-ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (WPS Spreadsheet)
-tab Microsoft Access đang mở Report danh sách thiết bị phòng máy.
-10A open Microsoft Access, use Query Design, save as Thiet_bi_phong_may.accdb.
-bạn An kéo block motion blocks vào script area trong bài mạng máy tính. (Scratch)
-bạn Bình crop ảnh chụp bảng để đưa vào tài liệu Word. (Microsoft Paint)
-Zalo Downloads\BaiTap.docx - Zalo
-screen text: Visual Studio Code | Format Document | Terminal open | mạng máy tính.
-nhóm 2 dùng Transparent background để tô màu, cắt ảnh hoặc thêm chữ. (Paint.NET)
-search query: hàm SUM AVERAGE IF trong LibreOffice Calc.
-browser tab search: Drive upload file lớp học.
-7C open Microsoft OneNote, use Screen Clipping, save as Ghi_chu_Excel.one.
-bạn Bình sửa lỗi formula trong Google Sheets sau khi nhập sai dấu phẩy.
-browser tab search: Publisher export PDF.
-folder path: D:\TinHoc\10A\Microsoft_Paint\la_co_viet_nam.png.
-browser tab search: Notepad lưu tiếng Việt UTF-8.
-6C mở Microsoft Excel để vẽ biểu đồ cột từ bảng số liệu, cột điểm đang dùng công thức.
-cô giáo nhắc không xóa file gốc trước khi kiểm tra giải nén. (WinRAR)
-file De_bai_thuc_hanh.pdf đang ở chế độ Read-only trong tiết thực hành. (Foxit Reader)
-search query: cách share Google Slides.
-PowerShell trong phòng Tin
-Extract To - WinRAR
-search query: Excel IF tutorial tiếng Việt. (YouTube)
-bạn Hà clicks txt in Windows Notepad during Lịch sử class.
-cô giáo nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Google Slides)
-bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows Snipping Tool)
-màn hình PowerShell hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
-screen text: Scratch Desktop | Choose a Sprite | Loading | di sản Việt Nam.
-màn hình Microsoft 365 hiện trạng thái Upload complete cho file Microsoft365_recent_files.
-search query: ảnh thuyết trình bảo vệ môi trường. (Google Chrome)
-cửa sổ code: main.py - Command Prompt, dòng hiện tại đang có lỗi cú pháp.
-teacher note: use Windows Settings, finish the classroom task, then submit the file.
-cô giáo nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
-bạn Linh kiểm tra điểm quiz sau khi submit form. (Kahoot)
-4C mở Scratch Desktop để sửa project mèo nhảy qua chướng ngại vật; sprite mèo đang đứng giữa sân khấu.
-Scratch trong phòng Tin
-màn hình Google Meet hiện chat có link bài tập và file meet_recording_drive.
-ScratchJr bài thực hành
-màn hình Microsoft 365 hiện trạng thái Message sent cho file Bai_tap_online.docx.
-folder path: D:\TinHoc\9A\Python_IDLE\bai1.py. - Python IDLE
-màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát lịch sử máy tính.
-bạn Vy clicks Python extension in Visual Studio Code during Công nghệ class.
-4A dùng LibreOffice Writer để lưu tài liệu thành .odt và .pdf, file đang lưu trong thư mục BaiTapTinHoc.
-teacher note: use Command Prompt, finish the classroom task, then submit the file.
-6A thao tác Windows Settings trong bài làm quen hệ điều hành Windows.
-tổ 4 kiểm tra điểm quiz sau khi submit form. (Google Forms)
-tab trình duyệt đang hiện search results: scratch mit edu. (Microsoft Edge)
-teacher note: use PowerShell, finish the classroom task, then submit the file.
-trang kết quả mở tab mới cho video hướng dẫn Videos. (Google Search)
-bạn Ngọc kéo block fullscreen vào script area trong bài dự án cuối kỳ. (Scratch Desktop)
-11A mở Google Sheets để download bảng thành Excel .xlsx, cột điểm đang dùng công thức.
-search query: Google Drive share link.
-nhóm 2 sửa lỗi dấu tiếng Việt bị lệch trong PowerPoint. (EVKey)
-screen text: Google Sheets | Download XLSX | Editing | dự án cuối kỳ.
-cửa sổ bảng tính: Khao_sat_WPS.et - WPS Spreadsheet, ô B2 đang được chọn.
-screen text: Microsoft 365 | OneDrive | Message sent | máy tính và cuộc sống.
-thầy nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
-cửa sổ code: index.html - Visual Studio Code, dòng hiện tại đang có lỗi cú pháp.
-thầy phụ trách phòng máy hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
-window title: Responses_GoogleForms_Sheets - Google Forms - Assigned.
-cửa sổ Google Meet: tổ 4 đang share screen slide biến đổi khí hậu.
-cửa sổ ảnh: bai_ve_paint_lop_3.png - Microsoft Paint, vùng crop đang được chọn.
-screen text: Gmail | Drive insert | Shared | thống kê lớp học.
-folder path: D:\TinHoc\8B\Windows_Photos\anh_thuyet_trinh.jpg.
-12A mở Google Sheets để tính trung bình bằng hàm AVERAGE, cột điểm đang dùng công thức.
-10A dùng Microsoft Whiteboard để vẽ sơ đồ thuật toán trước khi viết code.
-tab Microsoft Excel: Filter đang bật cho bảng thống kê lớp.
-12A open Microsoft Forms, use Multiple choice, save as Ket_qua_Forms.xlsx.
-screen text: Google Classroom | Class code | Assigned | máy tính và cuộc sống.
-10A open Wikipedia, use Search Wikipedia, save as tham_khao_wikipedia.txt.
-Scratch Desktop Costumes
-teacher note: use Microsoft Forms, finish the classroom task, then submit the file.
-Microsoft Excel trong phòng Tin
-search query: cách giải nén file bằng WinRAR.
-bạn Hà sửa lỗi thiếu part khi mở file nén. (WinRAR)
-screen text: Microsoft Outlook | Cc | Upload complete | di sản Việt Nam.
-search query: cách sửa lỗi code . trong PowerShell.
-Microsoft Whiteboard trong phòng Tin
-thầy nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Canva)
-bạn Hà clicks Downloads in Microsoft Edge during Tin học class.
-màn hình Microsoft Publisher đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
-cửa sổ code: robot_line_follow.ino - Arduino IDE, dòng hiện tại đang có lỗi cú pháp.
-màn hình OneDrive hiện trạng thái Sync pending cho file Shared/Slide_Nhom3.pptx.
-search query: LibreOffice tạo chart. (LibreOffice Calc)
-cô gửi deadline trong Google Forms, học sinh xem mục Classwork.
-trang kết quả mở tab mới cho video hướng dẫn References. (Wikipedia)
-taskbar phòng máy có biểu tượng EVKey cạnh đồng hồ Windows.
-Windows Settings bài thực hành
-folder path: D:\TinHoc\12A\Zoom\meeting_chat.txt.
-bạn Trang tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Microsoft Edge)
-11A mở PowerShell để viết chương trình trong tiết lập trình.
-browser tab search: tìm mail trong Outlook.
-screen text: Windows Snipping Tool | Window mode | Copied | ngày hội STEM.
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Google Slides)
-search query: cách nộp bài trên Quizizz.
-browser tab search: Microsoft Forms tạo quiz.
-screen text: Google Docs | Suggesting | Exporting PDF | văn hóa đọc.
-cửa sổ đang mở: bao_cao_wps.pdf - WPS Writer, con trỏ nằm ở đoạn giới thiệu bản thân.
-tab Microsoft PowerPoint hiện mục Presenter View, học sinh đang chỉnh bố cục.
-teacher note: use Zalo, finish the classroom task, then submit the file.
-bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Microsoft Outlook)
-bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows File Explorer)
-clipboard đang có link chia sẻ tài liệu bảo vệ môi trường. (Microsoft 365)
-WPS Spreadsheet Save as XLSX
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (LibreOffice Impress)
-bài thực hành yêu cầu tạo poster đơn giản về ngày hội STEM. (Windows Photos)
-bạn Nam clicks Layers in Paint.NET during Công nghệ class.
-teacher note: use Microsoft Edge, finish the classroom task, then submit the file.
-nhóm 3 share link tài liệu cho nhóm chỉnh sửa. (OneDrive)
-9A mở PowerShell để viết chương trình trong tiết lập trình.
-màn hình máy số 36 đang mở Windows Snipping Tool, trạng thái Ready.
-Wikipedia Infobox
-3B mở Microsoft Paint để chỉnh ảnh minh họa cho bài sơ đồ tư duy.
-search query: 1 GB bằng bao nhiêu MB. (Windows Calculator)
-7A mở Command Prompt để viết chương trình trong tiết lập trình.
-New folder - Google Drive
-bạn Quân sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
-thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (OneDrive)
-folder path: D:\TinHoc\4A\GIMP\anh_minh_hoa_gimp.png.
-search query: Microsoft Teams nộp bài assignments.
-browser tab search: Google Forms responses to Sheets.
-search Microsoft Teams
-mở Windows Snipping Tool
-10A open Microsoft Publisher, use Brochure template, save as poster_ngay_hoi_truong.pub.
-bài thực hành yêu cầu tạo poster đơn giản về thống kê lớp học. (Paint.NET)
-bài thực hành: soạn văn bản, chèn bảng, lưu Bao_cao_nhom_GoogleDocs.
-phiếu bài tập: tạo câu chuyện tương tác bằng Scratch, có ít nhất hai nhân vật.
-screen text: Adobe Acrobat Reader | Fill & Sign | Read-only | biến đổi khí hậu.
-tab trình duyệt: Google Forms - bài tập chưa nộp - due today.
-folder path: D:\TinHoc\3A\Microsoft_Word\Thoi_khoa_bieu.docx.
-cô nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
-browser tab search: Desmos slider tutorial.
-search query: cách export file media trong Windows Media Player.
-5A open Inkscape, use Bezier, save as so_do_mang.svg.
-teacher note: use Google Classroom, finish the classroom task, then submit the file.
-search query: Google Forms tạo quiz.
-Desmos bài thực hành
-bạn Minh cắt đoạn đầu bị lỗi rồi lưu bản final. (Audacity)
-bạn Phúc chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (WPS Presentation)
-browser tab search: Teams lớp học online cách dùng.
-mở PowerShell
-file cuối cùng được lưu là bai_thuyet_trinh_wps.pdf trong thư mục Slide_Final. (WPS Presentation)
-8A open PowerShell, use ls, save as main.py.
-screen text: Windows Calculator | Percent | Copied | máy tính và cuộc sống.
-search query: cách làm nhân vật Scratch nói xin chào lớp em. (ScratchJr)
-search Gmail
-taskbar có Windows Calculator, Chrome, Word và UniKey đang chạy.
-window title: snip_scratch_project.png - Windows Snipping Tool - Screenshot saved.
-cửa sổ Scratch Desktop: project Tiet_7_Scratch_Offline.sb3, stage có backdrop hệ mặt trời.
-bạn Trang kéo block Code tab vào script area trong bài sơ đồ tư duy. (Scratch Desktop)
-bạn Dũng bấm Playlist để kiểm tra đoạn thuyết minh. (Windows Media Player)
-screen text: Microsoft Whiteboard | Sticky notes | Shared | robot đơn giản.
-bạn Dũng sửa lỗi thiếu part khi mở file nén. (WinRAR)
-search query: mẫu thiết kế thuyết trình chủ đề năng lượng tái tạo cho học sinh. (Microsoft PowerPoint)
-tab trình duyệt đang mở scratch.mit.edu create và project robot_don_gian. (Scratch Desktop)
-7C open Microsoft OneNote, use Screen Clipping, save as TinHoc_ClassNotebook.one.
-bạn Vy copy link tham khảo vào Notepad để ghi nguồn. (Wikipedia)
-tab Microsoft PowerPoint hiện mục Design, học sinh đang chỉnh bố cục.
-thầy yêu cầu tắt micro khi chưa phát biểu. (Google Meet)
-search query: Excel hàm SUM lớp 7.
-9A mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
-nhóm 1 sửa lỗi formula trong Microsoft Excel sau khi nhập sai dấu phẩy.
-thầy phụ trách phòng máy gửi deadline trong Microsoft Forms, học sinh xem mục Classwork.
-Paint.NET bài thực hành
-12A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
-window title: search_results_page - Google Search - Search results.
-9B dùng WPS Writer để save as file mới vào Desktop, file đang lưu trong thư mục BaiTapTinHoc.
-folder path: D:\TinHoc\3A\Google_Classroom\Bai_nop_Classroom.docx.
-folder path: D:\TinHoc\12A\Thonny\bai_tap_thonny.py.
-cô giáo nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
-bạn Hà tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
-bạn Phúc clicks Relationships in Microsoft Access during Tin học class.
-screen text: Microsoft OneNote | To Do tag | Editing | di sản Việt Nam.
-folder path: D:\TinHoc\11A\Gmail\attachment_tin_hoc.docx.
-thầy phụ trách phòng máy yêu cầu đặt tên file theo mẫu 6A_ban_Binh_van_ban. (Microsoft Word)
-bạn Nam clicks Draft in Gmail during Vật lý class.
-Reply - Microsoft Outlook
-folder path: D:\TinHoc\6A\Microsoft_Whiteboard\so_do_thuat_toan_whiteboard.png.
-bạn Hà tìm lại email hoặc tin nhắn chứa mã lớp học. (Google Drive)
-bạn Quân clicks Subtitle in Windows Media Player during GDCD class.
-8C mở Microsoft Excel để vẽ biểu đồ cột từ bảng số liệu, cột điểm đang dùng công thức.
-8A mở PowerShell để viết chương trình trong tiết lập trình.
-terminal đang ở đường dẫn D:\TinHoc\12A\Python. (Command Prompt)
-screen text: Microsoft 365 | App launcher | Message sent | ngày hội STEM.
-teacher note: use Microsoft Clipchamp, finish the classroom task, then submit the file.
-Windows Photos Save a copy
-bạn Hà gõ print('Hello class') rồi lưu vào thư mục Python. (Python IDLE)
-Windows Calculator Memory
-bạn Hà kéo block background vào script area trong bài hệ mặt trời. (ScratchJr)
-tab trình duyệt: Quizizz - bài tập chưa nộp - due today.
-cửa sổ Windows Media Player: media timeline hoặc track âm thanh đang được mở.
-window title: project_scratch.zip - 7-Zip - Compression complete.
-folder path: D:\TinHoc\12A\Desmos\do_thi_desmos.png.
-clipboard đang có link chia sẻ tài liệu an toàn Internet. (OneDrive)
-cửa sổ ảnh: logo_nhom.svg - Inkscape, vùng crop đang được chọn.
-10A open Microsoft Teams, use Files, save as Bai_nop_Teams.docx.
-search query: cách chia sẻ file bằng Google Drive.
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Microsoft PowerPoint)
-tab Canva hiện mục Text, học sinh đang chỉnh bố cục.
-teacher note: use Python IDLE, finish the classroom task, then submit the file.
-cô giáo nhắc kiểm tra nguồn trước khi copy vào slide. (Microsoft Edge)
-file archive được đặt tên 12A_so_do_tu_duy_final.zip. (7-Zip)
-bạn Hà chạy thử chương trình và xem output trong terminal. (Command Prompt)
-screen text: Google Drive | Share | Downloaded | sơ đồ tư duy.
-10A dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về thuật toán.
-bạn Bình chỉnh font và căn lề tài liệu bằng Version history. (Google Docs)
-màn hình Zoom hiện chat có link bài tập và file meeting_chat.txt.
-tổ 4 clicks Settings in OBS Studio during Hóa học class.
-clipboard trong giờ Tin: đoạn văn ngắn về hệ mặt trời để đưa vào Google Docs.
-search query: cách sửa lỗi Terminal trong Visual Studio Code.
-bạn Trang chạy thử chương trình và xem output trong terminal. (Python IDLE)
-browser tab search: Outlook school email login.
-trang kết quả mở tab mới cho video hướng dẫn Immersive Reader. (Microsoft Edge)
-search query: ipconfig là gì tin học. (Command Prompt)
-thầy phụ trách phòng máy nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch Desktop)
-bạn Linh clicks Export PDF in WPS Writer during Địa lý class.
-bạn Linh tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft Outlook)
-Incognito - Google Chrome
-12A mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
-screen text: Google Chrome | Address bar | Search results | an toàn Internet.
-cửa sổ Google Meet: tổ 4 đang share screen slide poster tuyên truyền.
-search query: mẫu thiết kế thuyết trình chủ đề poster tuyên truyền cho học sinh. (LibreOffice Impress)
-window title: Bai_thuyet_trinh.pptx - Google Slides - Saved.
-bạn Hà clicks Ctrl M in Microsoft PowerPoint during Ngữ văn class.
-nhóm 1 kiểm tra điểm quiz sau khi submit form. (Microsoft Teams)
-search query: IDLE F5 Run Module. (Python IDLE)
-file xuất ra: thuyet_minh_nhom.aup3, trạng thái Audio OK. (Audacity)
-window title: Khao_sat_WPS.et - WPS Spreadsheet - Filter applied.
-thầy nhắc kiểm tra nguồn trước khi copy vào slide. (Google Search)
-thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Gmail)
-bài thực hành yêu cầu tạo poster đơn giản về sơ đồ tư duy. (Windows Photos)
-Wikipedia bài thực hành
-folder path: D:\TinHoc\5A\Scratch_Desktop\BaiTapNhom3.sb3. - Scratch Desktop
-bạn Chi sửa lỗi formula trong LibreOffice Calc sau khi nhập sai dấu phẩy.
-Export - Microsoft Clipchamp
-folder path: D:\TinHoc\5A\Google_Chrome\anh_minh_hoa.jpg.
-bạn Quân chỉnh font và căn lề tài liệu bằng Suggesting. (Google Docs)
-giáo viên chiếu cách kéo fill handle để sao chép công thức. (Microsoft Excel)
-thầy nhắc kiểm tra âm lượng trước khi nộp file cuối. (Windows Media Player)
-7A open Microsoft Publisher, use Print Preview, save as poster_ngay_hoi_truong.pub.
-màn hình Microsoft Outlook hiện trạng thái Shared cho file Bai_thuc_hanh_gui_email.docx.
-trên canvas Inkscape, học sinh đang chỉnh màu và căn giữa đối tượng.
-clipboard trong giờ Tin: đoạn văn ngắn về robot đơn giản để đưa vào Microsoft Word.
-teacher note: use Foxit Reader, finish the classroom task, then submit the file.
-bạn Bình clicks Templates in WPS Writer during Công nghệ class.
-Google Forms Required
-search query: WPS save as xlsx. (WPS Spreadsheet)
-11A open OneDrive, use Sync, save as Shared/Slide_Nhom3.pptx.
-folder path: D:\TinHoc\12A\OneDrive\OneDrive/TinHoc/BaiTap.docx.
-bạn An share link tài liệu cho nhóm chỉnh sửa. (Microsoft Outlook)
-8A open Command Prompt, use python --version, save as C:\Users\Student\Desktop\baitap.
-9B open Google Search, use Related searches, save as search_results_page.
-folder path: D:\TinHoc\10A\Microsoft_Outlook\Bai_thuc_hanh_gui_email.docx.
-10A open 7-Zip, use File Manager, save as BaiTapTinHoc.zip.
-học sinh mở Kahoot, đọc nhận xét của giáo viên rồi sửa bài.
-screen text: Command Prompt | dir | Debugging | dữ liệu và thông tin.
-window title: game_me_cung_lop_6.sb3 - Scratch - Offline file opened.
-4B open Microsoft Teams, use Turn in, save as Assignment_TinHoc.xlsx.
-trên canvas Windows Photos, học sinh đang chỉnh màu và căn giữa đối tượng.
-teacher note: use Google Drive, finish the classroom task, then submit the file.
-bạn Phúc chỉnh font và căn lề tài liệu bằng Find. (Windows Notepad)
-cửa sổ đang mở: Bai_tap_mo_bang_LibreOffice.docx - LibreOffice Writer, con trỏ nằm ở đoạn giới thiệu bản thân.
-nhóm 2 clicks OneDrive in Microsoft 365 during Lịch sử class.
-screen text: Windows Notepad | UTF-8 | Editing | bảo vệ môi trường.
-4C mở ScratchJr để tạo câu chuyện con mèo chào bạn; sprite mèo đang đứng giữa sân khấu.
-thầy nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch)
-bạn Hà clicks Turn in in Google Classroom during Tin học class.
-7A open Foxit Reader, use Zoom, save as Huong_dan_Foxit.pdf.
-tab Microsoft Publisher hiện mục Print Preview, học sinh đang chỉnh bố cục.
+
+1.2. Lên men trong nước mắm truyền thống mang lại giá trị sức khỏe cho con người
+1.2. Nước mắm Thuận Hưng - lên men tự nhiên an toàn cho sức khoẻ
+1.2.2. Giá trị dinh dưỡng trong nước mắm cá cơm nguyên chất
+1.2.2. Sáu tác dụng của nước mắm đối với sức khỏe
+1.3. Mối liên quan giữa nước mắm và bệnh tăng huyết áp
+1.3. Nước mắm cho người bị huyết áp cao nên có hàm lượng muối thấp
+1.5. Bảo quản nước mắm chua ngọt trong tủ lạnh đúng cách
+1.5. Cách nhận biết nước mắm chua ngọt bị hỏng
+1.6. Cá cơm đặc biệt, vì sao?
+1.6. Tại sao nước mắm được làm từ cá cơm mới ngon nhất?
 10A dùng Google Docs để download file thành Microsoft Word, file đang lưu trong thư mục BaiTapTinHoc.
-trên tab Google Docs đang hiện Comment, học sinh chuẩn bị export PDF.
-5A open Microsoft Clipchamp, use Aspect ratio, save as gioi_thieu_truong.mp4.
-bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows Settings)
-bạn Nam tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
-search query: mẫu thiết kế thuyết trình chủ đề thống kê lớp học cho học sinh. (Microsoft Publisher)
-search query: tìm mail trong Outlook.
-bạn Phúc bấm Subtitle để kiểm tra đoạn thuyết minh. (Windows Media Player)
-bạn Minh bấm Subtitle để kiểm tra đoạn thuyết minh. (Windows Media Player)
-thầy yêu cầu đọc kỹ phần hướng dẫn trước khi làm trên Word. (Adobe Acrobat Reader)
-bạn Phúc clicks Win Shift S in Windows Snipping Tool during STEM class.
-bạn Quân tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Google Chrome)
-GeoGebra Circle tool
-bạn Phúc mở Windows File Explorer để xóa file nháp trước khi nộp bài.
-nhóm 2 clicks Shapes in Microsoft Paint during Công nghệ class.
-browser tab search: Microsoft 365 đăng nhập học sinh.
-6A dùng Google Drive để gửi và nhận file bài thực hành.
-thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Microsoft Outlook)
-New Form - Microsoft Forms
-ô địa chỉ trình duyệt đang nhập từ khóa về hệ mặt trời. (Google Chrome)
-7A mở Paint.NET để chỉnh ảnh minh họa cho bài mạng máy tính.
-bạn Chi share link tài liệu cho nhóm chỉnh sửa. (Gmail)
-folder path: D:\TinHoc\7A\GeoGebra\hinh_hoc_geogebra.png.
-cửa sổ Windows Snipping Tool: Window mode đang được giáo viên chỉ trên máy chiếu.
-10A open Microsoft Outlook, use Reply, save as attachment_bai_tap.xlsx.
-cô yêu cầu đặt tên file theo mẫu 12A_to_4_van_ban. (Microsoft Word)
-5B open ScratchJr, use page, save as nhan_vat_di_chuyen.sjr.
-cửa sổ GeoGebra: đồ thị y=x^2 và đường thẳng y=2x+1 đang hiển thị.
-bạn Linh kiểm tra điểm quiz sau khi submit form. (Microsoft Forms)
-bạn Nam hỏi vì sao sprite không nhận phím mũi tên trong Scratch.
-bạn Bình clicks New tab in Microsoft Edge during Tin học class.
-màn hình Visual Studio Code hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
-máy phòng Tin đang phát thử sản phẩm thuyết trình bằng Audacity.
-search query: cách nộp bài trên Microsoft Forms.
-folder path: D:\TinHoc\6A\Desmos\do_thi_desmos.png.
-bạn Phúc mở Windows Settings để mở Display settings để chỉnh resolution.
-Zoom bài thực hành
-trên tab LibreOffice Writer đang hiện ODT, học sinh chuẩn bị export PDF.
-window title: PS C:\Users\Student\TinHoc> - PowerShell - Running.
-nhóm 2 chỉnh font và căn lề tài liệu bằng Templates. (WPS Writer)
-bạn Ngọc kéo block record sound vào script area trong bài poster tuyên truyền. (ScratchJr)
-10A open Windows File Explorer, use New folder, save as USB\Scratch_Nhom4.sb3.
-bạn Vy clicks Speaker notes in Google Slides during Tin học class.
-bạn Quân sửa lỗi formula trong Microsoft Excel sau khi nhập sai dấu phẩy.
-LibreOffice Impress bài thực hành
-Zalo PC - Zalo
-bạn An clicks Vietnamese mode in EVKey during Toán class.
-search query: cách dùng Windows File Explorer trong Windows.
-file xuất ra: gioi_thieu_truong.mp4, trạng thái Recording. (Microsoft Clipchamp)
-folder path: D:\TinHoc\10A\WPS_Presentation\Slide_WPS_Nhom2.pptx. - WPS Presentation
-11B open Microsoft PowerPoint, use F5, save as Nhom_4_slide.pptx.
-màn hình WPS Writer có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
-cửa sổ Google Forms: bài tập năng lượng tái tạo đang chờ submit.
-search query: execution policy là gì. (PowerShell)
-screen text: Thonny | Run | Saved | an toàn Internet.
-bạn Dũng clicks Ctrl L in Microsoft Edge during Tin học class.
-tab Google Meet hiện Participants, Chat và nút Present.
-clipboard trong giờ Tin: đoạn văn ngắn về nghề nghiệp tương lai để đưa vào Microsoft Word.
-browser tab search: google slides template education. (Google Chrome)
-taskbar có Windows File Explorer, Chrome, Word và UniKey đang chạy.
-search Microsoft Edge
-search query: WPS Presentation mở pptx.
-teacher note: use Windows Notepad, finish the classroom task, then submit the file.
-màn hình máy số 40 đang mở Windows File Explorer, trạng thái Copied.
-screen text: Microsoft Access | accdb | Table open | bài thuyết trình tiếng Anh.
-bạn Hà tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (YouTube)
-window title: Ghi_chu_Excel.one - Microsoft OneNote - Exporting PDF.
-ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (LibreOffice Calc)
-nhóm 2 nhập mã lớp rồi bấm Turn in sau khi đính kèm Responses_GoogleForms_Sheets.
-browser tab search: Windows Calculator scientific mode.
-6A open Microsoft Forms, use New Quiz, save as Ket_qua_Forms.xlsx.
-Settings screenshot - Windows Settings
-bài tập yêu cầu sort danh sách theo điểm rồi lưu Bang_diem_online.xlsx. (Google Sheets)
-đường dẫn đang mở: D:\TinHoc\6A\calc result. (Windows Calculator)
-search Google Drive
-bạn Minh kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
-nhóm 3 mở Windows Settings để xem dung lượng ổ C còn trống.
-tab GeoGebra đang zoom vào giao điểm của hai đường.
-screen text: Microsoft Teams | Mute | Graded | máy tính và cuộc sống.
-GIMP trong phòng Tin
-bạn Dũng mở Windows Snipping Tool để copy snip vào PowerPoint.
-bạn Hà clicks Download in OneDrive during Hóa học class.
-window title: Bai_thuc_hanh_Word_lop_6.docx - Microsoft Word - Read-only.
-cửa sổ Microsoft 365: Bai_tap_online.docx đang được upload vào thư mục lớp.
-search query: EVKey không gõ được tiếng Việt trong Chrome.
-bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Microsoft Publisher)
-bạn An clicks Search messages in Zalo during Ngữ văn class.
-window title: nhan_vat_di_chuyen.sjr - ScratchJr - Loading.
-folder path: D:\TinHoc\10A\Microsoft_OneNote\TinHoc_ClassNotebook.one.
-search query: cách resize ảnh trong Inkscape.
-Windows Media Player trong phòng Tin
-browser tab search: mở file PDF trên máy tính. (Foxit Reader)
-8B mở Command Prompt để viết chương trình trong tiết lập trình.
-bạn Bình dùng Highlight để tìm từ khóa trong tài liệu. (Foxit Reader)
-9A open Zalo, use Group, save as Zalo Downloads\BaiTap.docx.
-mở LibreOffice Writer
-12A open Canva, use Template, save as poster_canva.png.
+10A dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về thuật toán.
+10A dùng Microsoft Whiteboard để vẽ sơ đồ thuật toán trước khi viết code.
 10A dùng OneDrive để gửi và nhận file bài thực hành.
-6A open 7-Zip, use zip, save as BaiTapTinHoc.zip.
-thầy phụ trách phòng máy hướng dẫn lưu file .py trước khi chạy bài. (Python IDLE)
-cửa sổ Windows File Explorer: File name extensions đang được giáo viên chỉ trên máy chiếu.
-bạn Quân mở Windows Snipping Tool để chụp màn hình điểm quiz sau khi submit.
-9B open Microsoft Clipchamp, use Export, save as video_thuyet_trinh_nhom_5.mp4.
-màn hình WPS Presentation đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
-cửa sổ Zalo: anh_loi_may_tinh.png đang được upload vào thư mục lớp.
-thầy gửi deadline trong Google Classroom, học sinh xem mục Classwork.
-browser tab search: file rar bị lỗi. (WinRAR)
-cửa sổ Microsoft Forms: bài tập văn hóa đọc đang chờ submit.
-màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát năng lượng tái tạo.
-giáo viên hướng dẫn tạo form nhập dữ liệu trong Microsoft Access.
-folder path: D:\TinHoc\4A\Scratch_Desktop\catch_apple_offline.sb3. - Scratch Desktop
-folder path: D:\TinHoc\4A\Microsoft_Paint\la_co_viet_nam.png.
-bạn Linh kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
-bạn Minh share link tài liệu cho nhóm chỉnh sửa. (Google Drive)
-window title: Zoom_recording_tin_hoc.mp4 - Zoom - Chat open.
-bạn Vy chạy thử chương trình và xem output trong terminal. (Python IDLE)
-download_from_edge.docx - Microsoft Edge
-search query: cách chia sẻ file bằng Microsoft Outlook.
-nhóm 1 clicks PATH in Command Prompt during Tin học class.
-bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Arduino IDE)
-file ảnh được xuất ra thư mục Downloads dưới tên poster_lop.jpeg. (Windows Photos)
-8A mở Google Sheets để copy công thức xuống các dòng dưới, cột điểm đang dùng công thức.
-2A open Windows Snipping Tool, use New snip, save as screenshot_loi_excel.png.
-screen text: Wikipedia | Infobox | Loading | bảo vệ môi trường.
-search query: cách export file media trong Audacity.
-search Windows Settings
-bạn Ngọc clicks Ctrl S in Microsoft Word during Khoa học tự nhiên class.
-folder path: D:\TinHoc\6A\WPS_Presentation\Slide_WPS_Nhom2.pptx. - WPS Presentation
-7B mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
-mở Microsoft Publisher
-screen text: Microsoft Clipchamp | Record screen | Render complete | thống kê lớp học.
-Library Manager - Arduino IDE
-tab trình duyệt đang mở scratch.mit.edu create và project mang_may_tinh. (ScratchJr)
-window title: ghi_chu_tin_hoc.txt - Windows Notepad - Editing.
-folder path: D:\TinHoc\12A\WinRAR\images_part1.rar.
-search query: Windows Photos crop image.
-file database Quan_ly_hoc_sinh.accdb được lưu trong thư mục TinHoc_Lop12. (Microsoft Access)
-search query: cách dùng Windows Settings trong Windows.
-tổ 4 clicks Translate in Google Chrome during Tin học class.
-cửa sổ đang mở: dan_y_thuyet_trinh.txt - Windows Notepad, con trỏ nằm ở đoạn giới thiệu bản thân.
-bạn Vy clicks mp3 in Windows Media Player during Toán class.
-tổ 4 dùng Expression list để chỉnh tham số và quan sát đồ thị. (Desmos)
-window title: anh_loi_may_tinh.png - Zalo - Downloaded.
-cô giáo hướng dẫn export hình vẽ sang PNG để đưa vào báo cáo. (GeoGebra)
-search Windows File Explorer
-tab LibreOffice Impress hiện mục ODP, học sinh đang chỉnh bố cục.
-bạn Quân clicks Save a copy in Windows Photos during GDCD class.
-tổ 4 gõ print('Hello class') rồi lưu vào thư mục Python. (PowerShell)
-window title: Bang_diem_lop_7.xlsx - Microsoft Excel - Saved.
-search query: cách vẽ đồ thị hàm số trên Desmos.
-8B open Microsoft Paint, use Eraser, save as bai_ve_paint_lop_3.png.
-window title: File_from_Drive - Google Classroom - Loading.
-project may_tinh_va_cuoc_song có file main.py, README.txt và thư mục data. (PowerShell)
-search query: cách căn lề và đánh số trang trong LibreOffice Writer.
-teacher note: use OBS Studio, finish the classroom task, then submit the file.
-bài thực hành yêu cầu tạo poster đơn giản về văn hóa đọc. (Windows Photos)
-máy số 11 đang chạy Scratch, green flag vừa được bấm để test project.
-project poster_tuyen_truyen có file main.py, README.txt và thư mục data. (PowerShell)
-bạn Phúc clicks Pen in Microsoft Whiteboard during Ngữ văn class.
-display_resolution.png - Windows Settings
-bạn An cắt đoạn đầu bị lỗi rồi lưu bản final. (Microsoft Clipchamp)
-nhóm 1 dùng Graph settings để chỉnh tham số và quan sát đồ thị. (Desmos)
-window title: so_do_thuat_toan_whiteboard.png - Microsoft Whiteboard - Shared.
-Adobe Acrobat Reader trong phòng Tin
-cửa sổ bảng tính: Bang_diem_Calc.ods - LibreOffice Calc, ô B2 đang được chọn.
-6C mở LibreOffice Calc để đổi tên sheet thành KhaoSat, cột điểm đang dùng công thức.
-teacher note: use GeoGebra, finish the classroom task, then submit the file.
-file ảnh được xuất ra thư mục Downloads dưới tên bai_ve_paint_lop_3.png. (Microsoft Paint)
-trên tab Windows Notepad đang hiện Untitled, học sinh chuẩn bị export PDF.
-Microsoft Publisher bài thực hành
-nhóm 3 clicks Multiple choice in Google Forms during GDCD class.
-cửa sổ đang mở: Scratch_notes.one - Microsoft OneNote, con trỏ nằm ở đoạn giới thiệu bản thân.
-màn hình máy số 7 đang mở Windows Calculator, trạng thái Ready.
-folder path: D:\TinHoc\8B\PowerShell\PS C:\Users\Student\TinHoc>.
-bạn Dũng clicks Shared with me in Google Drive during Ngữ văn class.
-search Google Slides
-bạn Chi nhập danh sách học sinh và điểm thực hành vào Sheet1. (Microsoft Excel)
-search query: Google Classroom class code.
-search query: Shared with me Google Drive.
-bạn Trang gõ print('Hello class') rồi lưu vào thư mục Python. (Command Prompt)
-tổ 4 nhập danh sách học sinh và điểm thực hành vào Sheet1. (LibreOffice Calc)
-khi nhập mật khẩu tài khoản học tập, học sinh tắt Vietnamese mode. (EVKey)
-screen text: Zoom | Chat | Joined | ngày hội STEM.
-màn hình Google Classroom hiện câu hỏi trắc nghiệm về văn hóa đọc.
-browser tab search: OneNote đồng bộ chậm.
-search query: GeoGebra tam giác đo góc.
-teacher note: use Adobe Acrobat Reader, finish the classroom task, then submit the file.
-folder path: D:\TinHoc\12A\Microsoft_PowerPoint\Nhom_4_slide.pptx.
-bạn Dũng kiểm tra file Calculator history trước khi nộp bài.
-Transitions - Microsoft Clipchamp
-window title: kahoot_pin.txt - Kahoot - Due today.
-bạn Nam dùng Eraser để tô màu, cắt ảnh hoặc thêm chữ. (Microsoft Paint)
-cô giáo yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows Snipping Tool)
-giáo viên gửi link tài liệu trong nhóm lớp, học sinh bấm download. (Google Drive)
-window title: scratchjr_gia_dinh.sjr - ScratchJr - Project saved.
-thầy yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Inkscape)
-bạn Bình chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
-cửa sổ WinRAR: archive Tai_lieu_lop_8.rar đang được extract vào D:\TinHoc.
-bạn Hà clicks Stop Recording in OBS Studio during Lịch sử class.
-bạn Nam kiểm tra file snip_scratch_project.png trước khi nộp bài. (Windows Snipping Tool)
-bạn Bình clicks Shared in OneDrive during Khoa học tự nhiên class.
-screen text: Windows File Explorer | Date modified | Ready | máy tính và cuộc sống.
-browser tab search: Gmail tìm email cũ.
-bạn Dũng đặt primary key cho trường MaSach. (Microsoft Access)
+10A mở Google Classroom để làm bài kiểm tra nhanh môn Tin học.
+10A mở Microsoft Access để tạo database quản lý thư viện lớp.
+10A open 7-Zip, use File Manager, save as BaiTapTinHoc.zip.
+10A open Microsoft Access, use Query Design, save as Thiet_bi_phong_may.accdb.
+10A open Microsoft Outlook, use Reply, save as attachment_bai_tap.xlsx.
+10A open Microsoft Publisher, use Brochure template, save as poster_ngay_hoi_truong.pub.
+10A open Microsoft Teams, use Files, save as Bai_nop_Teams.docx.
+10A open Wikipedia, use Search Wikipedia, save as tham_khao_wikipedia.txt.
+10A open Windows File Explorer, use New folder, save as USB\Scratch_Nhom4.sb3.
+10A open Windows Snipping Tool, use Copy, save as ket_qua_quiz.png.
+10A open YouTube, use Subtitles, save as youtube_link_note.txt.
+10A thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
+10A thao tác Windows Settings trong bài làm quen hệ điều hành Windows.
+11A dùng Gmail để gửi và nhận file bài thực hành.
+11A dùng Microsoft Outlook để gửi và nhận file bài thực hành.
+11A dùng Wikipedia để tìm tài liệu cho bài di sản Việt Nam.
+11A mở Google Sheets để download bảng thành Excel .xlsx, cột điểm đang dùng công thức.
+11A mở PowerShell để viết chương trình trong tiết lập trình.
+11A open Audacity, use Stop, save as loi_doc_bai_tap.mp3.
+11A open Command Prompt, use python --version, save as C:\Users\Student\Desktop\baitap.
+11A open OneDrive, use Sync, save as Shared/Slide_Nhom3.pptx.
+11B open Microsoft PowerPoint, use F5, save as Nhom_4_slide.pptx.
+11B open Microsoft Publisher, use Mail Merge, save as thiep_moi.pub.
 12A dùng Google Slides để làm slide hoặc ấn phẩm thuyết trình về thuật toán.
-nhóm 3 clicks Copy in Windows File Explorer during Công nghệ class.
-search query: Impress export PDF.
+12A dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về thuật toán.
+12A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
+12A mở Google Sheets để tính trung bình bằng hàm AVERAGE, cột điểm đang dùng công thức.
+12A mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
+12A mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
 12A mở WPS Spreadsheet để lỗi formula cần sửa dấu phẩy dấu chấm phẩy, cột điểm đang dùng công thức.
-ket_qua_quiz.png - Windows Snipping Tool
-bài thực hành: soạn văn bản, chèn bảng, lưu Scratch_notes.one. (Microsoft OneNote)
-search query: cách dùng comment trong Docs.
-bạn Trang chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
-search query: cách làm slide đẹp. (Google Search)
-màn hình OneDrive hiện trạng thái Shared cho file OneDrive/TinHoc/BaiTap.docx.
-bạn Phúc clicks Eraser in Microsoft Paint during Khoa học tự nhiên class.
-App launcher - Microsoft 365
-học sinh mở Google Classroom, đọc nhận xét của giáo viên rồi sửa bài.
-cô nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
-browser tab search: Paint.NET resize image.
-ZIP - WinRAR
-search query: Thonny debug từng bước.
-trên tab Windows Notepad đang hiện Find, học sinh chuẩn bị export PDF.
-nhóm 3 clicks Transition in LibreOffice Impress during GDCD class.
-ô địa chỉ trình duyệt đang nhập từ khóa về lịch sử máy tính. (Google Chrome)
-search query: mẫu thiết kế thuyết trình chủ đề bảo vệ môi trường cho học sinh. (Canva)
-bạn Ngọc tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Google Chrome)
-search query: primary key trong Access là gì.
-bạn Chi tìm lại email hoặc tin nhắn chứa mã lớp học. (Zalo)
-bạn Quân clicks Zoom in Desmos during Ngữ văn class.
-cửa sổ PDF: Tai_lieu_tin_hoc.pdf - Adobe Acrobat Reader, trang 2 có yêu cầu nộp bài.
+12A open Canva, use Template, save as poster_canva.png.
+12A open Microsoft Forms, use Multiple choice, save as Ket_qua_Forms.xlsx.
+12A open Microsoft Forms, use Preview, save as Ket_qua_Forms.xlsx.
+12A open Microsoft OneNote, use Screen Clipping, save as TinHoc_ClassNotebook.one.
 12A open Windows Media Player, use Pause, save as huong_dan_word.mp4.
-thầy nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
+1A mở Scratch Desktop để import sprite từ thư mục Downloads; sprite mèo đang đứng giữa sân khấu.
+1A open Scratch, use green flag, save as animation_bao_ve_moi_truong.sb3.
+1A thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
+2.8. Thời điểm nên đi chợ làng chài Mũi Né Bình Thuận
+2.8. Tips mua hải sản tại chợ làng chài Mũi Né
+2.8.2. Mua hải sản tươi sống để thưởng thức hoặc làm quà
+2.8.2. Trải nghiệm chợ phiên sôi động mỗi sáng sớm
+2.8.2. Tìm hiểu cuộc sống ngư dân ở làng chài Mũi Né
+2A open ScratchJr, use motion block, save as scratchjr_gia_dinh.sjr.
+2A open Windows Snipping Tool, use New snip, save as screenshot_loi_excel.png.
+2C open ScratchJr, use record sound, save as scratchjr_gia_dinh.sjr.
+3. Hoạt động nếm thử nước mắm Rin với công thức 300 năm của bảo tàng Làng Chài Xưa
+3.1. Trưng bày
+3.1. Xây dựng
+3.1. Ý tưởng
+3.5. Du khách có thể tương tác, nhập vai để tìm hiểu về quá trình làm mắm tại không gian nhà thùng
+3.5. Du khách được trải nghiệm học hỏi
+3.5. Không gian được xử lý mùi tốt trong bảo tàng
+3A dùng Google Chrome để tìm tài liệu cho bài mạng máy tính.
+3A mở Microsoft Forms để làm bài kiểm tra nhanh môn Tin học.
+3A mở Scratch Desktop để copy project mẫu từ ổ D sang máy học sinh; sprite mèo đang đứng giữa sân khấu.
+3A thao tác Windows Calculator trong bài làm quen hệ điều hành Windows.
+3B mở Microsoft Paint để chỉnh ảnh minh họa cho bài sơ đồ tư duy.
+4. CHƯƠNG TRÌNH BIỂU DIỄN NGHỆ THUẬT HUYỀN THOẠI LÀNG CHÀI – FISHERMAN SHOW
+4.5. Các hoạt động tại đây
+4.6. Giá vé tham quan Lâu đài rượu vang
+4.7. Những trải nghiệm thú vị tại Lâu đài rượu vang Phan Thiết
+4.8. Những lưu ý khi tham quan Lâu đài rượu vang Phan Thiết
+4A dùng LibreOffice Writer để lưu tài liệu thành .odt và .pdf, file đang lưu trong thư mục BaiTapTinHoc.
+4A dùng Microsoft Whiteboard để vẽ sơ đồ thuật toán trước khi viết code.
+4A open Windows Snipping Tool, use Delay, save as snip_scratch_project.png.
 4A thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
-cửa sổ Windows Calculator: Percent đang được giáo viên chỉ trên máy chiếu.
-nhóm 3 clicks Share graph in Desmos during Toán class.
-màn hình Windows Notepad có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
-học sinh mở Microsoft Forms, đọc nhận xét của giáo viên rồi sửa bài.
-bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Python IDLE)
-bạn Bình clicks Docx in WPS Writer during Ngữ văn class.
-Bang diem lop
-Lich thi hoc ky
-Tai lieu on tap
-Bai tap ve nha
-So do tu duy
-Ke hoach hoc tap
-Don xin nghi hoc
-Mau phieu diem danh
-Danh sach truc nhat
-Thu muc bai giang
-Bai van mau
-De cuong mon Toan
-Slide bao cao nhom
-Phieu nhan xet
-Bang thu chi lop
-Lich hop phu huynh
-Tu dien Anh Viet
-Sach giao khoa PDF
-Bai tap Excel
-Ghi chu OneNote
-Mau poster Canva
-File Word bai tap
-Lop hoc Zoom
-Nhom Teams lop
-Bang tinh diem
-Thong bao Classroom
-Tai lieu Google Drive
+4B open Microsoft Teams, use Turn in, save as Assignment_TinHoc.xlsx.
+4C mở Scratch Desktop để sửa project mèo nhảy qua chướng ngại vật; sprite mèo đang đứng giữa sân khấu.
+4C mở ScratchJr để tạo câu chuyện con mèo chào bạn; sprite mèo đang đứng giữa sân khấu.
+4C open Scratch Desktop, use fullscreen, save as catch_apple_offline.sb3.
+5. CHƯƠNG TRÌNH BIỂU DIỄN NGHỆ THUẬT HUYỀN THOẠI LÀNG CHÀI – FISHERMAN SHOW
+5.1. Giới thiệu
+5.2. Cốt chuyện của Fishermen show
+5.3. Con người:
+5.3. Vật chất:
+5.3. Đầu tư nghiêm túc từ con người đến vật chất
+5.3.1. Vật chất:
+5.3.2. Con người:
+5.4. Chương trình này có gì đặc sắc
+5A dùng Google Search để tìm tài liệu cho bài thuật toán.
+5A dùng OBS Studio để xử lý video hoặc âm thanh cho bài hệ mặt trời.
+5A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
+5A open Inkscape, use Bezier, save as so_do_mang.svg.
+5A open Microsoft Clipchamp, use Aspect ratio, save as gioi_thieu_truong.mp4.
+5A open Quizizz, use Homework, save as game_code_note.txt.
+5A open Scratch Desktop, use Choose a Backdrop, save as BaiTapNhom3.sb3.
+5B open ScratchJr, use page, save as nhan_vat_di_chuyen.sjr.
+5B thao tác Windows File Explorer trong bài làm quen hệ điều hành Windows.
+6A dùng Google Drive để gửi và nhận file bài thực hành.
+6A open 7-Zip, use zip, save as BaiTapTinHoc.zip.
+6A open Microsoft Forms, use New Quiz, save as Ket_qua_Forms.xlsx.
+6A thao tác Windows Settings trong bài làm quen hệ điều hành Windows.
+6B dùng Windows Notepad để viết pseudocode thuật toán tìm số lớn nhất, file đang lưu trong thư mục BaiTapTinHoc.
+6B open Microsoft Edge, use Downloads, save as huong_dan_thuc_hanh.pdf.
+6C mở LibreOffice Calc để đổi tên sheet thành KhaoSat, cột điểm đang dùng công thức.
+6C mở Microsoft Excel để vẽ biểu đồ cột từ bảng số liệu, cột điểm đang dùng công thức.
+6C mở ScratchJr để chọn nhân vật mới bằng nút dấu cộng; sprite mèo đang đứng giữa sân khấu.
+7A mở Command Prompt để viết chương trình trong tiết lập trình.
+7A mở Paint.NET để chỉnh ảnh minh họa cho bài mạng máy tính.
+7A open Foxit Reader, use Zoom, save as Huong_dan_Foxit.pdf.
+7A open Microsoft Publisher, use Print Preview, save as poster_ngay_hoi_truong.pub.
+7A open Wikipedia, use Search Wikipedia, save as nguon_tham_khao.docx.
+7B mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
+7B mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
+7B open LibreOffice Calc, use Chart, save as Khao_sat_lop.ods.
+7C open Microsoft OneNote, use Screen Clipping, save as Ghi_chu_Excel.one.
+7C open Microsoft OneNote, use Screen Clipping, save as TinHoc_ClassNotebook.one.
+8A dùng OneDrive để gửi và nhận file bài thực hành.
+8A mở Command Prompt để viết chương trình trong tiết lập trình.
+8A mở Google Forms để làm bài kiểm tra nhanh môn Tin học.
+8A mở Google Sheets để copy công thức xuống các dòng dưới, cột điểm đang dùng công thức.
+8A mở Microsoft Teams để làm bài kiểm tra nhanh môn Tin học.
+8A mở PowerShell để viết chương trình trong tiết lập trình.
+8A open Command Prompt, use python --version, save as C:\Users\Student\Desktop\baitap.
+8A open PowerShell, use ls, save as main.py.
+8A open Windows Calculator, use Backspace, save as calc result.
+8B dùng Microsoft PowerPoint để làm slide hoặc ấn phẩm thuyết trình về robot đơn giản.
+8B mở Command Prompt để viết chương trình trong tiết lập trình.
+8B open Microsoft Paint, use Eraser, save as bai_ve_paint_lop_3.png.
+8C mở Microsoft Excel để vẽ biểu đồ cột từ bảng số liệu, cột điểm đang dùng công thức.
+9A dùng Microsoft Publisher để làm slide hoặc ấn phẩm thuyết trình về lịch sử máy tính.
+9A mở Microsoft Forms để làm bài kiểm tra nhanh môn Tin học.
+9A mở PowerShell để viết chương trình trong tiết lập trình.
+9A mở Quizizz để làm bài kiểm tra nhanh môn Tin học.
+9A open Google Classroom, use Add or create, save as File_from_Drive.
+9A open Zalo, use Group, save as Zalo Downloads\BaiTap.docx.
+9A tham gia lớp học online bằng Google Meet.
+9B dùng WPS Writer để save as file mới vào Desktop, file đang lưu trong thư mục BaiTapTinHoc.
+9B open Google Search, use Related searches, save as search_results_page.
+9B open Microsoft Clipchamp, use Export, save as video_thuyet_trinh_nhom_5.mp4.
+A. TỔNG QUAN TỈNH BÌNH THUẬN
+AI Desktop cho Ubuntu
+AI Mã Nguồn Mở Mạnh
+AI chạy local trên máy
+AI local nhẹ đơn giản
+AI prompt thiết kế tối ưu
+AOMEI Restore Blue Screen
+ASCII Good Night
+Adobe Acrobat Reader trong phòng Tin
+Ali vs Tyson tưởng tượng
 Anh chup bang lop
-Noi dung clipboard sach
-Ke hoach doc sach
-School timetable
-Homework checklist
-Science worksheet
-History presentation
-Math revision notes
-English vocabulary list
-Library book record
-Student attendance sheet
-Parent meeting letter
+Anti Ctrl C Python
+Antivirus cho Ubuntu
+App chat AI terminal
+App launcher - Microsoft 365
+App tặng bạn nữ
+App vẽ nhẹ cho Ubuntu
+App ép xung CPU Debian
+Archive all chats là gì
+Assignment_TinHoc.xlsx - Microsoft Teams
+Aura Patrick Bateman
+B. Tour 1: THAM QUAN LÀNG NGHỀ NƯỚC MẮM PHAN THIẾT
+BIOS password cài đặt
+BSD và các biến thể
+Backtracking Examples
+Backup command analysis
+Bai tap Excel
+Bai tap ve nha
+Bai van mau
+Bai_nop_Classroom.docx - Google Classroom
+Bang diem lop
+Bang thu chi lop
+Bang tinh diem
+Bkav Doanh Thu Và Chiến Lược
+Boot TempleOS on ThinkPad
+Boot Ubuntu từ GRUB
+Boot Ubuntu từ ổ cứng
+Brave Browser CPU 97%
+Brave Browser CPU Usage
+Brave Browser Portable
+Brave browser whitelist cookies
+Brave multi-thread và lag
+Brave profile lỗi hostname
+Brave vs Chrome Performance
+Brave vs Zen vs Chrome
+Build AI đơn giản
+Bài thơ Chuối Hoa
+Bài thể dục nhảy xa
+Bài toán Josephus
+Bài toán giải thuật hay
+BẢO TÀNG HỒ CHÍ MINH - CHI NHÁNH BÌNH THUẬN
+Bảo mật máy Ubuntu
+Bảo tàng Làng Chài Xưa Phan Thiết có gì?
+Bảo tàng nước mắm Làng Chài Xưa
+Bật Snowflake cần đồng ý
+Bật mí cho khách cách thử rượu vang
+Bằng chứng về Thượng Đế
+C. TOUR 2: THAM QUAN VĂN HÓA LỊCH SỬ PHAN THIẾT
+CHÙA CỔ THẠCH (CHÙA HANG)
+CLI AI cho Ubuntu
+CLI Code Issues
+CLI framework review
+Calculator history - Windows Calculator
+Canva bài thực hành
+Chiến tranh mạng Iran
+Chrome bảo mật và thu thập dữ liệu
+Chrome sync và cài đặt
+Chuyên đề về cây thanh long
+Chuyển Taskbar Linux xuống dưới
+Chúc mừng năm mới 2026
+Chương trình này có gì đặc sắc
+Chạy script bash boot
+Chọn Wayland nhẹ bảo mật
+Chọn khối lớp 10
+Chụp ảnh và tự tin
+Chứng minh đồng dạng tam giác
 Class project plan
-Exam review document
-Office document sample
-Shared study folder
-Online class reminder
+Claude Code không free
 Clean desktop shortcut
+Clock apps cho terminal
+Code Random Grammar Fixes
+Code review AV heuristic
+Code review feedback
+Code review và sửa lỗi
+Command Parsing and Execution
+Comment TikTok về TempelOS
+Comment cầu sinh TikTok
+Config lỗi hiển thị
+Copy - Windows Snipping Tool
+Core Constraints Rejection
+Crucix terminal là gì
+Custom Password Generator
+Custom Player Support Phub-cli
+Cài Debian portable FDE
+Cài LibreOffice trên Debian
+Cài OS Di Động
+Cài ProtonVPN đúng cách
+Cài Python qua Terminal
+Cài Python trên Windows
+Cài TempleOS trên máy thật
+Cài USB Ventoy VMware
+Cài Ubuntu lên ổ rời
+Cài Ubuntu ổ rời
+Cài Win 11 Boot Ổ
+Cài app iPhone và mật khẩu iCloud
+Cài background riêng cho monitor
+Cài cờ vua trên Ubuntu
+Cài font cho terminal Linux
+Cài hệ điều hành di động
+Cài llama.cpp và DuckDuckGo
+Cài ubuntu portable
+Cài zxcvbn trong venv
+Cài đặt DNS Debian
+Cài đặt Python3 IDLE
+Cài đặt bảo mật internet
+Cài đặt dependency mechvibes
+Cài đặt font TTY Debian
+Cài đặt swm làm WM
+Các hoạt động tại đây
+Cách backup với FAR 7z
+Cách báo lỗi GitHub
+Cách chơi FNAF bằng bàn phím
+Cách di chuyển đến lâu đài rượu vang Mũi Né
+Cách dùng dwm và nwm
+Cách làm mini PC portable
+Cách nhìn danh thiếp Bateman
+Cách reset Brave browser
+Cách sao chép video TikTok
+Cách set độ phân giải TTY
+Cách tính nhanh 1/7
+Cách tính tổng cấp số nhân
+Cách underline micro editor
+Cách xem phân giải màn hình
+Cái gì đây
+Cái hình troll face
+Cân bằng tốc độ bảo mật
+Câu chuyên về nền văn hóa được kể lại qua các di vật lịch sử
+Câu trả lời đúng yêu cầu
+Cây nấm siêu thực
+Công cụ nén cực đoan
+Công dụng đáng ngạc nhiên của nước mắm
+Công thức tam giác vuông
+Cơ chế AI và CLI
+Cơ chế chết do treo cổ
+Cải thiện chơi cờ vua
+Cải thiện hàm docstring
+Cải thiện ngữ pháp Python
+Cải thiện scroll và select
+Cải thiện test case
+Cải tiến câu kêu gọi
+Cấu hình highlight IDLE
+Cấu hình hệ thống AGY
+Cấu hình máy tính và GGUF
+Cập nhật hệ thống phần mềm
+Cốt chuyện của Fishermen show
+DI TÍCH KIẾN TRÚC NGHỆ THUẬT THÁP PÔ SAH INƯ
+DI TÍCH TRƯỜNG DỤC THANH
+DNSChef Hướng Dẫn Cấu Hình
+DNSChef Tool Overview
+DWM phóng to cửa sổ
+Danh sach truc nhat
+De cuong mon Toan
+Debian Anti-Bloat VPN Setup
+Debian Custom Kernel Setup
+Debian làm server từ xa
+Debian vs Ubuntu
+Debloat Ubuntu GNOME
+Debloat Ubuntu LTS
+Debloat kernel hiệu quả
+Desmos bài thực hành
+Dinh Vạn Thủy Tú, tín ngưỡng thờ cúng cá ông
+Don xin nghi hoc
+Dropbox là gì
+Dịch thông báo Windows
+Dọn dẹp thư mục malware
+Dự án Nomad là gì
+Elon Musk khi mệt mỏi
+English Correction Game
+English vocabulary list
+Epstein và quyền lực mềm
+Exam review document
+Export - Microsoft Clipchamp
+Extract To - WinRAR
+Fake API Key Format
+Fastfetch output redirect
+File Word bai tap
+File transfer - Zalo
+Fix ClamAV Permission Error
+Fix VMware Driver Error
+Fix máy thành công
+Fixing N-Queens Code
+Fixing terminal launch issue
+GGUF Q4 Model Recommendations
+GIMP trong phòng Tin
+GNOME Shell nhẹ hơn
+GNOME vs i3 trên Ubuntu
+Game bắn né đạn
+Game kinh dị chơi lại
+Gemini CLI Local hay Cloud
+Gemini Gems và Prompt
+GeoGebra Circle tool
+GeoGebra bài thực hành
+Geometry - GeoGebra
+Ghi chu OneNote
+Ghi nhớ hiệu quả
+Giup debloat Ubuntu
+Giá thuốc Espacox Evrizam
+Giá vé tham quan Lâu đài rượu vang
+Giám sát học sinh AI
+Giả thuyết Goldbach Python
+Giải bài toán DP
+Giải bài toán Python
+Giải nén ẩn Temp C
+Giải phương trình mũ
+Giải thuật số nguyên tố
+Giải thích --flash-attn
+Giải thích code Python
+Giải thích công thức R
+Giải thích máy tính lượng tử
+Giải thích tên gọi Lagi
+Giải thích tùy chọn bảo mật
+Giải thích vật lý thấu kính
+Giới hạn CPU trong llama-server
+Giới thiệu
+Giới thiệu bản thân
+Giới thiệu ngôn ngữ HolyC
+Giới thiệu về Tor Project
+Gmail Spam
+Gold Sculpture Concept
+Google Forms Required
+Google Forms bài thực hành
+Google Gemini API Python
+Google Slides Download PPTX
+Google Slides bài thực hành
+Grep tìm chuỗi lặp lại
+Grok API miễn phí
+Grokpedia vs Wikipedia
+Gợi ý cách làm
+HSG Tin học trẻ
+HUYỆN BẮC BÌNH (BÀU SEN – BÀU TRẮNG)
+HUYỆN TUY PHONG (BÃI ĐÁ BẢY MÀU (CỔ THẠCH))
+Hacker dùng Discord C2
+History presentation
+Homework checklist
+Huyện Hàm Thuận Nam: Khu du lịch Núi Tà Cú
+Huyện Hàm Tân, rừng lá buông và nghề đan mành
+Hàm gọi CLI ví dụ
+Hành vi mặc định Brave
+Hành vi tốn tài nguyên của Linux Kernel
+Hướng dẫn cài Linux portable
+Hướng dẫn cấu hình st
+Hướng dẫn mã hóa fscrypt
+Hướng dẫn sử dụng dwm
+Hướng dẫn sử dụng fscrypt
+Hướng dẫn thi vào 10
+Hướng dẫn thực hiện tác vụ
+Hướng dẫn yêu cầu
+Hải đăng Kê Gà
+Hậu quả hành động bốc đồng
+Học systemd từ man
+Hội chứng sợ lỗ
+Incognito - Google Chrome
+Insert table - Google Docs
+Iran chiến tranh không sập
+Join - Kahoot
+Josephus problem giải thích
+Jotaro và Dio bay
+Kali Linux là gì
+Ke hoach doc sach
+Ke hoach hoc tap
+Kernel Linux cho Python
+Khao_sat_phong_may - Google Forms
+Khi nào ép xung CPU GPU
+Khu du lịch Suối Tiên
+Khói độc nặng dưới đất
+Khôn hơn Qwen 1.5B
+Không lo kiện tụng
+Không thấy mục tech 4chan
+Khắc phục GNOME Console
+Khắc phục lỗi GTK Debian
+Khắc phục trì hoãn
+Kimi AI là gì
+Kiến trúc app TUI
+Kiểm tra boot Ubuntu
+Kiểm tra mật khẩu 7z
+Kiểm tra nấm đùi gà
+Kiểm tra độ to mic
+Kế hoạch hoạt động lớp 9
+Kết nối Wi-Fi trái phép
+Kết quả viêm gan B
+Kết quả và biến cố
+Kỹ năng social của Epstein
+Kỹ thuật ClamAV
+Lau VMware trên Ubuntu
+Library Manager - Arduino IDE
+Library book record
+LibreOffice Calc bài thực hành
+LibreOffice Impress Insert Image
+LibreOffice Impress bài thực hành
+LibreOffice Writer bài thực hành
+LibreOffice và MS Office
+LibreWolf vs Brave chi tiết
+Lich hop phu huynh
+Lich thi hoc ky
+Linus sử dụng FreeBSD OpenBSD
+Linus và Terry Davis
+Linux Trash Talk Apps
+Llama.cpp và AI ảnh
+Log Realtime Python
+Log lỗi Brave Tor UPower
+Logo Design Request
+Logo WormChatGPT
+Logo request for Detal Mick
+Lop hoc Zoom
+LÂU ĐÀI RƯỢU VANG RĐ
+Lâu đài rượu vang Phan Thiết có gì đặc biệt
+Lúng chữ V tại nhà
+Lưu gì vậy
+Lập trình viên và chữ
+Lễ hội Nghinh ông
+Lệnh Brave Browser
+Lệnh bash tìm file
+Lịch sử Clam Antivirus
+Lịch sử hình thành
+Lỗi 403 và cách xử lý
+Lỗi Discord 2012
+Lỗi INACCESSIBLE_BOOT_DEVICE
+Lỗi boot Ubuntu
+Lỗi dấu phẩy Windows
+Lỗi import trong Python
+Lỗi không tìm thấy script
+Lỗi kết nối ProtonVPN
+Lỗi log Brave Browser
+Lỗi phím trên Ubuntu
+Lỗi sao chép tệp st
+Lỗi terminal và micro
+Lỗi thiết bị bàn phím
+Lỗi trong thuật toán Kadane
+MCP server là gì
+MCP với llama.cpp
+Make me felt correction
+Makefile cho nwm
+Malware directories trên Ubuntu
+Malware toàn cầu 2017
+Math revision notes
+Mau phieu diem danh
+Mau poster Canva
+Microsoft Excel Filter
+Microsoft Excel Formula Bar
+Microsoft Excel bài thực hành
+Microsoft Excel trong phòng Tin
+Microsoft OneNote Search Notes
+Microsoft OneNote Sync
+Microsoft PowerPoint New Slide
+Microsoft PowerPoint trong phòng Tin
+Microsoft Publisher bài thực hành
+Microsoft VBA là gì
+Microsoft VBA và ứng dụng
+Microsoft Whiteboard trong phòng Tin
+Missing Search Data Fix
+Mistral MoE Model Review
+Model local Chrome Gemini
+Model sử dụng hiện tại
+Monty Hall Logic
+Mount LUKS Debian
+Mpv Linux config file
+Mã Python test API
+Mã hoá full ổ đĩa Ubuntu
+Mã hóa fscrypt và cứu hộ
+Mã điện thoại quốc tế
+Mô tả logo Gentoo
+Mô tả ngoại hình ảo
+Mũi Né – Hòn Rơm
+Mẫu AI local uncensored
+Mốc hợp lệ grub rescue
+Một tiến trình hay không
+Một vài mẹo nhỏ khi chế biến nước mắm
+Mở browser trên i3
+Mở thư mục Startup
+Mở tài khoản Vietcombank online
+Mỹ Israel Iran xung đột
+New Form - Microsoft Forms
+New chat
+New folder - Google Drive
+Nghĩa trang của người Chăm (tục nhập Kút)
+Ngã 3 Tân Minh
+Ngưng thuốc đột ngột
+Nhom Teams lop
+Nhà thùng nước mắm tĩn Thuận Hưng
+Nhận diện Malware trong VMware
+Những bài thuyết minh tại Bình Thuận
+Những lưu ý khi tham quan Lâu đài rượu vang Phan Thiết
+Những trải nghiệm thú vị tại Lâu đài rượu vang Phan Thiết
+Noi dung clipboard sach
+Nuitka standalone config
+Nuitka và rich module
+NumAr CLI implementation
+Nước mắm cho người cao huyết áp: chọn sao mới tốt
+Nước mắm pha sẵn chua ngọt để trong tủ lạnh được bao lâu?
+Nước mắm tĩn
+Nấm khổng lồ siêu thực
+OS cho máy yếu
+OS di động trên ổ cứng
+Office document sample
+OneDrive bài thực hành
+Online class reminder
+OpenClaw AI Agent
+OpenClaw API và PicoClaw
+OpenRouter credit âm
+Oracortia cho trẻ 2 tuổi
+Outro YouTube sáng tạo
+Overclock CPU Debian
+Overwrite system prompt Antigravity
+PLM Project Review
+PLM.py File Review
+Paint.NET bài thực hành
+Paranoia về phần cứng
+Parent meeting letter
+Patch suckless terminal
+Patrick Bateman Analysis
+Phieu nhan xet
+Phiên bản Debian cũ
+Phong cách giao tiếp
+Phân li độc lập
+Phân tích lỗ hổng phiên
+Phân tích số bình phương
+Phân tích và dọn rác
+Phí hoàn hàng Shopee
+Phí ứng tiền cao
+Phím tắt duplicate tab
+Phản ứng Methanol và Na
+Phần mềm giao tiếp tâm linh
+Phần mềm quản lý lớp
+Phế tích Lầu Ông Hoàng
+PowerShell trong phòng Tin
+Prompt AI tạo ảnh
+Prompt cho AI sysadmin
+Proton VPN an toàn không
+ProtonVPN bảo mật và quyền riêng tư
+ProtonVPN connection error
+ProtonVPN service analysis
+Python AI Terminal UI
+Python CLI Command Registry
+Python OpenAI Chat Wrapper
+Python flip 1 bit file
+Python multi-OS Example
+Quy luật bảng nhân
+Quy luật phân li di truyền
+Quy tắc giao tiếp tối giản
+Quản lý file phức tạp
+Quản lý thư mục đa hệ điều hành
+README cho dự án Python
+RSA và Mã Hóa
+Ransomware và phòng thủ
+Rename - Windows File Explorer
+Replace text trong Micro
+Reply - Microsoft Outlook
+Reset RAM trên Ubuntu
+Retro Linux Logo Design
+Review CLI Framework
+Roblox không nhận mã xác thực
+Sach giao khoa PDF
+Sai logic Kadane
+School timetable
+Science worksheet
+Scratch Desktop Choose a Backdrop
+Scratch Desktop Costumes
+Scratch bài thực hành
+Scratch trong phòng Tin
+ScratchJr bài thực hành
+Search Wikipedia - Wikipedia
+Search engine thuần HTML
+Set letter ổ Windows Linux
+Set resolution cho dwm
+Settings screenshot - Windows Settings
+Shared study folder
+Shock mát ổ cứng USB
+Short answer - Google Forms
+Sigma Meme Style
+Sigma đổi thành sigma1
+Slide bao cao nhom
+So do tu duy
+So sánh Deepseek và AI
+So sánh browser riêng tư
+So sánh các cung
+So sánh cách trình bày code
+So sánh terminal
+Social engineering file dangers
+Solo với engine cờ vua
+Soạn từ điển câu hỏi
+Student attendance sheet
+Suckless version trên Linux
+Suối nước khoáng nóng Vĩnh Hảo
+Swap cửa sổ trong dwm
+Systemd-resolved lỗi cài đặt
+Sông Cà Ty
+Sắp xếp thư mục malware
+Sử dụng nước mắm ngon đúng cách
+Sử dụng tetracycline đúng cách
+Sửa lỗi BFSVC BCD
+Sửa lỗi Kadane
+Sửa lỗi boot Ubuntu
+Sửa lỗi code Python
+Sửa lỗi thuật toán
+Sửa ngữ pháp tiếng Anh
+Sự hình thành các loại cát khác nhau
+TP. Phan Thiết
+TUI Music Player Hacker
+Tab trong st
+Tai lieu Google Drive
+Tai lieu on tap
+Team Quaritch và cái chết
+Technical Review Worm-Shell
+Terminal AI trên Ubuntu
+Terminal Linux với UI
+Terminal nhạc nhún nhảy
+Terry Davis và Ubuntu
+Test malware an toàn
+Test passed response
+Thay chuyển cấp
+Thiết kế hệ thống rõ ràng
+Thiếu include XF86keysym
+Thong bao Classroom
+Thonny trong phòng Tin
+Thu muc bai giang
+Thuyết phục Monty Hall
+Thuê nhà tối ưu
+Thuốc chữa bệnh gì
+Thuốc gút sau mổ
+Thông báo Windows chặn file
+Thông tin chung
+Thông tin về WormGPT
+Thời gian boot hệ thống
+Thời gian luộc thực phẩm
+Tiêu điểm thấu kính
+Tiết kiệm ăn uống
+Top Mark Variants Mạnh Nhất
+Toán
+Toán và mô hình chi phí
+Trang web prank hiện nay
+Tranh cát Phi Long
+Transitions - Microsoft Clipchamp
+Translation request
+Trash Talk Linux App
+Truyện con cá mẹ
+Trình duyệt nhẹ cho Ubuntu
+Trích xuất tin nhắn Zalo
+Trợ lý AI CLI Linux
+Tu dien Anh Viet
+Tuấn khỉ là ai
+Tài liệu systemd Debian
+Tài nguyên du lịch văn hoá
+Tài nguyên thiên nhiên – khoáng sản
+Tác dụng của Hydrocortison
+Tác dụng đặc biệt của thực phẩm lên men trong đời sống hàng ngày
+Tách văn bản và dịch
+Tên file backup chuẩn
+Tìm kiếm dữ liệu nhanh
+Tìm số nhiều ước
+Tình hình chiến tranh vũ khí
+Tình hình vụ Epstein
+Tính tổng không loop
+Tóm tắt KHTN 9
+Tóm tắt LUKS2 header
+Tóm tắt cấu trúc đề thi
+Tóm tắt phiếu yêu cầu
+Tóm tắt thông báo kỳ thi
+Tùy chọn phân vùng SSD
+Tăng kích thước tty
+Tư duy bảo mật và phát triển
+Tư duy tỉ phú
+Tương lai ngành lập trình
+Tạo Gemini API miễn phí
+Tạo chatbot bateman
+Tạo file .bashrc riêng
+Tạo file desktop Linux
+Tạo hình nền máy tính
+Tạo hình nền tối giản
+Tạo khoảnh khắc ngầu?
+Tạo logo hệ điều hành
+Tạo ảnh meme nhóm người
+Tấn công DoS web
+Tắt RST cài Ubuntu
+Tối ưu Brave Browser
+Tối ưu hóa Debian hệ thống
+Tối ưu hóa công cụ
+Tổng cấp số cộng
+Tổng sức mạnh tính toán AI
+Tứ giác nội tiếp
+Tỷ lệ trúng xe
+USB\Scratch_Nhom4.sb3 - Windows File Explorer
+Ubuntu Xorg màn hình vàng
+Ubuntu thường vs Ubuntu Pro
+Unix vs Linux GUI
+Unrestricted AI Command
+Upgrade Ubuntu 22.04 LTS
+Url TikTok cụ thể
+VMware trên Ubuntu 22.04
+Vibe coding tương lai
+Viêm da do nấm
+Vì sao chỉ có cá cơm mới làm ra nước mắm ngon?
+Võ thuật cho ẩu đả
+Võ thuật và thực chiến
+Văn hóa Champa
+Văn hóa – lễ hội:
+Vụ bắn phụ nữ Ukraine
+WORM-SHELL V2 Update
+WPS Spreadsheet Save as XLSX
+Web Browser CPU Usage
+Web extension phím tắt
+Web luyện thi Tin học
+What is Obviously
+What is destination
+Wikipedia Infobox
+Wikipedia bài thực hành
+Windows Advantages and Disadvantages
+Windows Calculator Memory
+Windows File Explorer trong phòng Tin
+Windows Media Player trong phòng Tin
+Windows Photos Save a copy
+Windows Settings bài thực hành
+Windows cứu hộ ISO
+XZ hack Linux 2024
+Xem dịch vụ i3 chạy
+Xfce4 Terminal Keybindings
+Xoá DNS Mullvad
+Xuất output ra file
+Xây dựng antivirus Python
+Xét nghiệm sức khỏe
+Xóa dòng trong micro
+Xử lý chuỗi lặp lại
+Yêu cầu tạo hình nấm
+Yêu cầu ảnh minh họa
+ZIP - WinRAR
+Zalo Downloads\BaiTap.docx - Zalo
+Zalo PC - Zalo
+Zalo Web lưu tin nhắn
+Zalo on Ubuntu
+Zoom bài thực hành
+baud 9600 - Arduino IDE
+board du_lieu_va_thong_tin đang được lưu sau tiết học online. (Microsoft Whiteboard)
+browser tab search: Access tạo database quản lý thư viện.
+browser tab search: Desmos slider tutorial.
+browser tab search: Drive upload file lớp học.
+browser tab search: Excel hàm SUM lớp 7.
+browser tab search: Gmail gửi file đính kèm.
+browser tab search: Gmail tìm email cũ.
+browser tab search: Google Docs share editor.
+browser tab search: Google Forms responses to Sheets.
+browser tab search: LibreOffice Writer mở docx.
+browser tab search: LibreOffice tạo chart. (LibreOffice Calc)
+browser tab search: Meet link lớp học.
+browser tab search: Microsoft 365 đăng nhập học sinh.
+browser tab search: Microsoft Forms tạo quiz.
+browser tab search: Notepad lưu tiếng Việt UTF-8.
+browser tab search: OneDrive sync pending nghĩa là gì.
+browser tab search: OneNote đồng bộ chậm.
+browser tab search: Outlook school email login.
+browser tab search: Paint.NET resize image.
+browser tab search: Publisher export PDF.
+browser tab search: Scratch Desktop không mở được project.
+browser tab search: ScratchJr move block.
+browser tab search: Teams lớp học online cách dùng.
+browser tab search: WPS export pdf slide. (WPS Presentation)
+browser tab search: WinRAR tạo file zip.
+browser tab search: Windows Calculator scientific mode.
+browser tab search: Windows Media Player mở mp4.
+browser tab search: Word đánh số trang từ trang 2.
+browser tab search: Zalo PC gửi file.
+browser tab search: cách chụp màn hình Windows. (Windows Snipping Tool)
+browser tab search: cách xoay ảnh trên Windows. (Windows Photos)
+browser tab search: cách đổi byte sang KB. (Windows Calculator)
+browser tab search: file rar bị lỗi. (WinRAR)
+browser tab search: google slides template education. (Google Chrome)
+browser tab search: mở file PDF trên máy tính. (Foxit Reader)
+browser tab search: tìm mail trong Outlook.
+browser tab search: đổi tên file Windows. (Windows File Explorer)
+btop4win khả thi không
+bài dự án yêu cầu sản phẩm media dưới 3 phút, có tiêu đề và nguồn tư liệu. (Microsoft Clipchamp)
+bài dự án yêu cầu sản phẩm media dưới 3 phút, có tiêu đề và nguồn tư liệu. (Windows Media Player)
+bài nhóm dùng whiteboard để phân công phần thuyết trình. (Microsoft Whiteboard)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Canva)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Google Slides)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (LibreOffice Impress)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Microsoft PowerPoint)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (Microsoft Publisher)
+bài nhóm yêu cầu có tiêu đề, hình ảnh, nguồn tham khảo và phần kết luận. (WPS Presentation)
+bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên.
+bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Gmail)
+bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Microsoft 365)
+bài nộp được attach từ Drive hoặc OneDrive rồi gửi cho giáo viên. (Microsoft Outlook)
+bài thực hành Word cần gõ tiếng Việt có dấu đúng chuẩn. (EVKey)
+bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Arduino IDE)
+bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Command Prompt)
+bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (PowerShell)
+bài thực hành yêu cầu dùng if, for và input để xử lý dữ liệu. (Python IDLE)
+bài thực hành yêu cầu nhập hàm số, tạo bảng giá trị, lưu ảnh. (GeoGebra)
+bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng Google Chrome.
+bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng Google Search.
+bài thực hành yêu cầu tìm 3 nguồn đáng tin cậy bằng YouTube.
+bài thực hành yêu cầu tạo poster đơn giản về lịch sử máy tính. (Windows Photos)
+bài thực hành yêu cầu tạo poster đơn giản về nghề nghiệp tương lai. (Windows Photos)
+bài thực hành yêu cầu tạo poster đơn giản về ngày hội STEM. (Windows Photos)
+bài thực hành yêu cầu tạo poster đơn giản về sơ đồ tư duy. (Windows Photos)
+bài thực hành yêu cầu tạo poster đơn giản về thống kê lớp học. (Paint.NET)
+bài thực hành yêu cầu tạo poster đơn giản về văn hóa đọc. (Windows Photos)
+bài thực hành yêu cầu tạo query, form và report đơn giản. (Microsoft Access)
+bài thực hành: soạn văn bản, chèn bảng, lưu Bai_WPS_Writer.docx. (WPS Writer)
+bài thực hành: soạn văn bản, chèn bảng, lưu Bao_cao_nhom_GoogleDocs.
+bài thực hành: soạn văn bản, chèn bảng, lưu Ghi_chu_Excel.one. (Microsoft OneNote)
+bài thực hành: soạn văn bản, chèn bảng, lưu Scratch_notes.one. (Microsoft OneNote)
+bài thực hành: soạn văn bản, chèn bảng, lưu dan_y_thuyet_trinh.txt. (Windows Notepad)
+bài thực hành: soạn văn bản, chèn bảng, lưu pseudo_code.txt. (Windows Notepad)
+bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows File Explorer)
+bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows Settings)
+bài thực hành: tạo thư mục, đổi tên file, chụp màn hình thao tác. (Windows Snipping Tool)
+bài tập yêu cầu sort danh sách theo điểm rồi lưu Bang_diem_online.xlsx. (Google Sheets)
+bài tập yêu cầu sort danh sách theo điểm rồi lưu Diem_trung_binh.xlsx. (Microsoft Excel)
+bài tập yêu cầu sort danh sách theo điểm rồi lưu Khao_sat_WPS.et. (WPS Spreadsheet)
+bạn An chèn ảnh từ Downloads vào bài và căn giữa khung hình. (WPS Presentation)
+bạn An chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
+bạn An clicks Ctrl L in Microsoft Edge during Toán class.
+bạn An clicks Search messages in Zalo during Ngữ văn class.
+bạn An clicks Vietnamese mode in EVKey during Toán class.
+bạn An cắt đoạn đầu bị lỗi rồi lưu bản final. (Microsoft Clipchamp)
+bạn An dùng Eraser để nối các bước trong flowchart. (Microsoft Whiteboard)
+bạn An dùng Fill with color để tô màu, cắt ảnh hoặc thêm chữ. (Microsoft Paint)
+bạn An kéo block motion blocks vào script area trong bài mạng máy tính. (Scratch)
+bạn An share link tài liệu cho nhóm chỉnh sửa. (Microsoft Outlook)
+bạn Bình chỉnh font và căn lề tài liệu bằng Version history. (Google Docs)
+bạn Bình chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
+bạn Bình chụp màn hình đồ thị rồi dán vào Word. (Desmos)
+bạn Bình clicks Docx in WPS Writer during Ngữ văn class.
+bạn Bình clicks New tab in Microsoft Edge during Tin học class.
+bạn Bình clicks Shared in OneDrive during Khoa học tự nhiên class.
+bạn Bình clicks Templates in WPS Writer during Công nghệ class.
+bạn Bình crop ảnh chụp bảng để đưa vào tài liệu Word. (Microsoft Paint)
+bạn Bình dùng Comment để tìm từ khóa trong tài liệu. (Foxit Reader)
+bạn Bình dùng Highlight để tìm từ khóa trong tài liệu. (Foxit Reader)
+bạn Bình dùng PDF form để tìm từ khóa trong tài liệu. (Adobe Acrobat Reader)
+bạn Bình nhập mã lớp rồi bấm Turn in sau khi đính kèm Khao_sat_phong_may. (Google Forms)
+bạn Bình sửa lỗi formula trong Google Sheets sau khi nhập sai dấu phẩy.
+bạn Bình sửa lỗi thiếu part khi mở file nén. (7-Zip)
+bạn Chi chỉnh font và căn lề tài liệu bằng Screen Clipping. (Microsoft OneNote)
+bạn Chi clicks Draw in Microsoft OneNote during Vật lý class.
+bạn Chi kiểm tra điểm quiz sau khi submit form. (Google Forms)
+bạn Chi nhập danh sách học sinh và điểm thực hành vào Sheet1. (Microsoft Excel)
+bạn Chi share link tài liệu cho nhóm chỉnh sửa. (Gmail)
+bạn Chi sửa lỗi formula trong LibreOffice Calc sau khi nhập sai dấu phẩy.
+bạn Chi tìm lại email hoặc tin nhắn chứa mã lớp học. (Zalo)
+bạn Dũng bấm Playlist để kiểm tra đoạn thuyết minh. (Windows Media Player)
+bạn Dũng clicks Ctrl L in Microsoft Edge during Tin học class.
+bạn Dũng clicks Shared with me in Google Drive during Ngữ văn class.
+bạn Dũng crop ảnh chụp bảng để đưa vào tài liệu Word. (Microsoft Paint)
+bạn Dũng dùng Save a copy để tô màu, cắt ảnh hoặc thêm chữ. (Windows Photos)
+bạn Dũng hỏi vì sao sprite không nhận phím mũi tên trong ScratchJr.
+bạn Dũng kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
+bạn Dũng kiểm tra file Calculator history trước khi nộp bài.
+bạn Dũng kiểm tra điểm quiz sau khi submit form. (Google Classroom)
+bạn Dũng mở Windows Snipping Tool để copy snip vào PowerPoint.
+bạn Dũng sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
+bạn Dũng sửa lỗi thiếu part khi mở file nén. (WinRAR)
+bạn Dũng tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Wikipedia)
+bạn Dũng đặt primary key cho trường MaSach. (Microsoft Access)
+bạn Hà chạy thử chương trình và xem output trong terminal. (Command Prompt)
+bạn Hà clicks Ctrl M in Microsoft PowerPoint during Ngữ văn class.
+bạn Hà clicks Download in OneDrive during Hóa học class.
+bạn Hà clicks Downloads in Microsoft Edge during Tin học class.
+bạn Hà clicks Stop Recording in OBS Studio during Lịch sử class.
+bạn Hà clicks Turn in in Google Classroom during Tin học class.
+bạn Hà clicks Zalo PC in Zalo during Công nghệ class.
+bạn Hà clicks txt in Windows Notepad during Lịch sử class.
+bạn Hà gõ print('Hello class') rồi lưu vào thư mục Python. (Python IDLE)
+bạn Hà kéo block background vào script area trong bài hệ mặt trời. (ScratchJr)
+bạn Hà sửa lỗi thiếu part khi mở file nén. (WinRAR)
+bạn Hà tìm lại email hoặc tin nhắn chứa mã lớp học. (Google Drive)
+bạn Hà tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
+bạn Hà tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (YouTube)
+bạn Linh clicks Export PDF in WPS Writer during Địa lý class.
+bạn Linh copy nội dung từ Chrome rồi dán vào tài liệu Microsoft OneNote.
+bạn Linh copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
+bạn Linh kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
+bạn Linh kiểm tra điểm quiz sau khi submit form. (Kahoot)
+bạn Linh kiểm tra điểm quiz sau khi submit form. (Microsoft Forms)
+bạn Linh kéo block background vào script area trong bài biến đổi khí hậu. (ScratchJr)
+bạn Linh share link tài liệu cho nhóm chỉnh sửa. (Gmail)
+bạn Linh tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft Outlook)
+bạn Minh bấm Subtitle để kiểm tra đoạn thuyết minh. (Windows Media Player)
+bạn Minh chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Canva)
+bạn Minh chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
+bạn Minh clicks Date modified in Windows File Explorer during Công nghệ class.
+bạn Minh clicks ping in Command Prompt during STEM class.
+bạn Minh copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
+bạn Minh cắt đoạn đầu bị lỗi rồi lưu bản final. (Audacity)
+bạn Minh gõ print('Hello class') rồi lưu vào thư mục Python. (PowerShell)
+bạn Minh kiểm tra camera, microphone và loa trước khi vào lớp. (Google Meet)
+bạn Minh kiểm tra file Calculator history trước khi nộp bài.
+bạn Minh nhập danh sách học sinh và điểm thực hành vào Sheet1. (WPS Spreadsheet)
+bạn Minh share link tài liệu cho nhóm chỉnh sửa. (Google Drive)
+bạn Minh sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
+bạn Nam clicks Draft in Gmail during Vật lý class.
+bạn Nam clicks Layers in Paint.NET during Công nghệ class.
+bạn Nam cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
+bạn Nam dùng Brightness-Contrast để tô màu, cắt ảnh hoặc thêm chữ. (GIMP)
+bạn Nam dùng Eraser để tô màu, cắt ảnh hoặc thêm chữ. (Microsoft Paint)
+bạn Nam hỏi vì sao sprite không nhận phím mũi tên trong Scratch.
+bạn Nam kiểm tra file snip_scratch_project.png trước khi nộp bài. (Windows Snipping Tool)
+bạn Nam share link tài liệu cho nhóm chỉnh sửa. (Microsoft Outlook)
+bạn Nam tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
+bạn Ngọc clicks Brushes in Microsoft Paint during Hóa học class.
+bạn Ngọc clicks Ctrl S in Microsoft Word during Khoa học tự nhiên class.
+bạn Ngọc copy link tham khảo vào Notepad để ghi nguồn. (Microsoft Edge)
+bạn Ngọc copy nội dung từ Chrome rồi dán vào tài liệu Microsoft OneNote.
+bạn Ngọc hỏi vì sao sprite không nhận phím mũi tên trong ScratchJr.
+bạn Ngọc kéo block Save to your computer vào script area trong bài an toàn Internet. (Scratch Desktop)
+bạn Ngọc kéo block fullscreen vào script area trong bài dự án cuối kỳ. (Scratch Desktop)
+bạn Ngọc kéo block record sound vào script area trong bài poster tuyên truyền. (ScratchJr)
+bạn Ngọc nhập mã lớp rồi bấm Turn in sau khi đính kèm quizizz_result_screenshot.png. (Quizizz)
+bạn Ngọc tìm lại email hoặc tin nhắn chứa mã lớp học. (Microsoft 365)
+bạn Ngọc tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Google Chrome)
+bạn Phúc bấm Subtitle để kiểm tra đoạn thuyết minh. (Windows Media Player)
+bạn Phúc chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Google Slides)
+bạn Phúc chỉnh font và căn lề tài liệu bằng Find. (Windows Notepad)
+bạn Phúc chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (WPS Presentation)
+bạn Phúc clicks Eraser in Microsoft Paint during Khoa học tự nhiên class.
+bạn Phúc clicks Pen in Microsoft Whiteboard during Ngữ văn class.
+bạn Phúc clicks Relationships in Microsoft Access during Tin học class.
+bạn Phúc clicks Win Shift S in Windows Snipping Tool during STEM class.
+bạn Phúc crop ảnh chụp bảng để đưa vào tài liệu Word. (Windows Photos)
+bạn Phúc cắt đoạn đầu bị lỗi rồi lưu bản final. (Audacity)
+bạn Phúc dùng Zoom để tô màu, cắt ảnh hoặc thêm chữ. (Windows Photos)
+bạn Phúc mở Windows File Explorer để xóa file nháp trước khi nộp bài.
+bạn Phúc mở Windows Settings để mở Display settings để chỉnh resolution.
+bạn Phúc tìm lại email hoặc tin nhắn chứa mã lớp học. (Google Drive)
+bạn Quân chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Microsoft Publisher)
+bạn Quân chỉnh font và căn lề tài liệu bằng Suggesting. (Google Docs)
+bạn Quân chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
+bạn Quân clicks App launcher in Microsoft 365 during Tin học class.
+bạn Quân clicks File name extensions in Windows File Explorer during Công nghệ class.
+bạn Quân clicks New Quiz in Microsoft Forms during Ngữ văn class.
+bạn Quân clicks Save a copy in Windows Photos during GDCD class.
+bạn Quân clicks Subtitle in Windows Media Player during GDCD class.
+bạn Quân clicks Zoom in Desmos during Ngữ văn class.
+bạn Quân copy link tham khảo vào Notepad để ghi nguồn. (Google Chrome)
+bạn Quân copy nội dung từ Chrome rồi dán vào tài liệu Google Docs.
+bạn Quân gõ print('Hello class') rồi lưu vào thư mục Python. (Arduino IDE)
+bạn Quân mở Windows Snipping Tool để chụp màn hình điểm quiz sau khi submit.
+bạn Quân sửa lỗi duplicate key khi nhập mã sách. (Microsoft Access)
+bạn Quân sửa lỗi formula trong Microsoft Excel sau khi nhập sai dấu phẩy.
+bạn Quân tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Google Chrome)
+bạn Trang chạy thử chương trình và xem output trong terminal. (Python IDLE)
+bạn Trang chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
+bạn Trang cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
+bạn Trang dùng Template để nối các bước trong flowchart. (Microsoft Whiteboard)
+bạn Trang gõ print('Hello class') rồi lưu vào thư mục Python. (Command Prompt)
+bạn Trang kéo block Code tab vào script area trong bài sơ đồ tư duy. (Scratch Desktop)
+bạn Trang sửa lỗi formula trong WPS Spreadsheet sau khi nhập sai dấu phẩy.
+bạn Trang tải ảnh minh họa từ kết quả tìm kiếm rồi lưu vào Downloads. (Microsoft Edge)
+bạn Vy chạy thử chương trình và xem output trong terminal. (Python IDLE)
+bạn Vy chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Microsoft Publisher)
+bạn Vy chụp board rồi dán vào báo cáo Word. (Microsoft Whiteboard)
+bạn Vy clicks Python extension in Visual Studio Code during Công nghệ class.
+bạn Vy clicks Speaker notes in Google Slides during Tin học class.
+bạn Vy clicks mp3 in Windows Media Player during Toán class.
+bạn Vy copy link tham khảo vào Notepad để ghi nguồn. (Wikipedia)
+bạn Vy copy nội dung từ Chrome rồi dán vào tài liệu Windows Notepad.
+bạn Vy dùng Zoom để nối các bước trong flowchart. (Microsoft Whiteboard)
+bạn trong nhóm raise hand để trình bày phần năng lượng tái tạo. (Google Meet)
+bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Google Classroom)
+bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Google Forms)
+bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Kahoot)
+bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Microsoft Teams)
+bảng chiếu ghi mã tham gia quiz và yêu cầu dùng tên thật. (Quizizz)
+clipboard trong giờ Tin: đoạn văn ngắn về an toàn Internet để đưa vào Microsoft OneNote.
+clipboard trong giờ Tin: đoạn văn ngắn về biến đổi khí hậu để đưa vào Microsoft Word.
+clipboard trong giờ Tin: đoạn văn ngắn về bảo vệ môi trường để đưa vào Google Docs.
+clipboard trong giờ Tin: đoạn văn ngắn về bảo vệ môi trường để đưa vào LibreOffice Writer.
+clipboard trong giờ Tin: đoạn văn ngắn về hệ mặt trời để đưa vào Google Docs.
+clipboard trong giờ Tin: đoạn văn ngắn về hệ mặt trời để đưa vào WPS Writer.
+clipboard trong giờ Tin: đoạn văn ngắn về lịch sử máy tính để đưa vào Windows Notepad.
+clipboard trong giờ Tin: đoạn văn ngắn về nghề nghiệp tương lai để đưa vào Microsoft Word.
+clipboard trong giờ Tin: đoạn văn ngắn về robot đơn giản để đưa vào Google Docs.
+clipboard trong giờ Tin: đoạn văn ngắn về robot đơn giản để đưa vào Microsoft Word.
+clipboard trong giờ Tin: đoạn văn ngắn về văn hóa đọc để đưa vào Microsoft OneNote.
+clipboard đang có link chia sẻ tài liệu an toàn Internet. (OneDrive)
+clipboard đang có link chia sẻ tài liệu bảo vệ môi trường. (Microsoft 365)
+clipboard đang có link chia sẻ tài liệu di sản Việt Nam. (Zalo)
+clipboard đang có link chia sẻ tài liệu mạng máy tính. (Zalo)
+cô chia sẻ board trong Teams để cả nhóm cùng ghi ý tưởng. (Microsoft Whiteboard)
+cô chiếu cách kéo fill handle để sao chép công thức. (Google Sheets)
+cô giáo chiếu cách kéo fill handle để sao chép công thức. (LibreOffice Calc)
+cô giáo hướng dẫn export hình vẽ sang PNG để đưa vào báo cáo. (GeoGebra)
+cô giáo nhắc không xóa file gốc trước khi kiểm tra giải nén. (WinRAR)
+cô giáo nhắc kiểm tra nguồn trước khi copy vào slide. (Microsoft Edge)
+cô giáo nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch)
+cô giáo nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
+cô giáo nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Google Slides)
+cô giáo nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
+cô giáo yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows Snipping Tool)
+cô giáo yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Microsoft Paint)
+cô giáo yêu cầu tắt micro khi chưa phát biểu. (Google Meet)
+cô giáo yêu cầu đặt tên file theo mẫu 12A_nhom_2_van_ban. (LibreOffice Writer)
+cô gửi deadline trong Google Forms, học sinh xem mục Classwork.
+cô hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
+cô hướng dẫn lưu file .py trước khi chạy bài. (Visual Studio Code)
+cô nhắc kiểm tra âm lượng trước khi nộp file cuối. (Microsoft Clipchamp)
+cô nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
+cô nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Microsoft PowerPoint)
+cô nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
+cô yêu cầu đặt tên file theo mẫu 12A_to_4_van_ban. (Microsoft Word)
+cửa sổ 7-Zip: archive BaiTapTinHoc.zip đang được extract vào D:\TinHoc.
+cửa sổ Audacity: media timeline hoặc track âm thanh đang được mở.
+cửa sổ GeoGebra: đồ thị y=x^2 và đường thẳng y=2x+1 đang hiển thị.
+cửa sổ Google Drive: Drive/TinHoc_Lop9/Slide.pptx đang được upload vào thư mục lớp.
+cửa sổ Google Forms: bài tập năng lượng tái tạo đang chờ submit.
+cửa sổ Google Meet: tổ 4 đang share screen slide biến đổi khí hậu.
+cửa sổ Google Meet: tổ 4 đang share screen slide poster tuyên truyền.
+cửa sổ Microsoft 365: Bai_tap_online.docx đang được upload vào thư mục lớp.
+cửa sổ Microsoft 365: Microsoft365_recent_files đang được upload vào thư mục lớp.
+cửa sổ Microsoft Access: bảng Sach và bảng HocSinh đang ở Datasheet View.
+cửa sổ Microsoft Forms: bài tập máy tính và cuộc sống đang chờ submit.
+cửa sổ Microsoft Forms: bài tập văn hóa đọc đang chờ submit.
+cửa sổ Microsoft Whiteboard: sticky notes đang ghi input, process, output.
+cửa sổ PDF: Tai_lieu_tin_hoc.pdf - Adobe Acrobat Reader, trang 2 có yêu cầu nộp bài.
+cửa sổ Quizizz: bài tập ngày hội STEM đang chờ submit.
+cửa sổ Scratch Desktop: project Tiet_7_Scratch_Offline.sb3, stage có backdrop di sản Việt Nam.
+cửa sổ Scratch Desktop: project Tiet_7_Scratch_Offline.sb3, stage có backdrop hệ mặt trời.
+cửa sổ ScratchJr: project ke_chuyen_lop_1.sjr, stage có backdrop mạng máy tính.
+cửa sổ ScratchJr: project scratchjr_gia_dinh.sjr, stage có backdrop văn hóa đọc.
+cửa sổ UniKey: kiểu gõ Telex, bảng mã Unicode đang được chọn.
+cửa sổ WinRAR: archive Tai_lieu_lop_8.rar đang được extract vào D:\TinHoc.
+cửa sổ Windows Calculator: Percent đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Windows File Explorer: File name extensions đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Windows Media Player: media timeline hoặc track âm thanh đang được mở.
+cửa sổ Windows Settings: Wi-Fi đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Windows Settings: Windows Update đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Windows Snipping Tool: Win Shift S đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Windows Snipping Tool: Window mode đang được giáo viên chỉ trên máy chiếu.
+cửa sổ Zalo: Zalo Downloads\BaiTap.docx đang được upload vào thư mục lớp.
+cửa sổ Zalo: anh_loi_may_tinh.png đang được upload vào thư mục lớp.
+cửa sổ Zoom: bạn Bình đang share screen slide thống kê lớp học.
+cửa sổ bảng tính: Bai_tap_Excel_Ham_SUM.xlsx - Microsoft Excel, ô B2 đang được chọn.
+cửa sổ bảng tính: Bang_diem_Calc.ods - LibreOffice Calc, ô B2 đang được chọn.
+cửa sổ bảng tính: Bang_diem_online.xlsx - Google Sheets, ô B2 đang được chọn.
+cửa sổ bảng tính: Khao_sat_WPS.et - WPS Spreadsheet, ô B2 đang được chọn.
+cửa sổ bảng tính: Khao_sat_lop_GoogleSheets - Google Sheets, ô B2 đang được chọn.
+cửa sổ bảng tính: Thong_ke_chieu_cao.xlsx - Microsoft Excel, ô B2 đang được chọn.
+cửa sổ code: C:\Users\Student\Desktop\baitap - Command Prompt, dòng hiện tại đang có lỗi cú pháp.
+cửa sổ code: index.html - Visual Studio Code, dòng hiện tại đang có lỗi cú pháp.
+cửa sổ code: main.py - Command Prompt, dòng hiện tại đang có lỗi cú pháp.
+cửa sổ code: robot_line_follow.ino - Arduino IDE, dòng hiện tại đang có lỗi cú pháp.
+cửa sổ đang mở: Bai_tap_mo_bang_LibreOffice.docx - LibreOffice Writer, con trỏ nằm ở đoạn giới thiệu bản thân.
+cửa sổ đang mở: Bai_thuyet_trinh.pptx - Google Slides, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ đang mở: Ghi_chu_Excel.one - Microsoft OneNote, con trỏ nằm ở đoạn giới thiệu bản thân.
+cửa sổ đang mở: Scratch_notes.one - Microsoft OneNote, con trỏ nằm ở đoạn giới thiệu bản thân.
+cửa sổ đang mở: Slide_WPS_Nhom2.pptx - WPS Presentation, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ đang mở: Thuyet_trinh_Impress.odp - LibreOffice Impress, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ đang mở: To_roi_CLB_TinHoc.pub - Microsoft Publisher, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ đang mở: bao_cao_wps.pdf - WPS Writer, con trỏ nằm ở đoạn giới thiệu bản thân.
+cửa sổ đang mở: dan_y_thuyet_trinh.txt - Windows Notepad, con trỏ nằm ở đoạn giới thiệu bản thân.
+cửa sổ đang mở: slide_canva_presentation.pdf - Canva, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ đang mở: thiep_moi.pub - Microsoft Publisher, trang đầu có ảnh minh họa và tiêu đề.
+cửa sổ ảnh: bai_ve_paint_lop_3.png - Microsoft Paint, vùng crop đang được chọn.
+cửa sổ ảnh: logo_nhom.svg - Inkscape, vùng crop đang được chọn.
+cửa sổ ảnh: poster_lop.jpeg - Windows Photos, vùng crop đang được chọn.
+display_resolution.png - Windows Settings
+download_from_edge.docx - Microsoft Edge
+file De_bai_thuc_hanh.pdf đang ở chế độ Read-only trong tiết thực hành. (Foxit Reader)
+file archive được đặt tên 12A_so_do_tu_duy_final.zip. (7-Zip)
+file cuối cùng được lưu là Thuyet_trinh_Impress.odp trong thư mục Slide_Final.
+file cuối cùng được lưu là bai_thuyet_trinh_wps.pdf trong thư mục Slide_Final. (WPS Presentation)
+file database Quan_ly_hoc_sinh.accdb được lưu trong thư mục TinHoc_Lop12. (Microsoft Access)
+file database Thiet_bi_phong_may.accdb được lưu trong thư mục TinHoc_Lop12. (Microsoft Access)
+file xuất ra: gioi_thieu_truong.mp4, trạng thái Recording. (Microsoft Clipchamp)
+file xuất ra: thuyet_minh_nhom.aup3, trạng thái Audio OK. (Audacity)
+file ảnh được xuất ra thư mục Downloads dưới tên bai_ve_paint_lop_3.png. (Microsoft Paint)
+file ảnh được xuất ra thư mục Downloads dưới tên poster_lop.jpeg. (Windows Photos)
+file ảnh được xuất ra thư mục Downloads dưới tên so_do_mang.svg. (Inkscape)
+folder path: D:\TinHoc\10A\Microsoft_OneNote\TinHoc_ClassNotebook.one.
+folder path: D:\TinHoc\10A\Microsoft_Outlook\Bai_thuc_hanh_gui_email.docx.
+folder path: D:\TinHoc\10A\Microsoft_Paint\la_co_viet_nam.png.
+folder path: D:\TinHoc\10A\OBS_Studio\OBS_recording_tin_hoc.mkv.
+folder path: D:\TinHoc\10A\WPS_Presentation\Slide_WPS_Nhom2.pptx. - WPS Presentation
+folder path: D:\TinHoc\11A\Command_Prompt\C:\Users\Student\Desktop\baitap. - Command Prompt
+folder path: D:\TinHoc\11A\Gmail\attachment_tin_hoc.docx.
+folder path: D:\TinHoc\11A\WPS_Writer\bao_cao_wps.pdf. - WPS Writer
+folder path: D:\TinHoc\12A\Desmos\do_thi_desmos.png.
+folder path: D:\TinHoc\12A\Microsoft_PowerPoint\Nhom_4_slide.pptx.
+folder path: D:\TinHoc\12A\OneDrive\OneDrive/TinHoc/BaiTap.docx.
+folder path: D:\TinHoc\12A\Thonny\bai_tap_thonny.py.
+folder path: D:\TinHoc\12A\WinRAR\images_part1.rar.
+folder path: D:\TinHoc\12A\Zoom\meeting_chat.txt.
+folder path: D:\TinHoc\2A\Microsoft_Paint\tranh_ngoi_nha.png.
+folder path: D:\TinHoc\2A\Paint_NET\anh_da_chinh.png. - Paint.NET
+folder path: D:\TinHoc\2A\ScratchJr\nhan_vat_di_chuyen.sjr.
+folder path: D:\TinHoc\3A\Google_Classroom\Bai_nop_Classroom.docx.
+folder path: D:\TinHoc\3A\Google_Docs\Untitled document.
+folder path: D:\TinHoc\3A\Microsoft_Word\Thoi_khoa_bieu.docx.
+folder path: D:\TinHoc\3A\Windows_File_Explorer\Downloads\anh_thuyet_trinh.jpg. - Windows File Explorer
+folder path: D:\TinHoc\3B\Microsoft_Paint\tranh_ngoi_nha.png.
+folder path: D:\TinHoc\3B\Scratch\game_me_cung_lop_6.sb3.
+folder path: D:\TinHoc\3B\Scratch_Desktop\BaiTapNhom3.sb3. - Scratch Desktop
+folder path: D:\TinHoc\4A\GIMP\anh_minh_hoa_gimp.png.
+folder path: D:\TinHoc\4A\Microsoft_Edge\download_from_edge.docx.
+folder path: D:\TinHoc\4A\Microsoft_Paint\la_co_viet_nam.png.
+folder path: D:\TinHoc\4A\Scratch_Desktop\catch_apple_offline.sb3. - Scratch Desktop
+folder path: D:\TinHoc\5A\Google_Chrome\anh_minh_hoa.jpg.
+folder path: D:\TinHoc\5A\Scratch_Desktop\BaiTapNhom3.sb3. - Scratch Desktop
+folder path: D:\TinHoc\5B\Scratch\animation_bao_ve_moi_truong.sb3.
+folder path: D:\TinHoc\6A\Desmos\do_thi_desmos.png.
+folder path: D:\TinHoc\6A\Microsoft_PowerPoint\Thuyet_trinh_Tin_hoc.pptx.
+folder path: D:\TinHoc\6A\Microsoft_Whiteboard\so_do_thuat_toan_whiteboard.png.
+folder path: D:\TinHoc\6A\Microsoft_Word\Bao_cao_tin_hoc.docx.
+folder path: D:\TinHoc\6A\WPS_Presentation\Slide_WPS_Nhom2.pptx. - WPS Presentation
+folder path: D:\TinHoc\7A\GeoGebra\hinh_hoc_geogebra.png.
+folder path: D:\TinHoc\7A\Google_Slides\Slide_nhom_GoogleSlides.
+folder path: D:\TinHoc\7A\Microsoft_Clipchamp\video_thuyet_trinh_nhom_5.mp4.
+folder path: D:\TinHoc\8A\Google_Meet\screen_share_slides.
+folder path: D:\TinHoc\8B\LibreOffice_Impress\Slide_mo_bang_LibreOffice.pptx.
+folder path: D:\TinHoc\8B\PowerShell\PS C:\Users\Student\TinHoc>.
+folder path: D:\TinHoc\8B\Windows_Photos\anh_thuyet_trinh.jpg.
+folder path: D:\TinHoc\9A\Desmos\do_thi_desmos.png.
+folder path: D:\TinHoc\9A\Google_Slides\Bai_thuyet_trinh.pptx.
+folder path: D:\TinHoc\9A\Python_IDLE\bai1.py. - Python IDLE
+folder path: D:\TinHoc\9B\Microsoft_Clipchamp\video_thuyet_trinh_nhom_5.mp4.
+giáo viên chia sẻ board trong Teams để cả nhóm cùng ghi ý tưởng. (Microsoft Whiteboard)
+giáo viên chiếu cách kéo fill handle để sao chép công thức. (Microsoft Excel)
+giáo viên gửi deadline trong Google Classroom, học sinh xem mục Classwork.
+giáo viên gửi deadline trong Quizizz, học sinh xem mục Classwork.
+giáo viên gửi link tài liệu trong nhóm lớp, học sinh bấm download. (Google Drive)
+giáo viên hướng dẫn lưu file .py trước khi chạy bài. (Command Prompt)
+giáo viên hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
+giáo viên hướng dẫn tạo form nhập dữ liệu trong Microsoft Access.
+giáo viên nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Google Slides)
+giáo viên nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (LibreOffice Impress)
+giáo viên yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows Settings)
+grep yolo không match
+huong_dan_word.mp4 - Windows Media Player
+học sinh mở Google Classroom, đọc nhận xét của giáo viên rồi sửa bài.
+học sinh mở Kahoot, đọc nhận xét của giáo viên rồi sửa bài.
+học sinh mở Microsoft Forms, đọc nhận xét của giáo viên rồi sửa bài.
+học sinh mở Quizizz, đọc nhận xét của giáo viên rồi sửa bài.
+iwd tren Linux
+ket_qua_quiz.png - Windows Snipping Tool
+khi nhập mật khẩu tài khoản học tập, học sinh tắt Vietnamese mode. (EVKey)
+link đồ thị được copy vào Google Classroom. (Desmos)
+meeting đang ghi hình bài hướng dẫn thực hành Tin học. (Google Meet)
+meeting_chat.txt - Zoom
+màn hình Adobe Acrobat Reader đang zoom 125 phần trăm cho dễ đọc.
+màn hình Arduino IDE hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
+màn hình Canva đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
+màn hình Desmos có lưới tọa độ, trục Ox Oy và bảng biểu thức.
+màn hình GIMP có layer chữ tiêu đề và hình nền poster.
+màn hình Google Classroom hiện câu hỏi trắc nghiệm về di sản Việt Nam.
+màn hình Google Classroom hiện câu hỏi trắc nghiệm về văn hóa đọc.
+màn hình Google Docs có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
+màn hình Google Drive hiện trạng thái Upload complete cho file BaiTap_GoogleDrive.docx.
+màn hình Google Meet hiện chat có link bài tập và file meet_recording_drive.
+màn hình Google Search có nhiều tab: hình ảnh, Wikipedia, YouTube hướng dẫn.
+màn hình Google Sheets hiển thị biểu đồ cột cho khảo sát biến đổi khí hậu.
+màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát lịch sử máy tính.
+màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát nghề nghiệp tương lai.
+màn hình LibreOffice Calc hiển thị biểu đồ cột cho khảo sát năng lượng tái tạo.
+màn hình LibreOffice Impress đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
+màn hình Microsoft 365 hiện trạng thái Message sent cho file Bai_tap_online.docx.
+màn hình Microsoft 365 hiện trạng thái Message sent cho file Microsoft365_recent_files.
+màn hình Microsoft 365 hiện trạng thái Shared cho file Bai_tap_online.docx.
+màn hình Microsoft 365 hiện trạng thái Upload complete cho file Microsoft365_recent_files.
+màn hình Microsoft Access có relationship giữa bảng MuonSach và HocSinh.
+màn hình Microsoft Clipchamp hiện waveform, preview hoặc thanh phát media của nhóm.
+màn hình Microsoft Edge có nhiều tab: hình ảnh, Wikipedia, YouTube hướng dẫn.
+màn hình Microsoft Forms hiện câu hỏi trắc nghiệm về lịch sử máy tính.
+màn hình Microsoft Forms hiện câu hỏi trắc nghiệm về robot đơn giản.
+màn hình Microsoft OneNote có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
+màn hình Microsoft Outlook hiện trạng thái Shared cho file Bai_thuc_hanh_gui_email.docx.
+màn hình Microsoft Outlook hiện trạng thái Sync pending cho file Bai_thuc_hanh_gui_email.docx.
+màn hình Microsoft Paint có layer chữ tiêu đề và hình nền poster.
+màn hình Microsoft PowerPoint đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
+màn hình Microsoft Publisher đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
+màn hình Microsoft Teams hiện câu hỏi trắc nghiệm về văn hóa đọc.
+màn hình Microsoft Whiteboard có mũi tên, ghi chú và hình chữ nhật thuật toán.
+màn hình Microsoft Word có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
+màn hình OBS Studio hiện waveform, preview hoặc thanh phát media của nhóm.
+màn hình OneDrive hiện trạng thái Shared cho file OneDrive/TinHoc/BaiTap.docx.
+màn hình OneDrive hiện trạng thái Sync pending cho file Shared/Slide_Nhom3.pptx.
+màn hình PowerShell hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
+màn hình Python IDLE hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
+màn hình Thonny hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
+màn hình Visual Studio Code hiện lỗi SyntaxError hoặc NameError sau khi bấm Run.
+màn hình WPS Presentation đang ở chế độ xem trước, bố cục hình ảnh nằm bên phải.
+màn hình WPS Spreadsheet hiển thị biểu đồ cột cho khảo sát an toàn Internet.
+màn hình WPS Writer có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
+màn hình Windows Media Player hiện waveform, preview hoặc thanh phát media của nhóm.
+màn hình Windows Notepad có bảng thời khóa biểu, ảnh minh họa và tiêu đề màu xanh.
+màn hình Windows Photos có layer chữ tiêu đề và hình nền poster.
+màn hình Zoom hiện chat có link bài tập và file meeting_chat.txt.
+màn hình máy chiếu demo block repeat và broadcast message trong Scratch Desktop.
+màn hình máy chiếu demo block repeat và broadcast message trong Scratch.
+màn hình máy chiếu demo block repeat và broadcast message trong ScratchJr.
+màn hình máy số 21 đang mở Windows Snipping Tool, trạng thái Open.
+màn hình máy số 23 đang mở Windows File Explorer, trạng thái Open.
+màn hình máy số 30 đang mở Windows File Explorer, trạng thái Copied.
+màn hình máy số 31 đang mở Windows Snipping Tool, trạng thái Copied.
+màn hình máy số 32 đang mở Windows File Explorer, trạng thái Open.
+màn hình máy số 36 đang mở Windows Snipping Tool, trạng thái Ready.
+màn hình máy số 40 đang mở Windows File Explorer, trạng thái Copied.
+màn hình máy số 7 đang mở Windows Calculator, trạng thái Ready.
+màn hình máy số 9 đang mở Windows File Explorer, trạng thái Settings changed.
+máy phòng Tin đang phát thử sản phẩm thuyết trình bằng Audacity.
+máy số 11 đang chạy Scratch, green flag vừa được bấm để test project.
+máy số 12 đang chạy Scratch, green flag vừa được bấm để test project.
+máy số 22 đang chạy ScratchJr, green flag vừa được bấm để test project.
+máy số 24 đang chạy Scratch, green flag vừa được bấm để test project.
+máy số 30 đang chạy Scratch, green flag vừa được bấm để test project.
+máy số 39 đang chạy Scratch, green flag vừa được bấm để test project.
+mở Gmail
+mở LibreOffice Writer
+mở Microsoft Clipchamp
+mở Microsoft Outlook
+mở Microsoft Paint
+mở Microsoft Publisher
+mở Microsoft Whiteboard
+mở PowerShell
+mở Scratch Desktop
+mở Windows Snipping Tool
+nhóm 1 clicks Aspect ratio in Microsoft Clipchamp during Sinh học class.
+nhóm 1 clicks PATH in Command Prompt during Tin học class.
+nhóm 1 dùng Graph settings để chỉnh tham số và quan sát đồ thị. (Desmos)
+nhóm 1 kiểm tra file Calculator history trước khi nộp bài.
+nhóm 1 kiểm tra điểm quiz sau khi submit form. (Microsoft Teams)
+nhóm 1 mở Windows Settings để kiểm tra microphone trong mục Sound.
+nhóm 1 nhập danh sách học sinh và điểm thực hành vào Sheet1. (LibreOffice Calc)
+nhóm 1 sửa lỗi formula trong Microsoft Excel sau khi nhập sai dấu phẩy.
+nhóm 2 chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Canva)
+nhóm 2 chèn ảnh từ Downloads vào bài và căn giữa khung hình. (Microsoft Publisher)
+nhóm 2 chỉnh font và căn lề tài liệu bằng Templates. (WPS Writer)
+nhóm 2 chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (WPS Presentation)
+nhóm 2 clicks Costumes in Scratch during Tin học class.
+nhóm 2 clicks OneDrive in Microsoft 365 during Lịch sử class.
+nhóm 2 clicks Shapes in Microsoft Paint during Công nghệ class.
+nhóm 2 dùng Transparent background để tô màu, cắt ảnh hoặc thêm chữ. (Paint.NET)
+nhóm 2 nhập mã lớp rồi bấm Turn in sau khi đính kèm Responses_GoogleForms_Sheets.
+nhóm 2 sửa lỗi dấu tiếng Việt bị lệch trong PowerPoint. (EVKey)
+nhóm 2 sửa lỗi thiếu part khi mở file nén. (7-Zip)
+nhóm 3 bấm Fade In để kiểm tra đoạn thuyết minh. (Audacity)
+nhóm 3 chọn template đơn giản rồi thêm nội dung cho phần giới thiệu. (Google Slides)
+nhóm 3 clicks Copy in Windows File Explorer during Công nghệ class.
+nhóm 3 clicks Multiple choice in Google Forms during GDCD class.
+nhóm 3 clicks Share graph in Desmos during Toán class.
+nhóm 3 clicks Transition in LibreOffice Impress during GDCD class.
+nhóm 3 cắt đoạn đầu bị lỗi rồi lưu bản final. (OBS Studio)
+nhóm 3 dùng Find để tìm từ khóa trong tài liệu. (Foxit Reader)
+nhóm 3 hỏi vì sao sprite không nhận phím mũi tên trong Scratch Desktop.
+nhóm 3 hỏi vì sao sprite không nhận phím mũi tên trong Scratch.
+nhóm 3 mở Windows Settings để xem dung lượng ổ C còn trống.
+nhóm 3 share link tài liệu cho nhóm chỉnh sửa. (OneDrive)
+phiếu bài tập: tạo câu chuyện tương tác bằng Scratch Desktop, có ít nhất hai nhân vật.
+phiếu bài tập: tạo câu chuyện tương tác bằng Scratch, có ít nhất hai nhân vật.
+project may_tinh_va_cuoc_song có file main.py, README.txt và thư mục data. (PowerShell)
+project nghe_nghiep_tuong_lai có file main.py, README.txt và thư mục data. (Command Prompt)
+project poster_tuyen_truyen có file main.py, README.txt và thư mục data. (PowerShell)
+screen text: Adobe Acrobat Reader | Fill & Sign | Read-only | biến đổi khí hậu.
+screen text: Command Prompt | dir | Debugging | dữ liệu và thông tin.
+screen text: EVKey | Telex | Running | bảo vệ môi trường.
+screen text: Gmail | Drive insert | Shared | thống kê lớp học.
+screen text: Google Chrome | Address bar | Search results | an toàn Internet.
+screen text: Google Classroom | Class code | Assigned | máy tính và cuộc sống.
+screen text: Google Docs | Suggesting | Exporting PDF | văn hóa đọc.
+screen text: Google Drive | Share | Downloaded | sơ đồ tư duy.
+screen text: Google Forms | Questions | Due today | di sản Việt Nam.
+screen text: Google Forms | Submit | Loading | poster tuyên truyền.
+screen text: Google Sheets | Download XLSX | Editing | dự án cuối kỳ.
+screen text: LibreOffice Writer | Print Preview | Exporting PDF | văn hóa đọc.
+screen text: Microsoft 365 | App launcher | Message sent | ngày hội STEM.
+screen text: Microsoft 365 | Create new | Message sent | mạng máy tính.
+screen text: Microsoft 365 | OneDrive | Message sent | máy tính và cuộc sống.
+screen text: Microsoft Access | accdb | Table open | bài thuyết trình tiếng Anh.
+screen text: Microsoft Clipchamp | Record screen | Render complete | thống kê lớp học.
+screen text: Microsoft Forms | Preview | Turned in | dự án cuối kỳ.
+screen text: Microsoft OneNote | To Do tag | Editing | di sản Việt Nam.
+screen text: Microsoft Outlook | Cc | Upload complete | di sản Việt Nam.
+screen text: Microsoft Outlook | New mail | Upload complete | biến đổi khí hậu.
+screen text: Microsoft PowerPoint | Design | Saved | văn hóa đọc.
+screen text: Microsoft PowerPoint | Speaker Notes | Saved | di sản Việt Nam.
+screen text: Microsoft Teams | Mute | Graded | máy tính và cuộc sống.
+screen text: Microsoft Teams | Raise hand | Turned in | lịch sử máy tính.
+screen text: Microsoft Whiteboard | Insert image | Sticky note added | bảo vệ môi trường.
+screen text: Microsoft Whiteboard | Sticky notes | Shared | robot đơn giản.
+screen text: Scratch Desktop | Choose a Sprite | Loading | di sản Việt Nam.
+screen text: Thonny | Run | Saved | an toàn Internet.
+screen text: Visual Studio Code | Format Document | Terminal open | mạng máy tính.
+screen text: WPS Writer | Insert Table | Saved | nghề nghiệp tương lai.
+screen text: Wikipedia | Infobox | Loading | bảo vệ môi trường.
+screen text: WinRAR | Test | Extract complete | dự án cuối kỳ.
+screen text: Windows Calculator | History | Settings changed | mạng máy tính.
+screen text: Windows Calculator | Percent | Copied | máy tính và cuộc sống.
+screen text: Windows File Explorer | Date modified | Ready | máy tính và cuộc sống.
+screen text: Windows File Explorer | This PC | Copied | thuật toán.
+screen text: Windows Notepad | UTF-8 | Editing | bảo vệ môi trường.
+screen text: Windows Snipping Tool | Rectangular mode | Settings changed | nghề nghiệp tương lai.
+screen text: Windows Snipping Tool | Rectangular mode | Settings changed | ngày hội STEM.
+screen text: Windows Snipping Tool | Window mode | Copied | ngày hội STEM.
+screen text: YouTube | Playlist | Search results | poster tuyên truyền.
+screen text: YouTube | Watch later | New tab | poster tuyên truyền.
+screen text: Zalo | Send file | Upload complete | sơ đồ tư duy.
+screen text: Zoom | Chat | Joined | ngày hội STEM.
+screen text: Zoom | Participants | Camera off | năng lượng tái tạo.
+search Command Prompt
+search Gmail
+search Google Drive
+search Google Slides
+search LibreOffice Calc
+search Microsoft Edge
+search Microsoft OneNote
+search Microsoft PowerPoint
+search Microsoft Teams
+search Microsoft Whiteboard
+search Windows File Explorer
+search Windows Settings
+search query: 1 GB bằng bao nhiêu MB. (Windows Calculator)
+search query: Access Query Design lọc dữ liệu theo lớp.
+search query: Access Query Design lớp 12.
+search query: Classroom turn in là gì.
+search query: Display settings resolution. (Windows Settings)
+search query: EVKey không gõ được tiếng Việt trong Chrome.
+search query: Excel IF tutorial tiếng Việt. (YouTube)
+search query: Excel hàm SUM lớp 7.
+search query: GIMP layer tutorial.
+search query: GeoGebra tam giác đo góc.
+search query: Google Classroom class code.
+search query: Google Drive share link.
+search query: Google Forms tạo quiz.
+search query: Google Slides download pptx.
+search query: IDLE F5 Run Module. (Python IDLE)
+search query: Impress export PDF.
+search query: LibreOffice tạo chart. (LibreOffice Calc)
+search query: Microsoft Teams nộp bài assignments.
+search query: Notepad lưu tiếng Việt UTF-8.
+search query: OBS quay màn hình.
+search query: OneNote Class Notebook là gì.
+search query: Scratch Desktop không mở được project.
+search query: Scratch Desktop mở file sb3.
+search query: Scratch Junior cho học sinh tiểu học.
+search query: Scratch offline editor cách lưu file. (Scratch Desktop)
+search query: Shared with me Google Drive.
+search query: Teams join meeting bằng link.
+search query: Teams lớp học online cách dùng.
+search query: Thonny debug từng bước.
+search query: UniKey không gõ được tiếng Việt trong Chrome.
+search query: WPS Presentation mở pptx.
+search query: WPS save as xlsx. (WPS Spreadsheet)
+search query: WinRAR giải nén file rar.
+search query: Windows Photos crop image.
+search query: Windows Settings đổi bàn phím tiếng Việt.
+search query: Zalo tải file về máy tính.
+search query: Zoom đổi tên hiển thị.
+search query: cmd python --version. (Command Prompt)
+search query: cách chia sẻ file bằng Gmail.
+search query: cách chia sẻ file bằng Google Drive.
+search query: cách chia sẻ file bằng Microsoft 365.
+search query: cách chia sẻ file bằng Microsoft Outlook.
+search query: cách căn lề trong Word.
+search query: cách căn lề và đánh số trang trong Google Docs.
+search query: cách căn lề và đánh số trang trong LibreOffice Writer.
+search query: cách căn lề và đánh số trang trong Microsoft Word.
+search query: cách dùng Windows Calculator trong Windows.
+search query: cách dùng Windows File Explorer trong Windows.
+search query: cách dùng Windows Settings trong Windows.
+search query: cách dùng Windows Snipping Tool trong Windows.
+search query: cách dùng comment trong Docs.
+search query: cách dùng hàm if trong excel. (Google Chrome)
+search query: cách export file media trong Audacity.
+search query: cách export file media trong Windows Media Player.
+search query: cách giải nén file bằng WinRAR.
+search query: cách làm nhân vật Scratch nói xin chào lớp em.
+search query: cách làm nhân vật Scratch nói xin chào lớp em. (Scratch Desktop)
+search query: cách làm nhân vật Scratch nói xin chào lớp em. (ScratchJr)
+search query: cách làm slide đẹp. (Google Search)
+search query: cách nộp bài trên Google Classroom.
+search query: cách nộp bài trên Google Forms.
+search query: cách nộp bài trên Microsoft Forms.
+search query: cách nộp bài trên Quizizz.
+search query: cách resize ảnh trong Inkscape.
+search query: cách resize ảnh trong Windows Photos.
+search query: cách share Google Slides.
+search query: cách share screen trong Google Meet.
+search query: cách sửa lỗi Terminal trong Visual Studio Code.
+search query: cách sửa lỗi code . trong PowerShell.
+search query: cách vẽ sơ đồ tư duy trên Microsoft Whiteboard.
+search query: cách vẽ đồ thị hàm số trên Desmos.
+search query: cách vẽ đồ thị hàm số trên GeoGebra.
+search query: execution policy là gì. (PowerShell)
+search query: hàm SUM AVERAGE IF trong Google Sheets.
+search query: hàm SUM AVERAGE IF trong LibreOffice Calc.
+search query: ipconfig là gì tin học. (Command Prompt)
+search query: lỗi indentation python vscode. (Visual Studio Code)
+search query: mẫu thiết kế thuyết trình chủ đề bảo vệ môi trường cho học sinh. (Canva)
+search query: mẫu thiết kế thuyết trình chủ đề máy tính và cuộc sống cho học sinh. (Microsoft Publisher)
+search query: mẫu thiết kế thuyết trình chủ đề năng lượng tái tạo cho học sinh. (Microsoft PowerPoint)
+search query: mẫu thiết kế thuyết trình chủ đề poster tuyên truyền cho học sinh. (LibreOffice Impress)
+search query: mẫu thiết kế thuyết trình chủ đề thống kê lớp học cho học sinh. (Microsoft Publisher)
+search query: office.com Word online. (Microsoft 365)
+search query: primary key trong Access là gì.
+search query: tìm mail trong Outlook.
+search query: ảnh thuyết trình bảo vệ môi trường. (Google Chrome)
+st original vs patched
+tab Canva hiện mục Text, học sinh đang chỉnh bố cục.
+tab Desmos đang zoom vào giao điểm của hai đường.
+tab GeoGebra đang zoom vào giao điểm của hai đường.
+tab Google Meet hiện Participants, Chat và nút Present.
+tab LibreOffice Impress hiện mục ODP, học sinh đang chỉnh bố cục.
+tab Microsoft Access đang mở Report danh sách thiết bị phòng máy.
+tab Microsoft Excel: Filter đang bật cho bảng thống kê lớp.
+tab Microsoft PowerPoint hiện mục Design, học sinh đang chỉnh bố cục.
+tab Microsoft PowerPoint hiện mục Presenter View, học sinh đang chỉnh bố cục.
+tab Microsoft Publisher hiện mục Print Preview, học sinh đang chỉnh bố cục.
+tab Microsoft Whiteboard hiện template brainstorming cho dự án bảo vệ môi trường.
+tab WPS Presentation hiện mục Export PDF, học sinh đang chỉnh bố cục.
+tab trình duyệt đang hiện search results: scratch mit edu. (Microsoft Edge)
+tab trình duyệt đang mở scratch.mit.edu create và project du_lieu_va_thong_tin. (Scratch)
+tab trình duyệt đang mở scratch.mit.edu create và project mang_may_tinh. (ScratchJr)
+tab trình duyệt đang mở scratch.mit.edu create và project robot_don_gian. (Scratch Desktop)
+tab trình duyệt đang mở scratch.mit.edu create và project robot_don_gian. (ScratchJr)
+tab trình duyệt: Google Classroom - bài tập chưa nộp - due today.
+tab trình duyệt: Google Forms - bài tập chưa nộp - due today.
+tab trình duyệt: Kahoot - bài tập chưa nộp - due today.
+tab trình duyệt: Microsoft Forms - bài tập chưa nộp - due today.
+tab trình duyệt: Microsoft Teams - bài tập chưa nộp - due today.
+tab trình duyệt: Quizizz - bài tập chưa nộp - due today.
+taskbar có Windows Calculator, Chrome, Word và UniKey đang chạy.
+taskbar có Windows File Explorer, Chrome, Word và UniKey đang chạy.
+taskbar phòng máy có biểu tượng EVKey cạnh đồng hồ Windows.
+taskbar phòng máy có biểu tượng UniKey cạnh đồng hồ Windows.
+teacher note: use Adobe Acrobat Reader, finish the classroom task, then submit the file.
+teacher note: use Command Prompt, finish the classroom task, then submit the file.
+teacher note: use EVKey, finish the classroom task, then submit the file.
+teacher note: use Foxit Reader, finish the classroom task, then submit the file.
+teacher note: use GeoGebra, finish the classroom task, then submit the file.
+teacher note: use Google Classroom, finish the classroom task, then submit the file.
+teacher note: use Google Docs, finish the classroom task, then submit the file.
+teacher note: use Google Drive, finish the classroom task, then submit the file.
+teacher note: use Google Meet, finish the classroom task, then submit the file.
+teacher note: use LibreOffice Impress, finish the classroom task, then submit the file.
+teacher note: use Microsoft Access, finish the classroom task, then submit the file.
+teacher note: use Microsoft Clipchamp, finish the classroom task, then submit the file.
+teacher note: use Microsoft Edge, finish the classroom task, then submit the file.
+teacher note: use Microsoft Forms, finish the classroom task, then submit the file.
+teacher note: use Microsoft Outlook, finish the classroom task, then submit the file.
+teacher note: use Microsoft Paint, finish the classroom task, then submit the file.
+teacher note: use Microsoft Publisher, finish the classroom task, then submit the file.
+teacher note: use Microsoft Whiteboard, finish the classroom task, then submit the file.
+teacher note: use OBS Studio, finish the classroom task, then submit the file.
+teacher note: use PowerShell, finish the classroom task, then submit the file.
+teacher note: use Python IDLE, finish the classroom task, then submit the file.
+teacher note: use Scratch Desktop, finish the classroom task, then submit the file.
+teacher note: use ScratchJr, finish the classroom task, then submit the file.
+teacher note: use UniKey, finish the classroom task, then submit the file.
+teacher note: use WPS Writer, finish the classroom task, then submit the file.
+teacher note: use Windows Calculator, finish the classroom task, then submit the file.
+teacher note: use Windows File Explorer, finish the classroom task, then submit the file.
+teacher note: use Windows Media Player, finish the classroom task, then submit the file.
+teacher note: use Windows Notepad, finish the classroom task, then submit the file.
+teacher note: use Windows Settings, finish the classroom task, then submit the file.
+teacher note: use Zalo, finish the classroom task, then submit the file.
+terminal đang ở đường dẫn D:\TinHoc\12A\Python. (Command Prompt)
+terminal đang ở đường dẫn D:\TinHoc\12A\Python. (PowerShell)
+terminal đang ở đường dẫn D:\TinHoc\7A\Python. (Command Prompt)
+thuyet_minh_nhom.aup3 - Audacity
+thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Gmail)
+thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Microsoft 365)
+thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (Microsoft Outlook)
+thư mục online có Slide_Final, BaiTapTinHoc và ảnh minh họa. (OneDrive)
+thầy chiếu cách kéo fill handle để sao chép công thức. (LibreOffice Calc)
+thầy gửi deadline trong Google Classroom, học sinh xem mục Classwork.
+thầy nhắc kiểm tra nguồn trước khi copy vào slide. (Google Search)
+thầy nhắc kiểm tra âm lượng trước khi nộp file cuối. (Windows Media Player)
+thầy nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch)
+thầy nhắc lưu file .sb3 trước khi đổi máy thực hành. (ScratchJr)
+thầy nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (Canva)
+thầy nhắc nhóm kiểm tra chính tả trước khi xuất file cuối. (WPS Presentation)
+thầy phụ trách phòng máy chiếu cách kéo fill handle để sao chép công thức. (Google Sheets)
+thầy phụ trách phòng máy gửi deadline trong Google Forms, học sinh xem mục Classwork.
+thầy phụ trách phòng máy gửi deadline trong Microsoft Forms, học sinh xem mục Classwork.
+thầy phụ trách phòng máy gửi deadline trong Microsoft Teams, học sinh xem mục Classwork.
+thầy phụ trách phòng máy gửi link tài liệu trong nhóm lớp, học sinh bấm download. (OneDrive)
+thầy phụ trách phòng máy hướng dẫn lưu file .py trước khi chạy bài. (PowerShell)
+thầy phụ trách phòng máy hướng dẫn lưu file .py trước khi chạy bài. (Python IDLE)
+thầy phụ trách phòng máy hướng dẫn tạo form nhập dữ liệu trong Microsoft Access.
+thầy phụ trách phòng máy nhắc lưu file .sb3 trước khi đổi máy thực hành. (Scratch Desktop)
+thầy phụ trách phòng máy yêu cầu chụp màn hình kết quả và lưu vào thư mục lớp. (Windows File Explorer)
+thầy phụ trách phòng máy yêu cầu đặt tên file theo mẫu 6A_ban_Binh_van_ban. (Microsoft Word)
+thầy yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Inkscape)
+thầy yêu cầu lưu ảnh PNG trước khi chèn vào PowerPoint. (Windows Photos)
+thầy yêu cầu tắt micro khi chưa phát biểu. (Google Meet)
+thầy yêu cầu đọc kỹ phần hướng dẫn trước khi làm trên Word. (Adobe Acrobat Reader)
+trang kết quả mở tab mới cho video hướng dẫn Immersive Reader. (Microsoft Edge)
+trang kết quả mở tab mới cho video hướng dẫn References. (Wikipedia)
+trang kết quả mở tab mới cho video hướng dẫn SafeSearch. (Google Search)
+trang kết quả mở tab mới cho video hướng dẫn Search. (YouTube)
+trang kết quả mở tab mới cho video hướng dẫn Videos. (Google Search)
+trên canvas Inkscape, học sinh đang chỉnh màu và căn giữa đối tượng.
+trên canvas Windows Photos, học sinh đang chỉnh màu và căn giữa đối tượng.
+trên tab Google Docs đang hiện Comment, học sinh chuẩn bị export PDF.
+trên tab LibreOffice Writer đang hiện Export as PDF, học sinh chuẩn bị export PDF.
+trên tab LibreOffice Writer đang hiện ODT, học sinh chuẩn bị export PDF.
+trên tab Microsoft OneNote đang hiện Draw, học sinh chuẩn bị export PDF.
+trên tab Windows Notepad đang hiện Find, học sinh chuẩn bị export PDF.
+trên tab Windows Notepad đang hiện Untitled, học sinh chuẩn bị export PDF.
+tổ 4 chạy thử chương trình và xem output trong terminal. (PowerShell)
+tổ 4 clicks Costumes in Scratch during Công nghệ class.
+tổ 4 clicks Settings in OBS Studio during Hóa học class.
+tổ 4 clicks Translate in Google Chrome during Tin học class.
+tổ 4 dùng Expression list để chỉnh tham số và quan sát đồ thị. (Desmos)
+tổ 4 gõ print('Hello class') rồi lưu vào thư mục Python. (PowerShell)
+tổ 4 kiểm tra điểm quiz sau khi submit form. (Google Forms)
+tổ 4 kiểm tra điểm quiz sau khi submit form. (Quizizz)
+tổ 4 nhập danh sách học sinh và điểm thực hành vào Sheet1. (LibreOffice Calc)
+window title: Bai_WPS_Writer.docx - WPS Writer - Editing.
+window title: Bai_nop_email.pdf - Gmail - Downloaded.
+window title: Bai_nop_email.pdf - Gmail - Message sent.
+window title: Bai_thuc_hanh_Word_lop_6.docx - Microsoft Word - Read-only.
+window title: Bai_thuyet_trinh.pptx - Google Slides - Saved.
+window title: Bang_diem_Calc.ods - LibreOffice Calc - Editing.
+window title: Bang_diem_WPS.xlsx - WPS Spreadsheet - AutoSave On.
+window title: Bang_diem_lop_7.xlsx - Microsoft Excel - Saved.
+window title: Bao_cao_tin_hoc.docx - Microsoft Word - AutoSave On.
+window title: Bao_ve_moi_truong.pptx - Microsoft PowerPoint - Editing.
+window title: File_from_Drive - Google Classroom - Loading.
+window title: Ghi_chu_Excel.one - Microsoft OneNote - Exporting PDF.
+window title: Khao_sat_WPS.et - WPS Spreadsheet - Filter applied.
+window title: Khao_sat_lop.ods - LibreOffice Calc - Saved.
+window title: Nhom_4_slide.pptx - Microsoft PowerPoint - Saved.
+window title: OBS_recording_tin_hoc.mkv - OBS Studio - Playback paused.
+window title: PS C:\Users\Student\TinHoc> - PowerShell - Running.
+window title: Quan_ly_hoc_sinh.accdb - Microsoft Access - Table open.
+window title: Responses_GoogleForms_Sheets - Google Forms - Assigned.
+window title: Thoi_khoa_bieu.docx - Microsoft Word - Editing.
+window title: Zoom_recording_tin_hoc.mp4 - Zoom - Chat open.
+window title: anh_loi_may_tinh.png - Zalo - Downloaded.
+window title: animation_bao_ve_moi_truong.sb3 - Scratch - Not saved.
+window title: background_removed.xcf - GIMP - Editing.
+window title: catch_apple_offline.sb3 - Scratch Desktop - Saved.
+window title: dan_y_thuyet_trinh.txt - Windows Notepad - Read-only.
+window title: game_me_cung_lop_6.sb3 - Scratch - Offline file opened.
+window title: ghi_chu_tin_hoc.txt - Windows Notepad - Editing.
+window title: hinh_minh_hoa.png - Windows Photos - Saved.
+window title: icon_tin_hoc.png - Inkscape - Layer selected.
+window title: kahoot_pin.txt - Kahoot - Due today.
+window title: kiem_tra_diem.py - Python IDLE - Saved.
+window title: main.py - Command Prompt - Saved.
+window title: nhan_vat_di_chuyen.sjr - ScratchJr - Loading.
+window title: project_scratch.zip - 7-Zip - Compression complete.
+window title: requirements.txt - PowerShell - Running.
+window title: scratchjr_gia_dinh.sjr - ScratchJr - Project saved.
+window title: search_results_page - Google Search - Search results.
+window title: snip_scratch_project.png - Windows Snipping Tool - Screenshot saved.
+window title: so_do_thuat_toan_whiteboard.png - Microsoft Whiteboard - Shared.
+Ý nghĩa của /se
+Ý tưởng OpenClaw
+ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (Google Sheets)
+ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (LibreOffice Calc)
+ô tiêu đề đã Merge & Center, hàng đầu tiên được tô màu. (WPS Spreadsheet)
+ô địa chỉ trình duyệt đang nhập từ khóa về hệ mặt trời. (Google Chrome)
+ô địa chỉ trình duyệt đang nhập từ khóa về lịch sử máy tính. (Google Chrome)
+Ăn cắp dữ liệu AI
+Đi vệ sinh đấu trường
+Điều khiển dwm với Mod
+Điểm đặc sắc của bảo tàng
+Điện thoại tự chế
+Đánh giá caption TikTok
+Đánh giá cấu trúc thư mục
+Đánh giá trình độ lập trình
+Đăng ký mua chứng khoán
+Đăng xuất tài khoản Google
+Đường huyết cao mệt sao
+Đầu tư nghiêm túc từ con người đến vật chất
+Đặc sản nước mắm Phan Thiết
+Đặc điểm ảnh AI
+Đề cương KHTN 9
+Đối phó với thế lực tâm linh
+Đồi cát Mũi Né
+Đổi màu viền i3
+Đổi theme Dark Light
+Đổi tên máy Ubuntu
+Độ phức tạp tìm kiếm
+Động lực vs Kỉ luật
+đường dẫn đang mở: D:\TinHoc\3A\Settings screenshot.
+đường dẫn đang mở: D:\TinHoc\6A\calc result. (Windows Calculator)
+đường dẫn đang mở: D:\TinHoc\8A\Calculator history.
+Ảnh anime chaos
+Ẩm thực:
+Ẩn root trên TikTok
+Ẩn taskbar Ubuntu LTS
+Ẩn thanh địa chỉ Brave
+Ứng dụng Python Tkinter
