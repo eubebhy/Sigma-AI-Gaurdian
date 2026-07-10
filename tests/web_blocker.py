@@ -53,17 +53,20 @@ def test_default_and_custom_lists_use_temp_hosts() -> None:
         temp_path = Path(temp_dir)
         hosts_path = temp_path / "hosts"
         custom_path = temp_path / "custom-sites.txt"
+
         # seed dong an toan de check khong bi pha
         hosts_path.write_text("127.0.0.1 safe.local\n", encoding="utf-8")
         # custom co url day du, blocker se rut ve domain
         custom_path.write_text("https://custom.local/path\n", encoding="utf-8")
         web_blocker.default_hoster = str(hosts_path)
+
         try:
             # nap het list mac dinh vao hosts tam
             for default_path in web_blocker.DEFAULT_BLOCK_LIST_PATHS:
                 web_blocker.block(default_path)
             # nap them list custom de test path nguoi dung
             web_blocker.block(custom_path)
+
             assert "127.0.0.1 safe.local\n" in hosts_path.read_text(encoding="utf-8")
             # check mau: porn/gore/default va custom deu bi day localhost
             _assert_connection_blocked(hosts_path, "pornhub.com")
@@ -72,6 +75,7 @@ def test_default_and_custom_lists_use_temp_hosts() -> None:
             # go custom, default list van con
             web_blocker.unblock(custom_path)
             assert "custom.local" not in _blocked_domains(hosts_path)
+
         finally:
             # tra lai hosts path that ke ca test fail
             web_blocker.default_hoster = old_hoster
