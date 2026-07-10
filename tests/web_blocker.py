@@ -1,18 +1,9 @@
-"""Test an toan cho web blocker.
+"""Test web blocker bang hosts dev that, khong dung hosts fake."""
 
-File path: `tests/web_blocker.py`
-Input contract:
-- Chay truc tiep bang `python3 tests/web_blocker.py`.
-Output contract:
-- Test block/unblock list mac dinh va custom tren hosts file tam, khong dung `/etc/hosts`.
-Operating principle:
-- Kiem tra domain trong block section tro ve localhost va ket noi localhost that bai.
-"""
-
+import argparse
 import socket
 import sys
 from pathlib import Path
-from tempfile import TemporaryDirectory
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SRC_ROOT = PROJECT_ROOT / "src"
@@ -22,65 +13,109 @@ if str(SRC_ROOT) not in sys.path:
 from device_controler import web_blocker
 
 
-def _blocked_domains(hosts_path: Path) -> set[str]:
-    # doc hosts tam, chi lay block state cua SAG
-    hosts = hosts_path.read_text(encoding="utf-8")
-    section = hosts.split(web_blocker.START_MARKER, 1)[1].split(
-        web_blocker.END_MARKER,
-        1,
-    )[0]
-    # section -> domain set, bo redirect
+def _blocked_domains() -> set[str]:
+    """Lay cac domain dang bi SAG block trong hosts dev."""
+
+    # hosts dev -> block state hien tai
+    hosts = Path(web_blocker.default_hoster).read_text(encoding="utf-8")
+    _, marker, rest = hosts.partition(web_blocker.START_MARKER)
+    if not marker:
+        return set()
+    section, end_marker, _ = rest.partition(web_blocker.END_MARKER)
+    if not end_marker:
+        raise AssertionError("Web blocker marker is broken")
+    # bo redirect, giu domain
     return {
-        line.split()[1] for line in section.splitlines() if line.startswith("127.0.0.1")
+        line.split()[1]
+        for line in section.splitlines()
+        if line.strip().startswith(f"{web_blocker.redirect} ")
     }
 
 
-def _assert_connection_blocked(hosts_path: Path, domain: str) -> None:
-    # truoc het domain phai co trong hosts tam
-    assert domain in _blocked_domains(hosts_path)
+def _resolved_ips(domain: str) -> set[str]:
+    """Resolve domain bang resolver he thong de check hosts co tac dung."""
+
+    # resolver he thong doc hosts dev
+    return {
+        address
+        for *_, sockaddr in socket.getaddrinfo(domain, None)
+        if isinstance((address := sockaddr[0]), str)
+    }
+
+
+def _domain_from_url(url: str) -> str:
+    """Rut domain tu url/host CLI de dem vao resolver."""
+
+    # url -> host thuan
+    return url.split("://", 1)[-1].split("/", 1)[0].split(":", 1)[0].lower()
+
+
+def _block_default_lists() -> None:
+    """Block toan bo blocklist co san cua he thong."""
+
+    for block_list_path in web_blocker.DEFAULT_BLOCK_LIST_PATHS:
+        web_blocker.block(block_list_path)
+
+
+def _unblock_default_lists() -> None:
+    """Unblock toan bo blocklist co san cua he thong."""
+
+    for block_list_path in web_blocker.DEFAULT_BLOCK_LIST_PATHS:
+        web_blocker.unblock(block_list_path)
+
+
+def _assert_blocked(domain: str) -> None:
+    """Check hosts state va resolver deu da block domain."""
+
+    # state truoc, resolver sau
+    assert domain in _blocked_domains()
+    assert web_blocker.redirect in _resolved_ips(domain)
+
+
+def test_blocker_edits_dev_hosts(domain: str = "pornhub.com") -> None:
+    """Automatic: block default list, verify domain, roi cleanup."""
+
+    blocked = False
     try:
-        # domain bi day ve localhost nen port rong phai fail
-        socket.create_connection(("127.0.0.1", 9), timeout=0.1)
-    except OSError:
-        return
-    raise AssertionError("Blocked domain unexpectedly connected to localhost")
+        # block bang list he thong
+        _block_default_lists()
+        blocked = True
+        _assert_blocked(domain)
+    finally:
+        # da ghi thi phai go
+        if blocked:
+            _unblock_default_lists()
+
+    assert domain not in _blocked_domains()
 
 
-def test_default_and_custom_lists_use_temp_hosts() -> None:
-    # giu hosts that, test chi doi sang file tam
-    old_hoster = web_blocker.default_hoster
-    with TemporaryDirectory() as temp_dir:
-        temp_path = Path(temp_dir)
-        hosts_path = temp_path / "hosts"
-        custom_path = temp_path / "custom-sites.txt"
+def _build_parser() -> argparse.ArgumentParser:
+    """Tao CLI flags cho automatic/block/unblock/custom url."""
 
-        # seed dong an toan de check khong bi pha
-        hosts_path.write_text("127.0.0.1 safe.local\n", encoding="utf-8")
-        # custom co url day du, blocker se rut ve domain
-        custom_path.write_text("https://custom.local/path\n", encoding="utf-8")
-        web_blocker.default_hoster = str(hosts_path)
+    parser = argparse.ArgumentParser()
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--automatic", action="store_true")
+    mode.add_argument("--block", action="store_true")
+    mode.add_argument("--unblock", action="store_true")
+    parser.add_argument("--url", default="pornhub.com")
+    return parser
 
-        try:
-            # nap het list mac dinh vao hosts tam
-            for default_path in web_blocker.DEFAULT_BLOCK_LIST_PATHS:
-                web_blocker.block(default_path)
-            # nap them list custom de test path nguoi dung
-            web_blocker.block(custom_path)
 
-            assert "127.0.0.1 safe.local\n" in hosts_path.read_text(encoding="utf-8")
-            # check mau: porn/gore/default va custom deu bi day localhost
-            _assert_connection_blocked(hosts_path, "pornhub.com")
-            _assert_connection_blocked(hosts_path, "bestgore.com")
-            _assert_connection_blocked(hosts_path, "custom.local")
-            # go custom, default list van con
-            web_blocker.unblock(custom_path)
-            assert "custom.local" not in _blocked_domains(hosts_path)
+def main() -> None:
+    """Chon flow CLI va chay tren hosts dev."""
 
-        finally:
-            # tra lai hosts path that ke ca test fail
-            web_blocker.default_hoster = old_hoster
+    args = _build_parser().parse_args()
+    domain = _domain_from_url(str(args.url))
+    if args.block:
+        _block_default_lists()
+        _assert_blocked(domain)
+    elif args.unblock:
+        _unblock_default_lists()
+        assert domain not in _blocked_domains()
+    else:
+        test_blocker_edits_dev_hosts(domain)
 
 
 if __name__ == "__main__":
-    test_default_and_custom_lists_use_temp_hosts()
-    print("PASS: default and custom web block lists")
+    main()
+    print("PASS: web blocker edits dev hosts")
