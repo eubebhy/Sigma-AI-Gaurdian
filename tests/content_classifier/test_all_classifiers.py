@@ -55,6 +55,11 @@ def parse_arguments() -> tuple[argparse.Namespace, list[str]]:
         description="Tester for all content classifiers"
     )
     _ = parser.add_argument(
+        "--main-classifier",
+        help="Test main combined classifier",
+        action="store_true",
+    )
+    _ = parser.add_argument(
         "-r", "--rule-based-engine", help="Test rule-based engine", action="store_true"
     )
     _ = parser.add_argument(
@@ -268,6 +273,13 @@ def run_selected_tests() -> None:
     tester = BaseClassifierTest()
     test_cases = load_test_cases(args.mode, args.sample_size, args.pick_mode)
 
+    if args.main_classifier or not any(
+        [args.rule_based_engine, args.local_ai_classifier, args.cloud_ai_classifier]
+    ):
+        from content_classifier import content_classifier
+
+        tester.run_classifier_test("main-classifier", content_classifier, test_cases)
+
     if args.rule_based_engine:  # Cac phan test rieng module kieu nay tao mot ham rieng de test, tranh repeat code.
         try:
             from content_classifier.rule_based import rule_based_classifier
@@ -296,10 +308,4 @@ def run_selected_tests() -> None:
 
 
 if __name__ == "__main__":
-    if not any(
-        [args.rule_based_engine, args.local_ai_classifier, args.cloud_ai_classifier]
-    ):
-        print("Vui lòng truyền tham số để chọn engine cần test (-r, -l, hoặc -c).")
-        sys.exit(0)
-
     run_selected_tests()
