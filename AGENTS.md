@@ -59,3 +59,5 @@ Phần mềm quản lý phòng tin học dành cho giáo viên, tích hợp AI A
 4. **Kiểm tra cục bộ:** Ngay sau khi sửa một file Python, chạy lệnh kiểm tra duy nhất file đó:
    ```bash
    scripts/clean_pyright_check.sh <path_to_python_file>
+
+btw, venv: ./.pyvenv
