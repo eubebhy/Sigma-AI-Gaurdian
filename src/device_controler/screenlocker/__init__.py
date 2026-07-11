@@ -14,10 +14,10 @@ IMAGE_PATH = Path(__file__).resolve().parents[3] / "assets" / "lock_banner.png"
 File path: src/device_controler/screenlocker/__init__.py
 Input contract:
 - block(): khong nhan tham so.
-- unblock(): khong nhan tham so.
+- unlock(): khong nhan tham so.
 Output contract:
 - block() chan input va hien thi lock UI fullscreen bang daemon thread.
-- unblock() mo input va tat lock UI neu dang chay.
+- unlock() mo input va tat lock UI neu dang chay.
 Operating principle:
 - chup man hinh, ghep lock banner, tao Tkinter fullscreen trong thread rieng.
 """
@@ -31,7 +31,7 @@ class App:
     def __init__(self, root: tk.Tk, lock_image: Any) -> None:
         self.root = root
         self.root.configure(bg="black")
-        self.root.bind("<Control-Shift-Q>", lambda _: unblock())
+        self.root.bind("<Control-Shift-Q>", lambda _: unlock())
         self.root.attributes("-fullscreen", True)
         self.root.attributes("-topmost", True)
         self.root.overrideredirect(True)
