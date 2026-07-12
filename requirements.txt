@@ -6,3 +6,4 @@ numpy
 mss
 
 evdev
+pydirectinput-rgx; platform_system == "Windows"
