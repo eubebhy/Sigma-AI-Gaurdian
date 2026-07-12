@@ -1,7 +1,5 @@
 import re
 import unicodedata
-from collections.abc import Iterable
-
 
 ZERO_WIDTH_CHARS = {
     "\u200b": "",
