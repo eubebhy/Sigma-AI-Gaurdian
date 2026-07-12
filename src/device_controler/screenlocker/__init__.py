@@ -1,15 +1,4 @@
 # pyright: reportMissingImports=false, reportUnknownMemberType=false, reportUnknownVariableType=false, reportUnknownArgumentType=false
-from pathlib import Path
-from typing import Any
-import threading
-import tkinter as tk
-
-from PIL import Image, ImageGrab, ImageTk
-
-from device_controler.screenlocker import input_blocker
-
-IMAGE_PATH = Path(__file__).resolve().parents[3] / "assets" / "lock_banner.png"
-
 """
 File path: src/device_controler/screenlocker/__init__.py
 Input contract:
@@ -22,6 +11,18 @@ Operating principle:
 - chup man hinh, ghep lock banner, tao Tkinter fullscreen trong thread rieng.
 """
 
+from pathlib import Path
+from typing import Any
+import threading
+import tkinter as tk
+
+from PIL import Image, ImageGrab, ImageTk
+
+from utils import input_blocker
+
+IMAGE_PATH = Path(__file__).resolve().parents[3] / "assets" / "lock_banner.png"
+
+
 _root: tk.Tk | None = None
 _thread: threading.Thread | None = None
 _lock = threading.Lock()
@@ -31,7 +32,7 @@ class App:
     def __init__(self, root: tk.Tk, lock_image: Any) -> None:
         self.root = root
         self.root.configure(bg="black")
-        self.root.bind("<Control-Shift-Q>", lambda _: unlock())
+        # self.root.bind("<Control-Shift-Q>", lambda _: unlock())
         self.root.attributes("-fullscreen", True)
         self.root.attributes("-topmost", True)
         self.root.overrideredirect(True)
