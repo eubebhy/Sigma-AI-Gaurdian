@@ -29,6 +29,8 @@ Frame: TypeAlias = Any
 
 @dataclass(frozen=True)
 class ScreenRegion:
+    """Vùng màn hình cần chụp theo format monitor của MSS."""
+
     top: int
     left: int
     width: int
@@ -37,6 +39,8 @@ class ScreenRegion:
 
 
 class ScreenCapture:
+    """Giữ một MSS instance dùng lại để giảm overhead mỗi lần chụp."""
+
     def __init__(self) -> None:
         self._mss = MSS()
         self._lock = threading.Lock()
@@ -49,6 +53,8 @@ class ScreenCapture:
         height: int,
         sharpness: float = 1.0,
     ) -> Frame:
+        """Chụp một vùng màn hình và trả về frame BGRA dạng numpy-compatible."""
+
         region = ScreenRegion(top=top, left=left, width=width, height=height)
         if not 0.0 < sharpness <= 1.0:
             raise ValueError("sharpness must be in range (0.0, 1.0]")
@@ -65,6 +71,8 @@ class ScreenCapture:
         return _apply_sharpness(frame, sharpness)
 
     def close(self) -> None:
+        """Đóng MSS backend nếu thư viện hiện tại hỗ trợ `close()`."""
+
         close = getattr(self._mss, "close", None)
         if callable(close):
             close()
@@ -77,6 +85,8 @@ def capture(
     height: int,
     sharpness: float = 1.0,
 ) -> Frame:
+    """API tiện ích dùng singleton backend và tự tạo lại một lần khi MSS lỗi."""
+
     global _capture_instance
 
     try:

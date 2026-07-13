@@ -64,6 +64,8 @@ def _kill_pid(pid: int) -> None:
 
 
 class ProcessKiller:
+    """Quét process nền và kill process nằm trong blacklist exact-name."""
+
     def __init__(self) -> None:
         self.blocked: list[str] = []
         self.whitelist: set[str] | None = None
@@ -73,12 +75,18 @@ class ProcessKiller:
         self._extra_exact: set[str] = set()
 
     def set_whitelist(self, values: list[str] | None) -> None:
+        """Đặt danh sách process name không được kill, hoặc xoá whitelist."""
+
         self.whitelist = {value.strip().lower() for value in values} if values else None
 
     def set_blacklist(self, values: list[str]) -> None:
+        """Đặt blacklist bổ sung ngoài `blocked` mặc định của instance."""
+
         self._extra_exact = {value.strip().lower() for value in values}
 
     def start(self) -> None:
+        """Bắt đầu daemon thread quét process nếu chưa chạy."""
+
         if self._thread and self._thread.is_alive():
             return
         self.running = True
@@ -86,6 +94,8 @@ class ProcessKiller:
         self._thread.start()
 
     def stop(self) -> None:
+        """Dừng vòng quét nền ở lần lặp kế tiếp."""
+
         self.running = False
 
     def _run(self) -> None:

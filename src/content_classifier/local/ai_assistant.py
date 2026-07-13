@@ -1,4 +1,17 @@
 # pyright: reportUnknownVariableType=false, reportUnknownMemberType=false, reportUnknownArgumentType=false, reportUnknownLambdaType=false
+"""Wrapper lazy-load cho model scikit-learn của local classifier.
+
+File path: `src/content_classifier/local/ai_assistant.py`
+Input: đường dẫn model joblib và text cần dự đoán.
+Output: dict `{label: probability}` đã sắp theo xác suất giảm dần.
+
+Nguyên lý hoạt động:
+- Model chỉ được load khi gọi `predict()` để import package không tốn RAM ngay.
+- Model được giữ trong bộ nhớ khi còn dùng và được thread nền unload sau thời gian
+  idle ước tính theo kích thước file model.
+- Caller phải gọi `close()` nếu tạo object ngắn hạn để dừng thread nền rõ ràng.
+"""
+
 import threading
 import time
 from pathlib import Path
@@ -26,6 +39,8 @@ def _idle_timeout_seconds(model_path: Path) -> float:
 
 
 class LocalAI:
+    """Quản lý vòng đời model local và cung cấp API dự đoán xác suất."""
+
     def __init__(self, model_path: str | Path) -> None:
         """Create a lazy-loading scikit-learn wrapper with idle cleanup."""
         self._model_path: Path = Path(model_path)
@@ -44,7 +59,11 @@ class LocalAI:
     def predict(
         self, text: str, k: int = -1, threshold: float = 0.0
     ) -> dict[str, float]:
-        """Load the model if needed and return normalized label probabilities."""
+        """Load model khi cần và trả về tối đa `k` nhãn đạt `threshold`.
+
+        `k < 0` nghĩa là trả về toàn bộ nhãn model biết. Kết quả giữ thứ tự xác
+        suất giảm dần theo output của scikit-learn pipeline.
+        """
 
         model = cast(Pipeline, self._load_model())
         probabilities = model.predict_proba([text])[0]

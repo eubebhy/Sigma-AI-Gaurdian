@@ -187,6 +187,13 @@ def _run_open_command(command: list[str]) -> bool:
 
 
 def open_tab(url: str) -> bool:
+    """Mở URL bằng browser phù hợp nhất trên máy hiện tại.
+
+    URL phải bắt đầu bằng `http://` hoặc `https://`. Hàm ưu tiên browser đang chạy
+    để tab mới xuất hiện đúng phiên người dùng, sau đó mới fallback sang browser
+    có executable trong PATH và cuối cùng là default browser của OS.
+    """
+
     if not url.startswith(("http://", "https://")):
         return False
     for browser in _pick_browser(require_running=True):

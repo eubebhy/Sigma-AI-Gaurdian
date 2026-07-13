@@ -1,3 +1,13 @@
+"""Backend Windows để chặn input bằng Win32 `BlockInput`.
+
+File path: `src/utils/input_blocker/window.py`
+Input: `block()` và `unblock()` không nhận tham số.
+Output: Windows bật/tắt trạng thái chặn input toàn hệ thống.
+
+Nguyên lý hoạt động: gọi `user32.BlockInput(True/False)` qua `ctypes`. API này
+thường yêu cầu quyền admin và có thể fail nếu process không đủ quyền.
+"""
+
 import ctypes
 from ctypes import wintypes
 
@@ -13,8 +23,12 @@ def _set_block_state(is_blocked: bool) -> None:
 
 
 def block() -> None:
+    """Yêu cầu Windows chặn input người dùng."""
+
     _set_block_state(True)
 
 
 def unblock() -> None:
+    """Yêu cầu Windows mở chặn input người dùng."""
+
     _set_block_state(False)

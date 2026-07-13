@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+"""Ghi các giá trị clipboard mới vào một file text.
+
+File path: `scripts/record_clip_board.py`
+Input: một đối số CLI `<output_file>` là file sẽ được append.
+Output: mỗi nội dung clipboard mới, khác giá trị trước đó, được ghi thành một dòng.
+
+Nguyên lý hoạt động: script poll clipboard bằng `pyperclip` mỗi 0.3 giây. Đây là
+tool hỗ trợ tạo dữ liệu train thủ công, không phải module runtime của ứng dụng.
+"""
 
 import sys
 import time

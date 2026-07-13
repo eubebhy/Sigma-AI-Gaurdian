@@ -1,3 +1,18 @@
+"""Chuẩn hoá văn bản bị che giấu trước khi phân loại nội dung.
+
+File path: `src/content_classifier/clean_obfuscate_text.py`
+Input: chuỗi text gốc lấy từ web, OCR, clipboard hoặc nguồn giám sát khác.
+Output: chuỗi text đã chuẩn hoá để rule-based và local classifier dễ so khớp.
+
+Nguyên lý hoạt động:
+- Chuẩn hoá Unicode và loại ký tự zero-width.
+- Đổi các ký tự dễ gây nhầm lẫn, leet-speak và lỗi OCR phổ biến về dạng gần đúng.
+- Ghép lại từ bị tách bằng dấu phân cách hoặc khoảng trắng khi từ đó nằm trong
+  nhóm từ nhạy cảm đã biết.
+- Không dịch toàn bộ ngôn ngữ hoặc dựng lại layout bàn phím; module này chỉ giảm
+  các kiểu né lọc đơn giản trước khi classifier chạy.
+"""
+
 import re
 import unicodedata
 
@@ -199,6 +214,8 @@ def _soft_token_normalize(token: str) -> str:
 
 
 def _join_separator_split_words(text: str) -> str:
+    """Ghép các token bị chèn dấu như `h-e-n-t-a-i` thành một từ."""
+
     pattern = (
         rf"(?<![^\W_])"
         rf"(?:[^\W_][{re.escape(SEP_CHARS)}])+[^\W_]"
@@ -213,6 +230,8 @@ def _join_separator_split_words(text: str) -> str:
 
 
 def _join_space_split_words(text: str) -> str:
+    """Ghép từ bị tách từng ký tự bằng khoảng trắng nếu thuộc danh sách cần bắt."""
+
     pattern = r"(?<![^\W_])(?:[^\W_]\s+){2,}[^\W_](?![^\W_])"
 
     def repl(match: re.Match[str]) -> str:
@@ -229,6 +248,8 @@ def _join_space_split_words(text: str) -> str:
 
 
 def _replace_separator_between_words(text: str) -> str:
+    """Đổi dấu phân cách giữa hai từ thành nối liền hoặc khoảng trắng phù hợp."""
+
     pattern = (
         r"([^\W_]+)"
         r"(_ |- |\. |/ |\\ |-|_|\.|/|\\)"
@@ -260,6 +281,8 @@ def _replace_separator_between_words(text: str) -> str:
 
 
 def _normalize_obfuscated_tokens(text: str) -> str:
+    """Chuẩn hoá từng token nếu token đó là biến thể của từ nhạy cảm đã biết."""
+
     def repl(match: re.Match[str]) -> str:
         raw = match.group(0)
         canonical = _soft_token_normalize(raw).lower()
@@ -277,6 +300,8 @@ def _collapse_spaces(text: str) -> str:
 
 
 def clean_text(text: str) -> str:
+    """Trả về text đã giảm obfuscation để các classifier phía sau xử lý."""
+
     text = _normalize_unicode(text)
     text = _join_separator_split_words(text)
     text = _join_space_split_words(text)
